@@ -1,0 +1,79 @@
+{
+  "id": 1293135323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19954,22.23655,114.19954,22.23655",
+    "geom:latitude":22.23655,
+    "geom:longitude":114.19954,
+    "gn:admin1_code":"HSO",
+    "gn:asciiname":"Repulse Bay",
+    "gn:country_code":"HK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818480,
+    "gn:latitude":22.23655,
+    "gn:longitude":114.19954,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Repulse Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsin Shui Wan",
+        "Repulse Bay",
+        "Qianshui Wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6dfa\u6c34\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u6d45\u6c34\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671789,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818480,
+        "wk:page":"Repulse_Bay"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ce25a4b5f2981d458363680df715aec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293135323,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":1293135323,
+    "wof:lastmodified":1537625499,
+    "wof:name":"Repulse Bay",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19953999999998,
+    22.23655,
+    114.19953999999998,
+    22.23655
+],
+  "geometry": {"coordinates":[114.19953999999998,22.23655],"type":"Point"}
+}

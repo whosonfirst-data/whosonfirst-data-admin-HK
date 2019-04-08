@@ -1,0 +1,76 @@
+{
+  "id": 1209829885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.31076,22.44971,114.31076,22.44971",
+    "geom:latitude":22.44971,
+    "geom:longitude":114.31076,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Nam Shan Tung",
+    "gn:country_code":"HK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819297,
+    "gn:latitude":22.44971,
+    "gn:longitude":114.31076,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nam Shan Tung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Shan",
+        "Nam Shan Tung",
+        "Nanshan",
+        "Nanshandong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5c71\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819297
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"35463ef98ed34e246e142e3586943720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1209829885,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1209829885,
+    "wof:lastmodified":1537625526,
+    "wof:name":"Nam Shan Tung",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.31076000000002,
+    22.44971,
+    114.31076000000002,
+    22.44971
+],
+  "geometry": {"coordinates":[114.31076000000002,22.44971],"type":"Point"}
+}

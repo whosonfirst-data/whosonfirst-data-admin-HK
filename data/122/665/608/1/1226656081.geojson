@@ -1,0 +1,78 @@
+{
+  "id": 1226656081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.97817,22.24597,113.97817,22.24597",
+    "geom:latitude":22.24597,
+    "geom:longitude":113.97817,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Pui O",
+    "gn:country_code":"HK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819072,
+    "gn:latitude":22.24597,
+    "gn:longitude":113.97817,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pui O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Tsun",
+        "Pui O Kau Tsuen",
+        "Pui O San Tsuen",
+        "Pui O",
+        "Bei Ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u6fb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819072,
+        "wk:page":"Pui_O"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8d4e9850ded23493d7d1d7d1aa648d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226656081,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1226656081,
+    "wof:lastmodified":1537625519,
+    "wof:name":"Pui O",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.97817,
+    22.24597,
+    113.97817,
+    22.24597
+],
+  "geometry": {"coordinates":[113.97817000000001,22.24597],"type":"Point"}
+}

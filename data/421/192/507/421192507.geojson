@@ -1,0 +1,124 @@
+{
+  "id": 421192507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18333,22.38333,114.18333,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":114.18333,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u9285\u947c\u7063"
+    ],
+    "name:dut_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:fin_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:fre_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9285\u947c\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\uc988\uc6e8\uc774 \ubca0\uc774"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0443\u044d\u0439-\u0411\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Tung Lo Wan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb5\u0bc1\u0b9a\u0bb5\u0bc7 \u0b95\u0bc1\u0b9f\u0bbe"
+    ],
+    "name:unk_x_variant":[
+        "Tung Lo Wan"
+    ],
+    "name:yue_x_preferred":[
+        "\u9285\u947c\u7063"
+    ],
+    "name:zho_x_preferred":[
+        "\u9285\u947c\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u94dc\u9523\u6e7e"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818429,
+    "qs:gn_pop":0,
+    "qs:name":"\u9285\u947c\u7063",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168322,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165218,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818429,
+        "gp:id":2165218,
+        "qs:id":1168322,
+        "wd:id":"Q564732"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009739,
+    "wof:geomhash":"729bcd2233c807efa0d81736e07c7027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":-1,
+            "neighbourhood_id":421192507,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":421192507,
+    "wof:lastmodified":1533246654,
+    "wof:name":"\u9285\u947c\u7063",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18333,
+    22.38333,
+    114.18333,
+    22.38333
+],
+  "geometry": {"coordinates":[114.18333,22.38333],"type":"Point"}
+}

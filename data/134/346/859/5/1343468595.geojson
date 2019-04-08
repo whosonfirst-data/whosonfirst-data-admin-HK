@@ -1,0 +1,76 @@
+{
+  "id": 1343468595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.11447,22.47878,114.11447,22.47878",
+    "geom:latitude":22.47878,
+    "geom:longitude":114.11447,
+    "gn:admin1_code":"HCW",
+    "gn:asciiname":"Lin Tong Mei Tsoi Yuen",
+    "gn:country_code":"HK",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819500,
+    "gn:latitude":22.47878,
+    "gn:longitude":114.11447,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Lin Tong Mei Tsoi Yuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liantangwei Caiwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ee\u5858\u5c3e\u83dc\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u83b2\u5858\u5c3e\u83dc\u56f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819500
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"2672385b5407494441236a478570b74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1343468595,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1343468595,
+    "wof:lastmodified":1537625535,
+    "wof:name":"Lin Tong Mei Tsoi Yuen",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.11447,
+    22.47878,
+    114.11447,
+    22.47878
+],
+  "geometry": {"coordinates":[114.11447,22.47878],"type":"Point"}
+}

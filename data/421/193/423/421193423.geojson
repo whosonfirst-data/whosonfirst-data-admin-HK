@@ -1,0 +1,92 @@
+{
+  "id": 421193423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16667,22.4,114.16667,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":114.16667,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Wong Chuk Yeung"
+    ],
+    "name:eng_x_preferred":[
+        "Wong Chuk Yeung"
+    ],
+    "name:unk_x_variant":[
+        "Wong Chuk Yeung"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec3\u7af9\u6d0b"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u7af9\u6d0b"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818326,
+    "qs:gn_pop":0,
+    "qs:name":"\u9ec3\u7af9\u694a",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":308,
+    "qs:photos_1k":62,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":308,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894779,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165281,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671827,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818326,
+        "gp:id":2165281,
+        "qs:id":894779,
+        "wd:id":"Q15043770"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009770,
+    "wof:geomhash":"2660f9b2f63784ab8aff8b9117b269b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421193423,
+            "macroregion_id":1159397229,
+            "region_id":85671827
+        }
+    ],
+    "wof:id":421193423,
+    "wof:lastmodified":1553816381,
+    "wof:name":"\u9ec3\u7af9\u694a",
+    "wof:parent_id":85671827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16667,
+    22.4,
+    114.16667,
+    22.4
+],
+  "geometry": {"coordinates":[114.16667,22.4],"type":"Point"}
+}

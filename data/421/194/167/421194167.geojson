@@ -1,0 +1,81 @@
+{
+  "id": 421194167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.0,22.23333,114.0,22.23333",
+    "geom:latitude":22.23333,
+    "geom:longitude":114.0,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Chung Hau"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d8c\u53e3"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819921,
+    "qs:gn_pop":0,
+    "qs:name":"\u677e\u4faf",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u96e2\u5cf6",
+    "qs:photos":297,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":297,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1028942,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165426,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819921,
+        "gp:id":2165426,
+        "qs:id":1028942
+    },
+    "wof:country":"HK",
+    "wof:created":1459009796,
+    "wof:geomhash":"4ee0571d1fd369bcfe8fc0b1428a6ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421194167,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":421194167,
+    "wof:lastmodified":1532376975,
+    "wof:name":"\u677e\u4faf",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0,
+    22.23333,
+    114.0,
+    22.23333
+],
+  "geometry": {"coordinates":[114.0,22.23333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226452325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.25077,22.49046,114.25077,22.49046",
+    "geom:latitude":22.49046,
+    "geom:longitude":114.25077,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Nai Tong Kok",
+    "gn:country_code":"HK",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819325,
+    "gn:latitude":22.49046,
+    "gn:longitude":114.25077,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nai Tong Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nitangjiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce5\u5858\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819325
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"4adbbf53d1e8dc727ba8847c2e099b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226452325,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1226452325,
+    "wof:lastmodified":1537625527,
+    "wof:name":"Nai Tong Kok",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.25077,
+    22.49046,
+    114.25077,
+    22.49046
+],
+  "geometry": {"coordinates":[114.25077,22.49046],"type":"Point"}
+}

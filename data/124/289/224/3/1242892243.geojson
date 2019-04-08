@@ -1,0 +1,73 @@
+{
+  "id": 1242892243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99684,22.44052,113.99684,22.44052",
+    "geom:latitude":22.44052,
+    "geom:longitude":113.99684,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Shek Po Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818874,
+    "gn:latitude":22.44052,
+    "gn:longitude":113.99684,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shek Po Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shibucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u57d7\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818874
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e73da9e1c8e472852734da46f8454121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1242892243,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1242892243,
+    "wof:lastmodified":1537625512,
+    "wof:name":"Shek Po Tsuen",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99684,
+    22.44052000000001,
+    113.99684,
+    22.44052000000001
+],
+  "geometry": {"coordinates":[113.99684000000001,22.44052000000001],"type":"Point"}
+}

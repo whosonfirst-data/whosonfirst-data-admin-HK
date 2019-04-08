@@ -1,0 +1,76 @@
+{
+  "id": 1226360513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.07288,22.49842,114.07288,22.49842",
+    "geom:latitude":22.49842,
+    "geom:longitude":114.07288,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"San Lung Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819005,
+    "gn:latitude":22.49842,
+    "gn:longitude":114.07288,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"San Lung Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xinlong Cun"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u9f8d\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u9f99\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819005
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d249b3ee24649c7d5c6e38f0ca3b09cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226360513,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1226360513,
+    "wof:lastmodified":1537625518,
+    "wof:name":"San Lung Tsuen",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.07288,
+    22.49842,
+    114.07288,
+    22.49842
+],
+  "geometry": {"coordinates":[114.07288,22.49842],"type":"Point"}
+}

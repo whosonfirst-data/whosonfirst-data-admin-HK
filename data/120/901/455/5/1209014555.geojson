@@ -1,0 +1,67 @@
+{
+  "id": 1209014555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19687,22.53033,114.19687,22.53033",
+    "geom:latitude":22.53033,
+    "geom:longitude":114.19687,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Wo Hang Tai Long",
+    "gn:country_code":"HK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818348,
+    "gn:latitude":22.53033,
+    "gn:longitude":114.19687,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wo Hang Tai Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hekeng Dalang"
+    ],
+    "name:zho_x_preferred":[
+        "\u79be\u5751\u5927\u6717"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818348
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ac844512e85524202327a4939250e3f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209014555
+        }
+    ],
+    "wof:id":1209014555,
+    "wof:lastmodified":1537625494,
+    "wof:name":"Wo Hang Tai Long",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19687,
+    22.53033,
+    114.19687,
+    22.53033
+],
+  "geometry": {"coordinates":[114.19687,22.53033],"type":"Point"}
+}

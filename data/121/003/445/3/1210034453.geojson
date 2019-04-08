@@ -1,0 +1,76 @@
+{
+  "id": 1210034453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.93253,22.26879,113.93253,22.26879",
+    "geom:latitude":22.26879,
+    "geom:longitude":113.93253,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Shek Mun Kap",
+    "gn:country_code":"HK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818887,
+    "gn:latitude":22.26879,
+    "gn:longitude":113.93253,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shek Mun Kap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shimenjia"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u9580\u7532"
+    ],
+    "name:zho_x_variant":[
+        "\u77f3\u95e8\u7532"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818887
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"a327a096ad954e2108175b396298cadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1210034453,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1210034453,
+    "wof:lastmodified":1537625512,
+    "wof:name":"Shek Mun Kap",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.93253,
+    22.26879,
+    113.93253,
+    22.26879
+],
+  "geometry": {"coordinates":[113.93253,22.26879],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259693839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1131,22.2231,114.1131,22.2231",
+    "geom:latitude":22.2231,
+    "geom:longitude":114.1131,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Wang Long",
+    "gn:country_code":"HK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818369,
+    "gn:latitude":22.2231,
+    "gn:longitude":114.1131,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wang Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Henglang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a6b\u5871"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818369
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"b8f7517ea5561d8afbf57b081fcbce42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1259693839,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1259693839,
+    "wof:lastmodified":1537625495,
+    "wof:name":"Wang Long",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1131,
+    22.2231,
+    114.1131,
+    22.2231
+],
+  "geometry": {"coordinates":[114.1131,22.2231],"type":"Point"}
+}

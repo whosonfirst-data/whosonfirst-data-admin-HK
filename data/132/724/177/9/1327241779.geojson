@@ -1,0 +1,76 @@
+{
+  "id": 1327241779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.3325,22.37704,114.3325,22.37704",
+    "geom:latitude":22.37704,
+    "geom:longitude":114.3325,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Nam Fung Wan",
+    "gn:country_code":"HK",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819311,
+    "gn:latitude":22.37704,
+    "gn:longitude":114.3325,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nam Fung Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanfengwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u98a8\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u98ce\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819311
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"5b6e152e06c692001633680d9d97c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1327241779,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1327241779,
+    "wof:lastmodified":1537625527,
+    "wof:name":"Nam Fung Wan",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.3325,
+    22.37704,
+    114.3325,
+    22.37704
+],
+  "geometry": {"coordinates":[114.3325,22.37704],"type":"Point"}
+}

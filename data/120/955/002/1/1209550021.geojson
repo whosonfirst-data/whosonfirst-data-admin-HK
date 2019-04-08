@@ -1,0 +1,70 @@
+{
+  "id": 1209550021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21256,22.38174,114.21256,22.38174",
+    "geom:latitude":22.38174,
+    "geom:longitude":114.21256,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Siu Lek Yuen",
+    "gn:country_code":"HK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818781,
+    "gn:latitude":22.38174,
+    "gn:longitude":114.21256,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Siu Lek Yuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siu Lik Yuen",
+        "Siu Lek Yuen",
+        "Xiaoliyuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u701d\u6e90"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818781,
+        "wk:page":"Siu_Lek_Yuen"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"0fc8fc01e514869a4e8d7e5ffebec7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209550021
+        }
+    ],
+    "wof:id":1209550021,
+    "wof:lastmodified":1537625508,
+    "wof:name":"Siu Lek Yuen",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21256,
+    22.38174,
+    114.21256,
+    22.38174
+],
+  "geometry": {"coordinates":[114.21256,22.38174],"type":"Point"}
+}

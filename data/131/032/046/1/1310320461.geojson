@@ -1,0 +1,67 @@
+{
+  "id": 1310320461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21833,22.28364,114.21833,22.28364",
+    "geom:latitude":22.28364,
+    "geom:longitude":114.21833,
+    "gn:admin1_code":"HEA",
+    "gn:asciiname":"Island East",
+    "gn:country_code":"HK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8223929,
+    "gn:latitude":22.28364,
+    "gn:longitude":114.21833,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Island East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671785,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8223929
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"b76b9c9dae8d74e156d0f4ef5754db75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310320461,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":1310320461,
+    "wof:lastmodified":1536686281,
+    "wof:name":"Island East",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21833,
+    22.28364,
+    114.21833,
+    22.28364
+],
+  "geometry": {"coordinates":[114.21832999999999,22.28364],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421186361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.98583,22.4188,113.98583,22.4188",
+    "geom:latitude":22.4188,
+    "geom:longitude":113.98583,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u85cd\u5730"
+    ],
+    "name:eng_x_preferred":[
+        "Lam Tei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u85cd\u5730"
+    ],
+    "name:unk_x_variant":[
+        "Landi"
+    ],
+    "name:yue_x_preferred":[
+        "\u85cd\u5730"
+    ],
+    "name:zho_x_preferred":[
+        "\u85cd\u5730"
+    ],
+    "name:zho_x_variant":[
+        "\u84dd\u5730"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819555,
+    "qs:gn_pop":0,
+    "qs:name":"\u85cd\u5730",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u4e5d\u9f8d",
+    "qs:photos":741,
+    "qs:photos_1k":150,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":741,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1064608,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164538,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671831,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819555,
+        "gp:id":2164538,
+        "qs:id":1064608,
+        "wd:id":"Q6480699"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009478,
+    "wof:geomhash":"9e186b6418df03f0d43c3845c056d9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421186361,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":421186361,
+    "wof:lastmodified":1532377000,
+    "wof:name":"\u85cd\u5730",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.98583,
+    22.4188,
+    113.98583,
+    22.4188
+],
+  "geometry": {"coordinates":[113.98583000000001,22.4188],"type":"Point"}
+}

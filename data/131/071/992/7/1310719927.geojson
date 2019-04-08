@@ -1,0 +1,67 @@
+{
+  "id": 1310719927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.26677,22.38127,114.26677,22.38127",
+    "geom:latitude":22.38127,
+    "geom:longitude":114.26677,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Tsiu Lung",
+    "gn:country_code":"HK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818471,
+    "gn:latitude":22.38127,
+    "gn:longitude":114.26677,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tsiu Lung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818471
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e1f214f33817219b4ad6627b1b9531af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310719927,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1310719927,
+    "wof:lastmodified":1536604608,
+    "wof:name":"Tsiu Lung",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.26677,
+    22.38127,
+    114.26677,
+    22.38127
+],
+  "geometry": {"coordinates":[114.26676999999999,22.38127],"type":"Point"}
+}

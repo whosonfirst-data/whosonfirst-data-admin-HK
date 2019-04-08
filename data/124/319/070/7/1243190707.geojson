@@ -1,0 +1,78 @@
+{
+  "id": 1243190707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.26139,22.32358,114.26139,22.32358",
+    "geom:latitude":22.32358,
+    "geom:longitude":114.26139,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Ap Tsai Wan",
+    "gn:country_code":"HK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820034,
+    "gn:latitude":22.32358,
+    "gn:longitude":114.26139,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ap Tsai Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ap Chai Wan",
+        "Ap Tsai Wan",
+        "Yazaiwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9d28\u4ed4\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u9e2d\u4ed4\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820034
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"44caa50ca7d81a4f8bc2988530c60d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243190707,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1243190707,
+    "wof:lastmodified":1537625553,
+    "wof:name":"Ap Tsai Wan",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.26139,
+    22.32358,
+    114.26139,
+    22.32358
+],
+  "geometry": {"coordinates":[114.26139000000001,22.32358],"type":"Point"}
+}

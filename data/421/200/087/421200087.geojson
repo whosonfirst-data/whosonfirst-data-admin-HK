@@ -1,0 +1,89 @@
+{
+  "id": 421200087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.16014,22.2842,114.16014,22.2842",
+    "geom:latitude":22.2842,
+    "geom:longitude":114.16014,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Admiralty"
+    ],
+    "name:eng_x_preferred":[
+        "Admiralty"
+    ],
+    "name:fra_x_preferred":[
+        "Admiralty"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u9418"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8223931,
+    "qs:gn_pop":0,
+    "qs:name":"\u91d1\u9418",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":206312,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":24703176,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        136253041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8223931,
+        "gp:id":24703176,
+        "qs:id":206312,
+        "wd:id":"Q3270129",
+        "wk:page":"Admiralty, Hong Kong"
+    },
+    "wof:country":"HK",
+    "wof:created":1459010011,
+    "wof:geomhash":"fadcde161162f42b7972538a1fb31d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "empire_id":136253041,
+            "locality_id":-1,
+            "neighbourhood_id":421200087,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421200087,
+    "wof:lastmodified":1533246657,
+    "wof:name":"\u91d1\u9418",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16014,
+    22.2842,
+    114.16014,
+    22.2842
+],
+  "geometry": {"coordinates":[114.16014,22.2842],"type":"Point"}
+}

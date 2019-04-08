@@ -1,0 +1,68 @@
+{
+  "id": 1309915739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20093,22.40135,114.20093,22.40135",
+    "geom:latitude":22.40135,
+    "geom:longitude":114.20093,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Ho Tung Lau",
+    "gn:country_code":"HK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819720,
+    "gn:latitude":22.40135,
+    "gn:longitude":114.20093,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ho Tung Lau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819720,
+        "wk:page":"Ho_Tung_Lau"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"bdf5ec422ad74e2e1cd02d1414c2f4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309915739,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1309915739,
+    "wof:lastmodified":1537563248,
+    "wof:name":"Ho Tung Lau",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20093,
+    22.40135,
+    114.20093,
+    22.40135
+],
+  "geometry": {"coordinates":[114.20093,22.40135],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1292918005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.93672,22.2863,113.93672,22.2863",
+    "geom:latitude":22.2863,
+    "geom:longitude":113.93672,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Ma Wan Chung",
+    "gn:country_code":"HK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819372,
+    "gn:latitude":22.2863,
+    "gn:longitude":113.93672,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ma Wan Chung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawanchong"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7063\u6d8c"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u6e7e\u6d8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819372
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"9f7e95f2faf44d413bc8a7446e2fb918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1292918005,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1292918005,
+    "wof:lastmodified":1537625529,
+    "wof:name":"Ma Wan Chung",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.93672,
+    22.2863,
+    113.93672,
+    22.2863
+],
+  "geometry": {"coordinates":[113.93671999999999,22.2863],"type":"Point"}
+}

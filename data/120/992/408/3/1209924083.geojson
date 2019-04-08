@@ -1,0 +1,73 @@
+{
+  "id": 1209924083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99603,22.26841,113.99603,22.26841",
+    "geom:latitude":22.26841,
+    "geom:longitude":113.99603,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Chung Hau",
+    "gn:country_code":"HK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819920,
+    "gn:latitude":22.26841,
+    "gn:longitude":113.99603,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Chung Hau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chongkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d8c\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819920
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"977af45baef3c4d95a61b09168f891ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1209924083,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1209924083,
+    "wof:lastmodified":1537625549,
+    "wof:name":"Chung Hau",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99603,
+    22.26841,
+    113.99603,
+    22.26841
+],
+  "geometry": {"coordinates":[113.99603,22.26841],"type":"Point"}
+}

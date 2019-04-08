@@ -1,0 +1,76 @@
+{
+  "id": 1276991125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15129,22.53944,114.15129,22.53944",
+    "geom:latitude":22.53944,
+    "geom:longitude":114.15129,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Kan Tau Wai",
+    "gn:country_code":"HK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819680,
+    "gn:latitude":22.53944,
+    "gn:longitude":114.15129,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kan Tau Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiantou Cun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c21\u982d\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u7b80\u5934\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819680
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"2ca043bcb313dd2d35e714eed3811171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1276991125,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1276991125,
+    "wof:lastmodified":1537625541,
+    "wof:name":"Kan Tau Wai",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15129,
+    22.53944,
+    114.15129,
+    22.53944
+],
+  "geometry": {"coordinates":[114.15129,22.53944],"type":"Point"}
+}

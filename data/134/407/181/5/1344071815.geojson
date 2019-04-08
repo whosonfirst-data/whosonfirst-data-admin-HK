@@ -1,0 +1,76 @@
+{
+  "id": 1344071815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.06208,22.48092,114.06208,22.48092",
+    "geom:latitude":22.48092,
+    "geom:longitude":114.06208,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Wai Tsai",
+    "gn:country_code":"HK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818381,
+    "gn:latitude":22.48092,
+    "gn:longitude":114.06208,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wai Tsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weizai"
+    ],
+    "name:zho_x_preferred":[
+        "\u570d\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "\u56f4\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818381
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8d668847468b8f35fd5a140f333c5a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1344071815,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1344071815,
+    "wof:lastmodified":1537625495,
+    "wof:name":"Wai Tsai",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.06208,
+    22.48092,
+    114.06208,
+    22.48092
+],
+  "geometry": {"coordinates":[114.06207999999999,22.48092],"type":"Point"}
+}

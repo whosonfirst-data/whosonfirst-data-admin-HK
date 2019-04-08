@@ -1,0 +1,76 @@
+{
+  "id": 1343280095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.06434,22.44073,114.06434,22.44073",
+    "geom:latitude":22.44073,
+    "geom:longitude":114.06434,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Tai Hong Wai",
+    "gn:country_code":"HK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818727,
+    "gn:latitude":22.44073,
+    "gn:longitude":114.06434,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tai Hong Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taikangwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u5eb7\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u6cf0\u5eb7\u56f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818727
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c7d4cddf8ca58841f420dc2c06cfd4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1343280095,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1343280095,
+    "wof:lastmodified":1537625507,
+    "wof:name":"Tai Hong Wai",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.06434,
+    22.44073,
+    114.06434,
+    22.44073
+],
+  "geometry": {"coordinates":[114.06434,22.44073],"type":"Point"}
+}

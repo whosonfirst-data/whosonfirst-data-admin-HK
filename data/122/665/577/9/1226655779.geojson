@@ -1,0 +1,76 @@
+{
+  "id": 1226655779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1067,22.35112,114.1067,22.35112",
+    "geom:latitude":22.35112,
+    "geom:longitude":114.1067,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ha Ko Tan",
+    "gn:country_code":"HK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819806,
+    "gn:latitude":22.35112,
+    "gn:longitude":114.1067,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ha Ko Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiagaotan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9ad8\u7058"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u9ad8\u6ee9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671823,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819806
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"5a57275066818e1c3ac94d8a4c978af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226655779,
+            "macroregion_id":1159397229,
+            "region_id":85671823
+        }
+    ],
+    "wof:id":1226655779,
+    "wof:lastmodified":1537625546,
+    "wof:name":"Ha Ko Tan",
+    "wof:parent_id":85671823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1067,
+    22.35112,
+    114.1067,
+    22.35112
+],
+  "geometry": {"coordinates":[114.1067,22.35112],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421194841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.289569,22.294917,114.289569,22.294917",
+    "geom:latitude":22.294917,
+    "geom:longitude":114.289569,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:swe_x_preferred":[
+        "Clear Water Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u6c34\u7063"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u6e05\u6c34\u7063"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Clearwater Bay",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":340,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":340,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8916,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":56042319,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042319,
+        "qs:id":8916,
+        "wd:id":"Q5130793"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009821,
+    "wof:geomhash":"8be4c30890740c5c0e7d858ffa3c8d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421194841,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":421194841,
+    "wof:lastmodified":1532376992,
+    "wof:name":"Clearwater Bay",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.289569,
+    22.294917,
+    114.289569,
+    22.294917
+],
+  "geometry": {"coordinates":[114.289569,22.294917],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243082489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1266,22.4959,114.1266,22.4959",
+    "geom:latitude":22.4959,
+    "geom:longitude":114.1266,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Ng Uk Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819220,
+    "gn:latitude":22.4959,
+    "gn:longitude":114.1266,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ng Uk Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuwu Cun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5433\u5c4b\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u5434\u5c4b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819220
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"fbd1c369206ff94dd80bc3741c3dc58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243082489,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1243082489,
+    "wof:lastmodified":1537625523,
+    "wof:name":"Ng Uk Tsuen",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1266,
+    22.4959,
+    114.1266,
+    22.4959
+],
+  "geometry": {"coordinates":[114.1266,22.4959],"type":"Point"}
+}

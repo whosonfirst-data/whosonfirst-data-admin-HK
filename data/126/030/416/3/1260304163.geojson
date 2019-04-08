@@ -1,0 +1,73 @@
+{
+  "id": 1260304163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.88478,22.24917,113.88478,22.24917",
+    "geom:latitude":22.24917,
+    "geom:longitude":113.88478,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Upper Keung Shan",
+    "gn:country_code":"HK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818397,
+    "gn:latitude":22.24917,
+    "gn:longitude":113.88478,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Upper Keung Shan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangqiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u7f97"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818397
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"0bbe8787e20a288709efe235a935e98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1260304163,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1260304163,
+    "wof:lastmodified":1537625495,
+    "wof:name":"Upper Keung Shan",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.88478,
+    22.24917,
+    113.88478,
+    22.24917
+],
+  "geometry": {"coordinates":[113.88478000000001,22.24917],"type":"Point"}
+}

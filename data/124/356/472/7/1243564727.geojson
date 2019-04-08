@@ -1,0 +1,76 @@
+{
+  "id": 1243564727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16071,22.45727,114.16071,22.45727",
+    "geom:latitude":22.45727,
+    "geom:longitude":114.16071,
+    "gn:admin1_code":"HCW",
+    "gn:asciiname":"Ying Pun Ha",
+    "gn:country_code":"HK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818247,
+    "gn:latitude":22.45727,
+    "gn:longitude":114.16071,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ying Pun Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yingpanxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u71df\u76e4\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "\u8425\u76d8\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818247
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"cffa993fd2d5951a426456e73f090e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243564727,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1243564727,
+    "wof:lastmodified":1537625489,
+    "wof:name":"Ying Pun Ha",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16071,
+    22.45727,
+    114.16071,
+    22.45727
+],
+  "geometry": {"coordinates":[114.16070999999999,22.45727],"type":"Point"}
+}

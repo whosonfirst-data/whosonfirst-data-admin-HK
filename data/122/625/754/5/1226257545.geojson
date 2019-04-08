@@ -1,0 +1,77 @@
+{
+  "id": 1226257545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1462,22.50383,114.1462,22.50383",
+    "geom:latitude":22.50383,
+    "geom:longitude":114.1462,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Lung Yeuk Tau",
+    "gn:country_code":"HK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1819428,
+    "gn:latitude":22.50383,
+    "gn:longitude":114.1462,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lung Yeuk Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longyue Tou"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u8e8d\u982d"
+    ],
+    "name:zho_x_variant":[
+        "\u9f99\u8dc3\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819428,
+        "wk:page":"Lung_Yeuk_Tau"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c13a6bcfe66f609a19d5f9de6281c6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226257545,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1226257545,
+    "wof:lastmodified":1537625532,
+    "wof:name":"Lung Yeuk Tau",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1462,
+    22.50383,
+    114.1462,
+    22.50383
+],
+  "geometry": {"coordinates":[114.14619999999999,22.50383],"type":"Point"}
+}

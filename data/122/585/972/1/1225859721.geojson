@@ -1,0 +1,73 @@
+{
+  "id": 1225859721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18058,22.51011,114.18058,22.51011",
+    "geom:latitude":22.51011,
+    "geom:longitude":114.18058,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Tan Chuk Hang",
+    "gn:country_code":"HK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818602,
+    "gn:latitude":22.51011,
+    "gn:longitude":114.18058,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tan Chuk Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danzhukeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u7af9\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818602
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1804366eb5ddb951693ffc207f8d67b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1225859721,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1225859721,
+    "wof:lastmodified":1537625503,
+    "wof:name":"Tan Chuk Hang",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18058,
+    22.51011,
+    114.18058,
+    22.51011
+],
+  "geometry": {"coordinates":[114.18058000000001,22.51011],"type":"Point"}
+}

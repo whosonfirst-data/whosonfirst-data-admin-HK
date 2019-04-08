@@ -1,0 +1,74 @@
+{
+  "id": 1243098523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17258,22.28142,114.17258,22.28142",
+    "geom:latitude":22.28142,
+    "geom:longitude":114.17258,
+    "gn:admin1_code":"HWC",
+    "gn:asciiname":"Wan Chai",
+    "gn:country_code":"HK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1818379,
+    "gn:latitude":22.28142,
+    "gn:longitude":114.17258,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Wan Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wanchai"
+    ],
+    "name:zho_x_preferred":[
+        "\u7063\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671779,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818379,
+        "wk:page":"Wan_Chai"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1e55b99d4b7bff877fa9f1a6677f80d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243098523,
+            "macroregion_id":1159397233,
+            "region_id":85671779
+        }
+    ],
+    "wof:id":1243098523,
+    "wof:lastmodified":1537625495,
+    "wof:name":"Wan Chai",
+    "wof:parent_id":85671779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17258,
+    22.28142,
+    114.17258,
+    22.28142
+],
+  "geometry": {"coordinates":[114.17258,22.28142],"type":"Point"}
+}

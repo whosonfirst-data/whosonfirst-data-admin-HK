@@ -1,0 +1,73 @@
+{
+  "id": 1309920541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.96482,22.39981,113.96482,22.39981",
+    "geom:latitude":22.39981,
+    "geom:longitude":113.96482,
+    "gn:admin1_code":"NTM",
+    "gn:asciiname":"Ho Tin",
+    "gn:country_code":"HK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819721,
+    "gn:latitude":22.39981,
+    "gn:longitude":113.96482,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ho Tin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hetian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671831,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819721
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1ee1d85bdefd2631576ee8631216b878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309920541,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":1309920541,
+    "wof:lastmodified":1537625543,
+    "wof:name":"Ho Tin",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.96482,
+    22.39981,
+    113.96482,
+    22.39981
+],
+  "geometry": {"coordinates":[113.96482,22.39981],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260304081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19587,22.39952,114.19587,22.39952",
+    "geom:latitude":22.39952,
+    "geom:longitude":114.19587,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Tsung Tau Ha",
+    "gn:country_code":"HK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818456,
+    "gn:latitude":22.39952,
+    "gn:longitude":114.19587,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tsung Tau Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songtouxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u982d\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u5934\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818456
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"abbedb34d675f63ec1069e4ab58a04bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1260304081,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1260304081,
+    "wof:lastmodified":1537625497,
+    "wof:name":"Tsung Tau Ha",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19587,
+    22.39952000000001,
+    114.19587,
+    22.39952000000001
+],
+  "geometry": {"coordinates":[114.19587,22.39952000000001],"type":"Point"}
+}

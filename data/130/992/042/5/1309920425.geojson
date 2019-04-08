@@ -1,0 +1,76 @@
+{
+  "id": 1309920425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.07499,22.47498,114.07499,22.47498",
+    "geom:latitude":22.47498,
+    "geom:longitude":114.07499,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Ngau Tam Mei",
+    "gn:country_code":"HK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819249,
+    "gn:latitude":22.47498,
+    "gn:longitude":114.07499,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ngau Tam Mei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yau Tam Mei",
+        "Ngau Tam Mei",
+        "Niutanwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u6f6d\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819249,
+        "wk:page":"Ngau_Tam_Mei"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"647f324668b719ace0885f7ce6683510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309920425,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1309920425,
+    "wof:lastmodified":1537625524,
+    "wof:name":"Ngau Tam Mei",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.07499,
+    22.47498,
+    114.07499,
+    22.47498
+],
+  "geometry": {"coordinates":[114.07499,22.47498],"type":"Point"}
+}

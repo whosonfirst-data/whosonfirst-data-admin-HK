@@ -1,0 +1,76 @@
+{
+  "id": 1310619185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.09046,22.51327,114.09046,22.51327",
+    "geom:latitude":22.51327,
+    "geom:longitude":114.09046,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Tit Hang",
+    "gn:country_code":"HK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818555,
+    "gn:latitude":22.51327,
+    "gn:longitude":114.09046,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tit Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiekeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u9435\u5751"
+    ],
+    "name:zho_x_variant":[
+        "\u94c1\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818555
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"15c21a26cc386cee1fb44153fc1f8ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310619185,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1310619185,
+    "wof:lastmodified":1537625502,
+    "wof:name":"Tit Hang",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.09046,
+    22.51327,
+    114.09046,
+    22.51327
+],
+  "geometry": {"coordinates":[114.09045999999999,22.51327],"type":"Point"}
+}

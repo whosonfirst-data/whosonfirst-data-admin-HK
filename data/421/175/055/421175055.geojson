@@ -1,0 +1,99 @@
+{
+  "id": 421175055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2,22.4,114.2,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":114.2,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u706b\u70ad"
+    ],
+    "name:dut_x_preferred":[
+        "Fo Tan"
+    ],
+    "name:eng_x_preferred":[
+        "Fo Tan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u706b\u70ad"
+    ],
+    "name:unk_x_variant":[
+        "Fo Tan"
+    ],
+    "name:yue_x_preferred":[
+        "\u706b\u70ad"
+    ],
+    "name:zho_x_preferred":[
+        "\u706b\u70ad"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819855,
+    "qs:gn_pop":0,
+    "qs:name":"\u706b\u70ad",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":1847,
+    "qs:photos_1k":374,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1847,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":349403,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165376,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819855,
+        "gp:id":2165376,
+        "qs:id":349403,
+        "wd:id":"Q8425382",
+        "wk:page":"Fo Tan"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009053,
+    "wof:geomhash":"fc73709fcb37a860c29baee86c4dbdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421175055,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":421175055,
+    "wof:lastmodified":1532376965,
+    "wof:name":"\u706b\u70ad",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2,
+    22.4,
+    114.2,
+    22.4
+],
+  "geometry": {"coordinates":[114.2,22.4],"type":"Point"}
+}

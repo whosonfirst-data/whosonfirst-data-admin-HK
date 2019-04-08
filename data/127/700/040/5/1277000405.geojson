@@ -1,0 +1,67 @@
+{
+  "id": 1277000405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17001,22.23981,114.17001,22.23981",
+    "geom:latitude":22.23981,
+    "geom:longitude":114.17001,
+    "gn:admin1_code":"HSO",
+    "gn:asciiname":"Wong Chuk Hang",
+    "gn:country_code":"HK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9172583,
+    "gn:latitude":22.23981,
+    "gn:longitude":114.17001,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Wong Chuk Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671789,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9172583
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ab88265773f13a6b18e08336f6dc2167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1277000405,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":1277000405,
+    "wof:lastmodified":1536878805,
+    "wof:name":"Wong Chuk Hang",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17001,
+    22.23981,
+    114.17001,
+    22.23981
+],
+  "geometry": {"coordinates":[114.17001,22.23981],"type":"Point"}
+}

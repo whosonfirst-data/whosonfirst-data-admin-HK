@@ -1,0 +1,73 @@
+{
+  "id": 1343976059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.95,22.38333,113.95,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":113.95,
+    "gn:admin1_code":"NTM",
+    "gn:asciiname":"Shek Kok Tsui",
+    "gn:country_code":"HK",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818903,
+    "gn:latitude":22.38333,
+    "gn:longitude":113.95,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shek Kok Tsui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shijiaozui"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u89d2\u5480"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671831,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818903
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"3763a3fd4ab21924b3f3a7d4848c869d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1343976059,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":1343976059,
+    "wof:lastmodified":1537625513,
+    "wof:name":"Shek Kok Tsui",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.95,
+    22.38333,
+    113.95,
+    22.38333
+],
+  "geometry": {"coordinates":[113.95,22.38333],"type":"Point"}
+}

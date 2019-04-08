@@ -1,0 +1,73 @@
+{
+  "id": 1293215377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.26264,22.43021,114.26264,22.43021",
+    "geom:latitude":22.43021,
+    "geom:longitude":114.26264,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Che Ha",
+    "gn:country_code":"HK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819983,
+    "gn:latitude":22.43021,
+    "gn:longitude":114.26264,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Che Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shexia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f0b\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819983
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"4f0e1cd238c72d5c1273cd4f1682adf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293215377,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1293215377,
+    "wof:lastmodified":1537625551,
+    "wof:name":"Che Ha",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.26264,
+    22.43021,
+    114.26264,
+    22.43021
+],
+  "geometry": {"coordinates":[114.26264,22.43021],"type":"Point"}
+}

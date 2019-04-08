@@ -1,0 +1,114 @@
+{
+  "id": 421200885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.1,22.4,114.1,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":114.1,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Akutaqava R\u00fcnoske"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0443\u0442\u0430\u0433\u0430\u0432\u0430 \u0420\u0443\u043d\u043e\u0441\u043a\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043a\u0443\u0442\u0430\u0433\u0430\u0432\u0430 \u0420\u0443\u043d\u0430\u0441\u043a\u044d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u044e\u043d\u043e\u0441\u043a\u0435 \u0410\u043a\u0443\u0442\u0430\u0433\u0430\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ry\u016bnosuke Akutagawa"
+    ],
+    "name:ces_x_preferred":[
+        "Rj\u00fanosuke Akutagawa"
+    ],
+    "name:deu_x_preferred":[
+        "Akutagawa Ry\u016bnosuke"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03c5\u03bf\u03c5\u03bd\u03bf\u03c3\u03bf\u03cd\u03ba\u03b5 \u0391\u03ba\u03bf\u03c5\u03c4\u03b1\u03b3\u03ba\u03ac\u03b2\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Akutagawa Ryunosuke"
+    ],
+    "name:spa_x_preferred":[
+        "Ry\u016bnosuke Akutagawa"
+    ],
+    "name:unk_x_variant":[
+        "Chuen Lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ddd\u9f8d"
+    ],
+    "name:zho_x_variant":[
+        "\u5ddd\u9f99"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819929,
+    "qs:gn_pop":0,
+    "qs:name":"\u5ddd\u9f8d",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":486,
+    "qs:photos_1k":98,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":486,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898587,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164316,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671827,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819929,
+        "gp:id":2164316,
+        "qs:id":898587
+    },
+    "wof:country":"HK",
+    "wof:created":1459010045,
+    "wof:geomhash":"2372866e3a2e0530e3c664c8b7948b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421200885,
+            "macroregion_id":1159397229,
+            "region_id":85671827
+        }
+    ],
+    "wof:id":421200885,
+    "wof:lastmodified":1532376994,
+    "wof:name":"\u5ddd\u9f8d",
+    "wof:parent_id":85671827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1,
+    22.4,
+    114.1,
+    22.4
+],
+  "geometry": {"coordinates":[114.09999999999999,22.4],"type":"Point"}
+}

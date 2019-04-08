@@ -1,0 +1,76 @@
+{
+  "id": 1326544703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16281,22.55187,114.16281,22.55187",
+    "geom:latitude":22.55187,
+    "geom:longitude":114.16281,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Ha Heung Yuen",
+    "gn:country_code":"HK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819812,
+    "gn:latitude":22.55187,
+    "gn:longitude":114.16281,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ha Heung Yuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiaxiang Yuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9999\u5712"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u9999\u56ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819812
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"03f72b778bf8a69e709e2b02ae85947f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1326544703,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1326544703,
+    "wof:lastmodified":1537625546,
+    "wof:name":"Ha Heung Yuen",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16281,
+    22.55187,
+    114.16281,
+    22.55187
+],
+  "geometry": {"coordinates":[114.16280999999999,22.55187],"type":"Point"}
+}

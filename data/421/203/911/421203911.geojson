@@ -1,0 +1,90 @@
+{
+  "id": 421203911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.25,22.35,114.25,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":114.25,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u58c1\u5c4b"
+    ],
+    "name:dut_x_preferred":[
+        "Pik Uk"
+    ],
+    "name:eng_x_preferred":[
+        "Pik Uk"
+    ],
+    "name:unk_x_variant":[
+        "Pik Uk"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819110,
+    "qs:gn_pop":0,
+    "qs:name":"\u58c1\u5c4b",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":261,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":261,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235496,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164798,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819110,
+        "gp:id":2164798,
+        "qs:id":235496,
+        "wd:id":"Q7193531",
+        "wk:page":"Pik Uk"
+    },
+    "wof:country":"HK",
+    "wof:created":1459010167,
+    "wof:geomhash":"d08b479c3da09ff9ba77ac8027453ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421203911,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":421203911,
+    "wof:lastmodified":1532376994,
+    "wof:name":"\u58c1\u5c4b",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.25,
+    22.35,
+    114.25,
+    22.35
+],
+  "geometry": {"coordinates":[114.25,22.35],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226157737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.32678,22.43229,114.32678,22.43229",
+    "geom:latitude":22.43229,
+    "geom:longitude":114.32678,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Ko Tong",
+    "gn:country_code":"HK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819611,
+    "gn:latitude":22.43229,
+    "gn:longitude":114.32678,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ko Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaotang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819611
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"55bd52a58c51a8b518b2e435a4ebbe72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226157737,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1226157737,
+    "wof:lastmodified":1537625538,
+    "wof:name":"Ko Tong",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.32678,
+    22.43229,
+    114.32678,
+    22.43229
+],
+  "geometry": {"coordinates":[114.32678,22.43229],"type":"Point"}
+}

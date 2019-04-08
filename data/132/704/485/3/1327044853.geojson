@@ -1,0 +1,76 @@
+{
+  "id": 1327044853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.28409,22.39889,114.28409,22.39889",
+    "geom:latitude":22.39889,
+    "geom:longitude":114.28409,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Wong Chuk Wan",
+    "gn:country_code":"HK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818327,
+    "gn:latitude":22.39889,
+    "gn:longitude":114.28409,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wong Chuk Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huangzhuwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec3\u7af9\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u7af9\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818327
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"40d4ac604e1fd128738a92dddc58a946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1327044853,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1327044853,
+    "wof:lastmodified":1537625493,
+    "wof:name":"Wong Chuk Wan",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.28409,
+    22.39889,
+    114.28409,
+    22.39889
+],
+  "geometry": {"coordinates":[114.28409000000001,22.39889],"type":"Point"}
+}

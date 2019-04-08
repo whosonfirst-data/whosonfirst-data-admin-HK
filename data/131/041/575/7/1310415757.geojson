@@ -1,0 +1,76 @@
+{
+  "id": 1310415757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18333,22.4,114.18333,22.4",
+    "geom:latitude":22.4,
+    "geom:longitude":114.18333,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Min Fong",
+    "gn:country_code":"HK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819359,
+    "gn:latitude":22.4,
+    "gn:longitude":114.18333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Min Fong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mianfang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9eb5\u623f"
+    ],
+    "name:zho_x_variant":[
+        "\u9762\u623f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819359
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"38d433b8a8b780850931f285163db442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310415757,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1310415757,
+    "wof:lastmodified":1537625529,
+    "wof:name":"Min Fong",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18333,
+    22.4,
+    114.18333,
+    22.4
+],
+  "geometry": {"coordinates":[114.18333,22.4],"type":"Point"}
+}

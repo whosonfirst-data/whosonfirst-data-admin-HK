@@ -1,0 +1,78 @@
+{
+  "id": 1310611103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17615,22.36494,114.17615,22.36494",
+    "geom:latitude":22.36494,
+    "geom:longitude":114.17615,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Ha Keng Hau",
+    "gn:country_code":"HK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819810,
+    "gn:latitude":22.36494,
+    "gn:longitude":114.17615,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ha Keng Hau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keng Hau",
+        "Ha Keng Hau",
+        "Xiajingkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5f91\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u5f84\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819810
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ea2dd98a5fe42574c8f2a6e6d45293f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310611103,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1310611103,
+    "wof:lastmodified":1537625546,
+    "wof:name":"Ha Keng Hau",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17615,
+    22.36494,
+    114.17615,
+    22.36494
+],
+  "geometry": {"coordinates":[114.17615000000001,22.36494],"type":"Point"}
+}

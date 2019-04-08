@@ -1,0 +1,116 @@
+{
+  "id": 421188267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.13333,22.35,114.13333,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":114.13333,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8475\u6d8c"
+    ],
+    "name:dut_x_preferred":[
+        "Kwai Chung"
+    ],
+    "name:eng_x_preferred":[
+        "Kwai Chung"
+    ],
+    "name:fre_x_preferred":[
+        "Kwai Chung"
+    ],
+    "name:ger_x_preferred":[
+        "Kwai Chung"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8475\u6d8c"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc774\ucda9"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0432\u0430\u0458 \u0427\u0443\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Kuiyong"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0b9a\u0bc1\u0b99\u0bcd"
+    ],
+    "name:unk_x_variant":[
+        "Kwai Chung"
+    ],
+    "name:yue_x_preferred":[
+        "\u8475\u6d8c"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u8475\u6d8c"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819805,
+    "qs:gn_pop":0,
+    "qs:name":"\u4e0b\u8475\u6d8c",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":3507,
+    "qs:photos_1k":711,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3507,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1091441,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164389,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671823,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819805,
+        "gp:id":2164389,
+        "qs:id":1091441,
+        "wd:id":"Q591960"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009539,
+    "wof:geomhash":"d7070bbb6fc69885d5730a6902fc136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421188267,
+            "macroregion_id":1159397229,
+            "region_id":85671823
+        }
+    ],
+    "wof:id":421188267,
+    "wof:lastmodified":1532376976,
+    "wof:name":"\u4e0b\u8475\u6d8c",
+    "wof:parent_id":85671823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.13333,
+    22.35,
+    114.13333,
+    22.35
+],
+  "geometry": {"coordinates":[114.13333,22.35],"type":"Point"}
+}

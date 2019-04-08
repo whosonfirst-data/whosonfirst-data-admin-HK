@@ -1,0 +1,73 @@
+{
+  "id": 1259520107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.13949,22.49487,114.13949,22.49487",
+    "geom:latitude":22.49487,
+    "geom:longitude":114.13949,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Fanling",
+    "gn:cc2":"HK",
+    "gn:country_code":"HK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819873,
+    "gn:latitude":22.49487,
+    "gn:longitude":114.13949,
+    "gn:modification_date":"2015-12-04",
+    "gn:name":"Fanling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fen-ling",
+        "Fan Leng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819873,
+        "wk:page":"Fanling"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"6ab68bf0308a10aa90bec8d79c133bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1259520107,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1259520107,
+    "wof:lastmodified":1537625548,
+    "wof:name":"Fanling",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.13949,
+    22.49487,
+    114.13949,
+    22.49487
+],
+  "geometry": {"coordinates":[114.13949,22.49487],"type":"Point"}
+}

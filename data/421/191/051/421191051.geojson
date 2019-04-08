@@ -1,0 +1,74 @@
+{
+  "id": 421191051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.23811,22.266827,114.23811,22.266827",
+    "geom:latitude":22.266827,
+    "geom:longitude":114.23811,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u67f4\u7063",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":1715,
+    "qs:photos_1k":348,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1715,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1129998,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165360,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671785,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2165360,
+        "qs:id":1129998
+    },
+    "wof:country":"HK",
+    "wof:created":1459009678,
+    "wof:geomhash":"d289e1921726f3e3d6d97542d6197032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421191051,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":421191051,
+    "wof:lastmodified":1532376643,
+    "wof:name":"\u67f4\u7063",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.23811,
+    22.266827,
+    114.23811,
+    22.266827
+],
+  "geometry": {"coordinates":[114.23811000000001,22.266827],"type":"Point"}
+}

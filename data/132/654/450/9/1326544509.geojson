@@ -1,0 +1,76 @@
+{
+  "id": 1326544509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.07719,22.50233,114.07719,22.50233",
+    "geom:latitude":22.50233,
+    "geom:longitude":114.07719,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Tung Chan Wai",
+    "gn:country_code":"HK",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818438,
+    "gn:latitude":22.50233,
+    "gn:longitude":114.07719,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tung Chan Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongzhen Wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u93ae\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u9547\u56f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818438
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"9ff2f6f171ed91658b1a7b0eea90bcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1326544509,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1326544509,
+    "wof:lastmodified":1537625496,
+    "wof:name":"Tung Chan Wai",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.07719,
+    22.50233,
+    114.07719,
+    22.50233
+],
+  "geometry": {"coordinates":[114.07719,22.50233],"type":"Point"}
+}

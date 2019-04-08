@@ -1,0 +1,68 @@
+{
+  "id": 1276995819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17993,22.24843,114.17993,22.24843",
+    "geom:latitude":22.24843,
+    "geom:longitude":114.17993,
+    "gn:admin1_code":"HSO",
+    "gn:asciiname":"Shouson Hill",
+    "gn:country_code":"HK",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818818,
+    "gn:latitude":22.24843,
+    "gn:longitude":114.17993,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Shouson Hill",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671789,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818818,
+        "wk:page":"Shouson_Hill"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ee8749234ab2f1215c11f5ece31bcd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1276995819,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":1276995819,
+    "wof:lastmodified":1537563245,
+    "wof:name":"Shouson Hill",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17993,
+    22.24843,
+    114.17993,
+    22.24843
+],
+  "geometry": {"coordinates":[114.17993,22.24843],"type":"Point"}
+}

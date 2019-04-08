@@ -1,0 +1,76 @@
+{
+  "id": 1293116811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.14205,22.50311,114.14205,22.50311",
+    "geom:latitude":22.50311,
+    "geom:longitude":114.14205,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Ma Shi Po",
+    "gn:country_code":"HK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819396,
+    "gn:latitude":22.50311,
+    "gn:longitude":114.14205,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ma Shi Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mashipu"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5c4e\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5c4e\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819396
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"02271af8306c429f4b9250129782f39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293116811,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1293116811,
+    "wof:lastmodified":1537625530,
+    "wof:name":"Ma Shi Po",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.14205,
+    22.50311,
+    114.14205,
+    22.50311
+],
+  "geometry": {"coordinates":[114.14205,22.50311],"type":"Point"}
+}

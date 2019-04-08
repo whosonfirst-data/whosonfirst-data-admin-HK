@@ -1,0 +1,76 @@
+{
+  "id": 1310215055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.00557,22.27315,114.00557,22.27315",
+    "geom:latitude":22.27315,
+    "geom:longitude":114.00557,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Tung Wan Tau",
+    "gn:country_code":"HK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818403,
+    "gn:latitude":22.27315,
+    "gn:longitude":114.00557,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tung Wan Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongwantou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u7063\u982d"
+    ],
+    "name:zho_x_variant":[
+        "\u4e1c\u6e7e\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818403
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"eba0b3c87542930fd5c0e7de5429ffd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310215055,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1310215055,
+    "wof:lastmodified":1537625496,
+    "wof:name":"Tung Wan Tau",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.00557,
+    22.27315,
+    114.00557,
+    22.27315
+],
+  "geometry": {"coordinates":[114.00557000000001,22.27315],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309813535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.33074,22.38233,114.33074,22.38233",
+    "geom:latitude":22.38233,
+    "geom:longitude":114.33074,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Lan Nai Wan Man Uk",
+    "gn:country_code":"HK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819543,
+    "gn:latitude":22.38233,
+    "gn:longitude":114.33074,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lan Nai Wan Man Uk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lanniwan Wanwu"
+    ],
+    "name:zho_x_preferred":[
+        "\u721b\u6ce5\u7063\u842c\u5c4b"
+    ],
+    "name:zho_x_variant":[
+        "\u70c2\u6ce5\u6e7e\u4e07\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819543
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"70f84d7568f0ed3b16f5c1fefe18e05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309813535,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1309813535,
+    "wof:lastmodified":1537625536,
+    "wof:name":"Lan Nai Wan Man Uk",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.33074,
+    22.38233,
+    114.33074,
+    22.38233
+],
+  "geometry": {"coordinates":[114.33074000000001,22.38233],"type":"Point"}
+}

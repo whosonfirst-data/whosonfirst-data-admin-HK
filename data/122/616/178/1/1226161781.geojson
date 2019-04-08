@@ -1,0 +1,73 @@
+{
+  "id": 1226161781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16971,22.45574,114.16971,22.45574",
+    "geom:latitude":22.45574,
+    "geom:longitude":114.16971,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Tai Yuen Estate",
+    "gn:country_code":"HK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6691573,
+    "gn:latitude":22.45574,
+    "gn:longitude":114.16971,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tai Yuen Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5143\u90a8"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5143\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691573
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"54480ea09b9f3d2dceda41795cbbfba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226161781,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1226161781,
+    "wof:lastmodified":1537625553,
+    "wof:name":"Tai Yuen Estate",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16971,
+    22.45574,
+    114.16971,
+    22.45574
+],
+  "geometry": {"coordinates":[114.16970999999999,22.45574],"type":"Point"}
+}

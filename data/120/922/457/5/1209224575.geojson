@@ -1,0 +1,70 @@
+{
+  "id": 1209224575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.32289,22.3916,114.32289,22.3916",
+    "geom:latitude":22.3916,
+    "geom:longitude":114.32289,
+    "gn:admin1_code":"HSO",
+    "gn:asciiname":"Sheung Yiu",
+    "gn:country_code":"HK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818827,
+    "gn:latitude":22.3916,
+    "gn:longitude":114.32289,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sheung Yiu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangyao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u7ab0"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u7a91"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818827
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"964381211b2d91964058e7ea2e103e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209224575
+        }
+    ],
+    "wof:id":1209224575,
+    "wof:lastmodified":1537625510,
+    "wof:name":"Sheung Yiu",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.32289,
+    22.3916,
+    114.32289,
+    22.3916
+],
+  "geometry": {"coordinates":[114.32289,22.3916],"type":"Point"}
+}

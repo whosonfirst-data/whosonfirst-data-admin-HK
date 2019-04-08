@@ -1,0 +1,67 @@
+{
+  "id": 1309726889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.23333,22.35,114.23333,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":114.23333,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Wong Keng Tsai",
+    "gn:country_code":"HK",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818319,
+    "gn:latitude":22.35,
+    "gn:longitude":114.23333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wong Keng Tsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818319
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d39f0e30c3a5a4a82d1d44ea60b5321e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309726889,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1309726889,
+    "wof:lastmodified":1537043002,
+    "wof:name":"Wong Keng Tsai",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.23333,
+    22.35,
+    114.23333,
+    22.35
+],
+  "geometry": {"coordinates":[114.23333,22.35],"type":"Point"}
+}

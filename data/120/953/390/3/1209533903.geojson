@@ -1,0 +1,71 @@
+{
+  "id": 1209533903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.97596,22.39877,113.97596,22.39877",
+    "geom:latitude":22.39877,
+    "geom:longitude":113.97596,
+    "gn:admin1_code":"NTM",
+    "gn:asciiname":"Tuen Mun San Hui",
+    "gn:country_code":"HK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818444,
+    "gn:latitude":22.39877,
+    "gn:longitude":113.97596,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tuen Mun San Hui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Hui",
+        "Han Hui",
+        "Tuen Mun San Hui",
+        "Tunmen Xinxu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c6f\u9580\u65b0\u589f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818444,
+        "wk:page":"San_Hui"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"dc9abfaad2b1a0535309025db5baff3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209533903
+        }
+    ],
+    "wof:id":1209533903,
+    "wof:lastmodified":1537625497,
+    "wof:name":"Tuen Mun San Hui",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.97596,
+    22.39877000000001,
+    113.97596,
+    22.39877000000001
+],
+  "geometry": {"coordinates":[113.97596,22.39877000000001],"type":"Point"}
+}

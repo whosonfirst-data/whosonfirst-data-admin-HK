@@ -1,0 +1,76 @@
+{
+  "id": 1210030921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.04577,22.48858,114.04577,22.48858",
+    "geom:latitude":22.48858,
+    "geom:longitude":114.04577,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Pak Hok Chau",
+    "gn:country_code":"HK",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819188,
+    "gn:latitude":22.48858,
+    "gn:longitude":114.04577,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pak Hok Chau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baihe Zhou"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u9db4\u6d32"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u9e64\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819188
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"52b2d523cd61f598122ded9d5b61dc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1210030921,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1210030921,
+    "wof:lastmodified":1537625522,
+    "wof:name":"Pak Hok Chau",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.04577,
+    22.48858,
+    114.04577,
+    22.48858
+],
+  "geometry": {"coordinates":[114.04577,22.48858],"type":"Point"}
+}

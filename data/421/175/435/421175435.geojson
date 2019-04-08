@@ -1,0 +1,141 @@
+{
+  "id": 421175435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16667,22.3,114.16667,22.3",
+    "geom:latitude":22.3,
+    "geom:longitude":114.16667,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u064a\u0645 \u0634\u0627 \u062a\u0633\u0648\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c16\u6c99\u5480"
+    ],
+    "name:eng_x_preferred":[
+        "Tsimshatsui"
+    ],
+    "name:fin_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:fre_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:ger_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05d9\u05dd \u05e9\u05d0 \u05e6\u05d5\u05d9"
+    ],
+    "name:ind_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:ita_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5c16\u6c99\u5480"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9d0\uc0ac\uc800\uc774"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5c16\u6c99\u5480"
+    ],
+    "name:rum_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043c\u0441\u0430\u0447\u0451\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Tsim Sha Tsui"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0bae\u0bcd \u0b9a\u0bbe \u0b9a\u0bc1\u0baf\u0bbf"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e34\u0e21\u0e0b\u0e32\u0e08\u0e38\u0e48\u0e22"
+    ],
+    "name:vie_x_preferred":[
+        "Ti\u00eam Sa Ch\u1ee7y"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c16\u6c99\u5634"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c16\u6c99\u5634"
+    ],
+    "name:zho_x_variant":[
+        "\u5c16\u6c99\u5480"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818501,
+    "qs:gn_pop":0,
+    "qs:name":"\u5c16\u6c99\u5480",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u4e5d\u9f8d",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":369708,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":24702931,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671791,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818501,
+        "gp:id":24702931,
+        "qs:id":369708,
+        "wd:id":"Q15022",
+        "wk:page":"Tsim Sha Tsui"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009067,
+    "wof:geomhash":"9ca54bcbcacdda292bb34bd048e658e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421175435,
+            "macroregion_id":1159397231,
+            "region_id":85671791
+        }
+    ],
+    "wof:id":421175435,
+    "wof:lastmodified":1532376788,
+    "wof:name":"\u5c16\u6c99\u5480",
+    "wof:parent_id":85671791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16667,
+    22.3,
+    114.16667,
+    22.3
+],
+  "geometry": {"coordinates":[114.16667,22.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209015049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17127,22.45871,114.17127,22.45871",
+    "geom:latitude":22.45871,
+    "geom:longitude":114.17127,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Fu Heng Estate",
+    "gn:country_code":"HK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6691567,
+    "gn:latitude":22.45871,
+    "gn:longitude":114.17127,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Fu Heng Estate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5bcc\u4ea8\u90a8"
+    ],
+    "name:zho_x_variant":[
+        "\u5bcc\u4ea8\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691567
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8258238c0ce9c21f4c94a2099eaa8259",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209015049
+        }
+    ],
+    "wof:id":1209015049,
+    "wof:lastmodified":1537625553,
+    "wof:name":"Fu Heng Estate",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17127,
+    22.45871,
+    114.17127,
+    22.45871
+],
+  "geometry": {"coordinates":[114.17127000000001,22.45871],"type":"Point"}
+}

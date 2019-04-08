@@ -1,0 +1,73 @@
+{
+  "id": 1260098423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.29914,22.39704,114.29914,22.39704",
+    "geom:latitude":22.39704,
+    "geom:longitude":114.29914,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Tai Po Tsai",
+    "gn:country_code":"HK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818660,
+    "gn:latitude":22.39704,
+    "gn:longitude":114.29914,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tai Po Tsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dapuzai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u57d4\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818660
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"35a95678b082f4187c34f9e00517f147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1260098423,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1260098423,
+    "wof:lastmodified":1537625505,
+    "wof:name":"Tai Po Tsai",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.29914,
+    22.39704,
+    114.29914,
+    22.39704
+],
+  "geometry": {"coordinates":[114.29913999999999,22.39704],"type":"Point"}
+}

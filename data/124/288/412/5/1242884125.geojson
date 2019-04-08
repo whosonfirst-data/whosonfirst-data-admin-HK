@@ -1,0 +1,76 @@
+{
+  "id": 1242884125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.22276,22.52217,114.22276,22.52217",
+    "geom:latitude":22.52217,
+    "geom:longitude":114.22276,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Ham Hang Mei",
+    "gn:country_code":"HK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819798,
+    "gn:latitude":22.52217,
+    "gn:longitude":114.22276,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ham Hang Mei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiankengwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e79\u5751\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "\u54b8\u5751\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819798
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d65e5665d6f85bb252ef3ecd5aef646e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1242884125,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1242884125,
+    "wof:lastmodified":1537625546,
+    "wof:name":"Ham Hang Mei",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.22276,
+    22.52217000000001,
+    114.22276,
+    22.52217000000001
+],
+  "geometry": {"coordinates":[114.22275999999999,22.52217000000001],"type":"Point"}
+}

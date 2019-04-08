@@ -1,0 +1,73 @@
+{
+  "id": 1327048325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.88751,22.25139,113.88751,22.25139",
+    "geom:latitude":22.25139,
+    "geom:longitude":113.88751,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Luk Wu",
+    "gn:country_code":"HK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819446,
+    "gn:latitude":22.25139,
+    "gn:longitude":113.88751,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Luk Wu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu Hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819446
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"29e2025ec5380f162dc2019d10b317e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1327048325,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1327048325,
+    "wof:lastmodified":1537625533,
+    "wof:name":"Luk Wu",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.88751,
+    22.25139,
+    113.88751,
+    22.25139
+],
+  "geometry": {"coordinates":[113.88751000000001,22.25139],"type":"Point"}
+}

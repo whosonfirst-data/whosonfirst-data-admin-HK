@@ -1,0 +1,76 @@
+{
+  "id": 1276345623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.08644,22.41943,114.08644,22.41943",
+    "geom:latitude":22.41943,
+    "geom:longitude":114.08644,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Po Lo Shan",
+    "gn:country_code":"HK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819086,
+    "gn:latitude":22.41943,
+    "gn:longitude":114.08644,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Po Lo Shan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boluoshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u7f85\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u7f57\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819086
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"64737af6c63dd7d55b21e21b819850b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1276345623,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1276345623,
+    "wof:lastmodified":1537625520,
+    "wof:name":"Po Lo Shan",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.08644,
+    22.41943,
+    114.08644,
+    22.41943
+],
+  "geometry": {"coordinates":[114.08644,22.41943],"type":"Point"}
+}

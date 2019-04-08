@@ -1,0 +1,73 @@
+{
+  "id": 1226457059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.29368,22.30142,114.29368,22.30142",
+    "geom:latitude":22.30142,
+    "geom:longitude":114.29368,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Mau Po",
+    "gn:country_code":"HK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819381,
+    "gn:latitude":22.30142,
+    "gn:longitude":114.29368,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mau Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maopu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u8386"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819381
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"262e7e5934cbc21fafc4987dc80de016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226457059,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1226457059,
+    "wof:lastmodified":1537625530,
+    "wof:name":"Mau Po",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.29368,
+    22.30142,
+    114.29368,
+    22.30142
+],
+  "geometry": {"coordinates":[114.29367999999999,22.30142],"type":"Point"}
+}

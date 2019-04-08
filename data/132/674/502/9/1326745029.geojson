@@ -1,0 +1,76 @@
+{
+  "id": 1326745029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19669,22.46526,114.19669,22.46526",
+    "geom:latitude":22.46526,
+    "geom:longitude":114.19669,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Sha Lan",
+    "gn:country_code":"HK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818963,
+    "gn:latitude":22.46526,
+    "gn:longitude":114.19669,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Sha Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shalan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u6b04"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u680f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818963
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ec66afbc4c9f9635b526c9f1bdcb7575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1326745029,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1326745029,
+    "wof:lastmodified":1537625515,
+    "wof:name":"Sha Lan",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19669,
+    22.46526,
+    114.19669,
+    22.46526
+],
+  "geometry": {"coordinates":[114.19669,22.46526],"type":"Point"}
+}

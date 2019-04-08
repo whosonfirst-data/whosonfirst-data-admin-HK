@@ -1,0 +1,70 @@
+{
+  "id": 1209022689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2162,22.54294,114.2162,22.54294",
+    "geom:latitude":22.54294,
+    "geom:longitude":114.2162,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Muk Min Tau",
+    "gn:country_code":"HK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819329,
+    "gn:latitude":22.54294,
+    "gn:longitude":114.2162,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Muk Min Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mumiantou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u68c9\u982d"
+    ],
+    "name:zho_x_variant":[
+        "\u6728\u68c9\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819329
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"85870b15fed826d3a5c86d30d7066dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209022689
+        }
+    ],
+    "wof:id":1209022689,
+    "wof:lastmodified":1537625527,
+    "wof:name":"Muk Min Tau",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2162,
+    22.54294,
+    114.2162,
+    22.54294
+],
+  "geometry": {"coordinates":[114.2162,22.54294],"type":"Point"}
+}

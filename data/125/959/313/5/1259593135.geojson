@@ -1,0 +1,76 @@
+{
+  "id": 1259593135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.16798,22.5156,114.16798,22.5156",
+    "geom:latitude":22.5156,
+    "geom:longitude":114.16798,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Hung Leng",
+    "gn:country_code":"HK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819716,
+    "gn:latitude":22.5156,
+    "gn:longitude":114.16798,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Hung Leng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongling"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u5dba"
+    ],
+    "name:zho_x_variant":[
+        "\u5b54\u5cad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819716
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8f2c4d2ad11362c181222027ac6b2ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1259593135,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1259593135,
+    "wof:lastmodified":1537625542,
+    "wof:name":"Hung Leng",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16798,
+    22.5156,
+    114.16798,
+    22.5156
+],
+  "geometry": {"coordinates":[114.16798,22.5156],"type":"Point"}
+}

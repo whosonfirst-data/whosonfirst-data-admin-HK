@@ -1,0 +1,76 @@
+{
+  "id": 1226257397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0384,22.28703,114.0384,22.28703",
+    "geom:latitude":22.28703,
+    "geom:longitude":114.0384,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Shan Ting Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1901051,
+    "gn:latitude":22.28703,
+    "gn:longitude":114.0384,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Shan Ting Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shandingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u9802\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u5c71\u9876\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1901051
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"addf07938f72d061890e4f81a0dc0f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226257397,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1226257397,
+    "wof:lastmodified":1537625553,
+    "wof:name":"Shan Ting Tsuen",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0384,
+    22.28703,
+    114.0384,
+    22.28703
+],
+  "geometry": {"coordinates":[114.0384,22.28703],"type":"Point"}
+}

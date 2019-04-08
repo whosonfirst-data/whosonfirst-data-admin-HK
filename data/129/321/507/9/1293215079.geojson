@@ -1,0 +1,73 @@
+{
+  "id": 1293215079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1656,22.44518,114.1656,22.44518",
+    "geom:latitude":22.44518,
+    "geom:longitude":114.1656,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Pan Chung",
+    "gn:country_code":"HK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819127,
+    "gn:latitude":22.44518,
+    "gn:longitude":114.1656,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pan Chung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panyong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cee\u6d8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819127
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"f557c604821c0717266515f231942aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293215079,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1293215079,
+    "wof:lastmodified":1537625521,
+    "wof:name":"Pan Chung",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1656,
+    22.44518,
+    114.1656,
+    22.44518
+],
+  "geometry": {"coordinates":[114.1656,22.44518],"type":"Point"}
+}

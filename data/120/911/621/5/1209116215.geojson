@@ -1,0 +1,70 @@
+{
+  "id": 1209116215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.23809,22.22547,114.23809,22.22547",
+    "geom:latitude":22.22547,
+    "geom:longitude":114.23809,
+    "gn:admin1_code":"HSO",
+    "gn:asciiname":"To Tei Wan",
+    "gn:country_code":"HK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818525,
+    "gn:latitude":22.22547,
+    "gn:longitude":114.23809,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"To Tei Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tudi Wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u571f\u5730\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u571f\u5730\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818525
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c5d3d616d5184f1733c626f8d494b830",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209116215
+        }
+    ],
+    "wof:id":1209116215,
+    "wof:lastmodified":1537625500,
+    "wof:name":"To Tei Wan",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.23809,
+    22.22547,
+    114.23809,
+    22.22547
+],
+  "geometry": {"coordinates":[114.23809,22.22547],"type":"Point"}
+}

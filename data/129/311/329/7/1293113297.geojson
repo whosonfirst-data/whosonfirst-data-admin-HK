@@ -1,0 +1,68 @@
+{
+  "id": 1293113297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.01667,22.33333,114.01667,22.33333",
+    "geom:latitude":22.33333,
+    "geom:longitude":114.01667,
+    "gn:admin1_code":"NTW",
+    "gn:asciiname":"Yam O",
+    "gn:country_code":"HK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818278,
+    "gn:latitude":22.33333,
+    "gn:longitude":114.01667,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Yam O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671827,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818278,
+        "wk:page":"Yam_O"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"a5e83ec2de0ec33b10b1cb0e2b6a40fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293113297,
+            "macroregion_id":1159397229,
+            "region_id":85671827
+        }
+    ],
+    "wof:id":1293113297,
+    "wof:lastmodified":1537563243,
+    "wof:name":"Yam O",
+    "wof:parent_id":85671827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.01667,
+    22.33333,
+    114.01667,
+    22.33333
+],
+  "geometry": {"coordinates":[114.01667,22.33333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209120755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.02628,22.45544,114.02628,22.45544",
+    "geom:latitude":22.45544,
+    "geom:longitude":114.02628,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Fuk Hing Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819845,
+    "gn:latitude":22.45544,
+    "gn:longitude":114.02628,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Fuk Hing Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuqingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u6176\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u798f\u5e86\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819845
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c9574660bae0b67cdcadb7d16d1e9ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209120755
+        }
+    ],
+    "wof:id":1209120755,
+    "wof:lastmodified":1537625547,
+    "wof:name":"Fuk Hing Tsuen",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.02628,
+    22.45544,
+    114.02628,
+    22.45544
+],
+  "geometry": {"coordinates":[114.02628,22.45544],"type":"Point"}
+}

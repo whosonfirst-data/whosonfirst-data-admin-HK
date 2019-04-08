@@ -1,0 +1,75 @@
+{
+  "id": 1326748505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20821,22.53537,114.20821,22.53537",
+    "geom:latitude":22.53537,
+    "geom:longitude":114.20821,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Shek Chung Au",
+    "gn:country_code":"HK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818908,
+    "gn:latitude":22.53537,
+    "gn:longitude":114.20821,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shek Chung Au",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lap Wo Tsuen",
+        "Shek Chung Au",
+        "Shichongau"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u6d8c\u51f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818908
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"a7e6b540f9c209f6497f2c73a1134643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1326748505,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1326748505,
+    "wof:lastmodified":1537625513,
+    "wof:name":"Shek Chung Au",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20821,
+    22.53537,
+    114.20821,
+    22.53537
+],
+  "geometry": {"coordinates":[114.20820999999999,22.53537],"type":"Point"}
+}

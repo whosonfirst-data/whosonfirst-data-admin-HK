@@ -1,0 +1,79 @@
+{
+  "id": 1343397661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.13622,22.25474,114.13622,22.25474",
+    "geom:latitude":22.25474,
+    "geom:longitude":114.13622,
+    "gn:admin1_code":"HSO",
+    "gn:asciiname":"Wah Fu",
+    "gn:country_code":"HK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818385,
+    "gn:latitude":22.25474,
+    "gn:longitude":114.13622,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Wah Fu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wah Fu Estate",
+        "Wah Fu",
+        "Huafu Cun"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ef\u5bcc\u90a8"
+    ],
+    "name:zho_x_variant":[
+        "\u534e\u5bcc\u90a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671789,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818385,
+        "wk:page":"Wah_Fu"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"b15e69e958a023235142081ca8673d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1343397661,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":1343397661,
+    "wof:lastmodified":1537625495,
+    "wof:name":"Wah Fu",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.13622,
+    22.25474,
+    114.13622,
+    22.25474
+],
+  "geometry": {"coordinates":[114.13621999999999,22.25474],"type":"Point"}
+}

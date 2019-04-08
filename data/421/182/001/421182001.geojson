@@ -1,0 +1,84 @@
+{
+  "id": 421182001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.06667,22.45,114.06667,22.45",
+    "geom:latitude":22.45,
+    "geom:longitude":114.06667,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Shui Tau"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u982d"
+    ],
+    "name:zho_x_variant":[
+        "\u6c34\u5934"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818804,
+    "qs:gn_pop":0,
+    "qs:name":"Shui Uk",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":540139,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":56042362,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818804,
+        "gp:id":56042362,
+        "qs:id":540139
+    },
+    "wof:country":"HK",
+    "wof:created":1459009315,
+    "wof:geomhash":"918f26b0aa52aa737860507325b28f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421182001,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":421182001,
+    "wof:lastmodified":1532376970,
+    "wof:name":"Shui Uk",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.06667,
+    22.45,
+    114.06667,
+    22.45
+],
+  "geometry": {"coordinates":[114.06667,22.45],"type":"Point"}
+}

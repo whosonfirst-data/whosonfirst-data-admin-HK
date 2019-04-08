@@ -1,0 +1,80 @@
+{
+  "id": 1243182431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21569,22.52102,114.21569,22.52102",
+    "geom:latitude":22.52102,
+    "geom:longitude":114.21569,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Luk Keng Wong Uk",
+    "gn:country_code":"HK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819448,
+    "gn:latitude":22.52102,
+    "gn:longitude":114.21569,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Luk Keng Wong Uk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lawkong",
+        "Lu-ching",
+        "Luk Keng",
+        "Luk Keng Wong Uk",
+        "Lujinghuang Wu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ed8\u9838\u9ec3\u5c4b"
+    ],
+    "name:zho_x_variant":[
+        "\u5ed8\u9888\u9ec4\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819448
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"0294f0de9975191e742849d825caf941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243182431,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1243182431,
+    "wof:lastmodified":1537625533,
+    "wof:name":"Luk Keng Wong Uk",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21569,
+    22.52102,
+    114.21569,
+    22.52102
+],
+  "geometry": {"coordinates":[114.21569,22.52102],"type":"Point"}
+}

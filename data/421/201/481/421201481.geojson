@@ -1,0 +1,101 @@
+{
+  "id": 421201481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.95,22.38333,113.95,22.38333",
+    "geom:latitude":22.38333,
+    "geom:longitude":113.95,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5317\u89d2"
+    ],
+    "name:eng_x_preferred":[
+        "North Point"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u89d2"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc2a4\ud3ec\uc778\ud2b8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0442-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Pak Kok"
+    ],
+    "name:yue_x_preferred":[
+        "\u5317\u89d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u89d2"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819185,
+    "qs:gn_pop":0,
+    "qs:name":"\u5317\u89d2",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211613,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164760,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671831,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819185,
+        "gp:id":2164760,
+        "qs:id":211613,
+        "wd:id":"Q1045310"
+    },
+    "wof:country":"HK",
+    "wof:created":1459010074,
+    "wof:geomhash":"3763a3fd4ab21924b3f3a7d4848c869d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421201481,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":421201481,
+    "wof:lastmodified":1553816387,
+    "wof:name":"\u5317\u89d2",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.95,
+    22.38333,
+    113.95,
+    22.38333
+],
+  "geometry": {"coordinates":[113.95,22.38333],"type":"Point"}
+}

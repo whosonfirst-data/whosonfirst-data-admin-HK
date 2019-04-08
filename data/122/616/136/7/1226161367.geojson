@@ -1,0 +1,67 @@
+{
+  "id": 1226161367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18333,22.36667,114.18333,22.36667",
+    "geom:latitude":22.36667,
+    "geom:longitude":114.18333,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Kung Miu",
+    "gn:country_code":"HK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819596,
+    "gn:latitude":22.36667,
+    "gn:longitude":114.18333,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kung Miu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819596
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"26ad2e89359dc6921137f0a1afb39e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226161367,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1226161367,
+    "wof:lastmodified":1537052924,
+    "wof:name":"Kung Miu",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18333,
+    22.36667000000001,
+    114.18333,
+    22.36667000000001
+],
+  "geometry": {"coordinates":[114.18333,22.36667000000001],"type":"Point"}
+}

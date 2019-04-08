@@ -1,0 +1,76 @@
+{
+  "id": 1310619193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.93039,22.26969,113.93039,22.26969",
+    "geom:latitude":22.26969,
+    "geom:longitude":113.93039,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Chap Mun Tau",
+    "gn:country_code":"HK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819992,
+    "gn:latitude":22.26969,
+    "gn:longitude":113.93039,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Chap Mun Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhamentou"
+    ],
+    "name:zho_x_preferred":[
+        "\u9598\u9580\u982d"
+    ],
+    "name:zho_x_variant":[
+        "\u95f8\u95e8\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819992
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"4da66510a8582081f5576400cd5b6180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310619193,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1310619193,
+    "wof:lastmodified":1537625551,
+    "wof:name":"Chap Mun Tau",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.93039,
+    22.26969,
+    113.93039,
+    22.26969
+],
+  "geometry": {"coordinates":[113.93039,22.26969],"type":"Point"}
+}

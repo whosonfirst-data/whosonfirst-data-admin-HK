@@ -1,0 +1,76 @@
+{
+  "id": 1260303973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.11078,22.52889,114.11078,22.52889",
+    "geom:latitude":22.52889,
+    "geom:longitude":114.11078,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Tak Yuet Lau",
+    "gn:country_code":"HK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818608,
+    "gn:latitude":22.52889,
+    "gn:longitude":114.11078,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tak Yuet Lau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deiyuelou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f97\u6708\u6a13"
+    ],
+    "name:zho_x_variant":[
+        "\u5f97\u6708\u697c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818608
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"a320e6c9702cdc88c67b4417939542d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1260303973,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1260303973,
+    "wof:lastmodified":1537625503,
+    "wof:name":"Tak Yuet Lau",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.11078,
+    22.52889,
+    114.11078,
+    22.52889
+],
+  "geometry": {"coordinates":[114.11078000000001,22.52889],"type":"Point"}
+}

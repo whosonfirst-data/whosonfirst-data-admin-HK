@@ -1,0 +1,111 @@
+{
+  "id": 421187831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.97157,22.39175,113.97157,22.39175",
+    "geom:latitude":22.39175,
+    "geom:longitude":113.97157,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5c6f\u9580"
+    ],
+    "name:dut_x_preferred":[
+        "Tuen Mun"
+    ],
+    "name:eng_x_preferred":[
+        "Tuen Mun"
+    ],
+    "name:epo_x_preferred":[
+        "Tuen Mun"
+    ],
+    "name:fre_x_preferred":[
+        "Tuen Mun"
+    ],
+    "name:ger_x_preferred":[
+        "Tuen Mun"
+    ],
+    "name:kor_x_preferred":[
+        "\ud230\uba3c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0435\u043d \u041c\u0443\u043d"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c6f\u9580"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c6f\u95e8"
+    ],
+    "name:zho_x_variant":[
+        "\u5c6f\u9580"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818446,
+    "qs:gn_pop":0,
+    "qs:name":"\u5c6f\u9580",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":4985,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4985,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8636,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165411,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671831,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818446,
+        "gp:id":2165411,
+        "qs:id":8636,
+        "wd:id":"Q1758751",
+        "wk:page":"Tuen Mun"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009525,
+    "wof:geomhash":"66acc238bd54a4a0a777e6d68521bf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421187831,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":421187831,
+    "wof:lastmodified":1532376991,
+    "wof:name":"\u5c6f\u9580",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.97157,
+    22.39175,
+    113.97157,
+    22.39175
+],
+  "geometry": {"coordinates":[113.97157,22.39175],"type":"Point"}
+}

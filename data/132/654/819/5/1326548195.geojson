@@ -1,0 +1,73 @@
+{
+  "id": 1326548195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2564,22.16672,114.2564,22.16672",
+    "geom:latitude":22.16672,
+    "geom:longitude":114.2564,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Tai Hang Mei",
+    "gn:country_code":"HK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818732,
+    "gn:latitude":22.16672,
+    "gn:longitude":114.2564,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tai Hang Mei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakeng Wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5751\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818732
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d82e6b726959d84c573ed5b14274a689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1326548195,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1326548195,
+    "wof:lastmodified":1537625507,
+    "wof:name":"Tai Hang Mei",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2564,
+    22.16672,
+    114.2564,
+    22.16672
+],
+  "geometry": {"coordinates":[114.2564,22.16672],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259401057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2312,22.47433,114.2312,22.47433",
+    "geom:latitude":22.47433,
+    "geom:longitude":114.2312,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Lung Mei",
+    "gn:country_code":"HK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819438,
+    "gn:latitude":22.47433,
+    "gn:longitude":114.2312,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lung Mei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "\u9f99\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819438
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"bdfc7e2465d99af4b4768f01667fdc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1259401057,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1259401057,
+    "wof:lastmodified":1537625532,
+    "wof:name":"Lung Mei",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2312,
+    22.47433,
+    114.2312,
+    22.47433
+],
+  "geometry": {"coordinates":[114.2312,22.47433],"type":"Point"}
+}

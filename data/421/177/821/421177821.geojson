@@ -1,0 +1,81 @@
+{
+  "id": 421177821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.16667,22.51667,114.16667,22.51667",
+    "geom:latitude":22.51667,
+    "geom:longitude":114.16667,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ko Po"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u8386"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819615,
+    "qs:gn_pop":0,
+    "qs:name":"\u4e45\u4fdd",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":194,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":194,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1353865,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164501,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819615,
+        "gp:id":2164501,
+        "qs:id":1353865
+    },
+    "wof:country":"HK",
+    "wof:created":1459009161,
+    "wof:geomhash":"e64cd9418e6b065e6f93bb17001f8501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421177821,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":421177821,
+    "wof:lastmodified":1532376983,
+    "wof:name":"\u4e45\u4fdd",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.16667,
+    22.51667,
+    114.16667,
+    22.51667
+],
+  "geometry": {"coordinates":[114.16667,22.51667],"type":"Point"}
+}

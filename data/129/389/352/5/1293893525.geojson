@@ -1,0 +1,75 @@
+{
+  "id": 1293893525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.98961,22.27918,113.98961,22.27918",
+    "geom:latitude":22.27918,
+    "geom:longitude":113.98961,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Wong Kung Tin",
+    "gn:country_code":"HK",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818323,
+    "gn:latitude":22.27918,
+    "gn:longitude":113.98961,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wong Kung Tin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wong Fung Tin",
+        "Wong Kung Tin",
+        "Huanggongtian"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ec4\u516c\u7530"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818323
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"8f120583ff2a2bcf31f0015ba9af8d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293893525,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1293893525,
+    "wof:lastmodified":1537625493,
+    "wof:name":"Wong Kung Tin",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.98961,
+    22.27918,
+    113.98961,
+    22.27918
+],
+  "geometry": {"coordinates":[113.98961,22.27918],"type":"Point"}
+}

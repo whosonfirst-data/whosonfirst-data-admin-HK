@@ -1,0 +1,84 @@
+{
+  "id": 421169729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.2,22.43333,114.2,22.43333",
+    "geom:latitude":22.43333,
+    "geom:longitude":114.2,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Cheung Shui Tan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a1f\u6a39\u7058"
+    ],
+    "name:zho_x_variant":[
+        "\u6a1f\u6811\u6ee9"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819946,
+    "qs:gn_pop":0,
+    "qs:name":"\u6a1f\u6a39\u7058",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":1033,
+    "qs:photos_1k":209,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1033,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235493,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164306,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819946,
+        "gp:id":2164306,
+        "qs:id":235493
+    },
+    "wof:country":"HK",
+    "wof:created":1459008821,
+    "wof:geomhash":"f7994bb4e083300970787dce02d8be56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421169729,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":421169729,
+    "wof:lastmodified":1532377001,
+    "wof:name":"\u6a1f\u6a39\u7058",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2,
+    22.43333,
+    114.2,
+    22.43333
+],
+  "geometry": {"coordinates":[114.2,22.43333],"type":"Point"}
+}

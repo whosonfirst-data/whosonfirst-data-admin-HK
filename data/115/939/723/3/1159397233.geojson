@@ -1,0 +1,90 @@
+{
+  "id": 1159397233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013334,
+    "geom:bbox":"114.10987,22.19264,114.30907,22.30028",
+    "geom:latitude":22.246225,
+    "geom:longitude":114.202785,
+    "iso:country":"HK",
+    "lbl:latitude":22.246459,
+    "lbl:longitude":114.204682,
+    "mps:latitude":22.246459,
+    "mps:longitude":114.204682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Hong Kong Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e2f\u5cf6"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u6e2f\u5cf6",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":1544,
+    "qs:photos_1k":313,
+    "qs:photos_9k":756,
+    "qs:photos_9r":26,
+    "qs:photos_all":170481,
+    "qs:photos_sr":13,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":467128,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":24703007,
+    "src:geom":"hk-gov",
+    "wof:belongsto":[
+        102191569,
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703007,
+        "qs:id":467128
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1733259c57af37edd21b957e949ba598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "macroregion_id":1159397233
+        }
+    ],
+    "wof:id":1159397233,
+    "wof:lang_x_official":[
+        "zho",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "zho",
+        "eng"
+    ],
+    "wof:lastmodified":1532379082,
+    "wof:name":"Hong Kong Island",
+    "wof:parent_id":85632483,
+    "wof:placetype":"macroregion",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421199281
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.10987,
+    22.19264,
+    114.30907,
+    22.30028
+],
+  "geometry": {"coordinates":[[[114.14951000000001,22.29748],[114.16744,22.29066],[114.1743,22.28805],[114.18137,22.29147],[114.18633,22.29387],[114.18686,22.29412],[114.19954,22.30026],[114.21087,22.30028],[114.21939,22.29568],[114.24424,22.28229],[114.2616,22.27301],[114.26158,22.24573],[114.30907000000001,22.19283],[114.20001000000001,22.19264],[114.11024,22.2612],[114.11011000000001,22.27303],[114.10987,22.2976],[114.14951000000001,22.29748]]],"type":"Polygon"}
+}

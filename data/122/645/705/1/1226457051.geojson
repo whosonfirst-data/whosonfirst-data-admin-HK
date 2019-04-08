@@ -1,0 +1,73 @@
+{
+  "id": 1226457051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.25233,22.37039,114.25233,22.37039",
+    "geom:latitude":22.37039,
+    "geom:longitude":114.25233,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Kei Pik Shan",
+    "gn:country_code":"HK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819643,
+    "gn:latitude":22.37039,
+    "gn:longitude":114.25233,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kei Pik Shan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qibishan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f01\u58c1\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819643
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ef1ab36a55166738476e80bbae1d859e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226457051,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1226457051,
+    "wof:lastmodified":1537625540,
+    "wof:name":"Kei Pik Shan",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.25233,
+    22.37039,
+    114.25233,
+    22.37039
+],
+  "geometry": {"coordinates":[114.25233,22.37039],"type":"Point"}
+}

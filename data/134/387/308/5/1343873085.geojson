@@ -1,0 +1,76 @@
+{
+  "id": 1343873085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.00913,22.22153,114.00913,22.22153",
+    "geom:latitude":22.22153,
+    "geom:longitude":114.00913,
+    "gn:admin1_code":"KSS",
+    "gn:asciiname":"Ha Keng",
+    "gn:country_code":"HK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819811,
+    "gn:latitude":22.22153,
+    "gn:longitude":114.00913,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ha Keng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiajing"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5f91"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u5f84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819811
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"92380923a19c4a62216812204a02be72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1343873085,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1343873085,
+    "wof:lastmodified":1537625546,
+    "wof:name":"Ha Keng",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.00913,
+    22.22153,
+    114.00913,
+    22.22153
+],
+  "geometry": {"coordinates":[114.00913,22.22153],"type":"Point"}
+}

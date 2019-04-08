@@ -1,0 +1,73 @@
+{
+  "id": 1343780191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19491,22.48606,114.19491,22.48606",
+    "geom:latitude":22.48606,
+    "geom:longitude":114.19491,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Nam Shan Mei",
+    "gn:country_code":"HK",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819298,
+    "gn:latitude":22.48606,
+    "gn:longitude":114.19491,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nam Shan Mei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanshanwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5c71\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819298
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"f3c9736bece9af39cd0b68194ccc9824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1343780191,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1343780191,
+    "wof:lastmodified":1537625526,
+    "wof:name":"Nam Shan Mei",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19491,
+    22.48606,
+    114.19491,
+    22.48606
+],
+  "geometry": {"coordinates":[114.19490999999999,22.48606],"type":"Point"}
+}

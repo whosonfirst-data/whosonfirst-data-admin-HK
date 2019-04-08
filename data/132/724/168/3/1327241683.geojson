@@ -1,0 +1,73 @@
+{
+  "id": 1327241683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.09389,22.44941,114.09389,22.44941",
+    "geom:latitude":22.44941,
+    "geom:longitude":114.09389,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Ha Che",
+    "gn:country_code":"HK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819818,
+    "gn:latitude":22.44941,
+    "gn:longitude":114.09389,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ha Che",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiashe"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u8f0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819818
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"aeabb26d0a6644c0c5e29fd3e7112a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1327241683,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1327241683,
+    "wof:lastmodified":1537625546,
+    "wof:name":"Ha Che",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.09389,
+    22.44941,
+    114.09389,
+    22.44941
+],
+  "geometry": {"coordinates":[114.09389,22.44941],"type":"Point"}
+}

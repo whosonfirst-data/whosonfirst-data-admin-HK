@@ -1,0 +1,73 @@
+{
+  "id": 1309920439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99402,22.27996,113.99402,22.27996",
+    "geom:latitude":22.27996,
+    "geom:longitude":113.99402,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Wo Sheung Au",
+    "gn:country_code":"HK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818294,
+    "gn:latitude":22.27996,
+    "gn:longitude":113.99402,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wo Sheung Au",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heshang\u2019ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u79be\u4e0a\u5773"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818294
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"85bbd9075ae784ffed40dc45767f25cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309920439,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1309920439,
+    "wof:lastmodified":1537625491,
+    "wof:name":"Wo Sheung Au",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99402,
+    22.27996,
+    113.99402,
+    22.27996
+],
+  "geometry": {"coordinates":[113.99402000000001,22.27996],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276999849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.29199,22.30347,114.29199,22.30347",
+    "geom:latitude":22.30347,
+    "geom:longitude":114.29199,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Siu Hang Hau",
+    "gn:country_code":"HK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818788,
+    "gn:latitude":22.30347,
+    "gn:longitude":114.29199,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Siu Hang Hau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818788
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"2fa363b830c7512a5140f1a7293e8e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1276999849,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1276999849,
+    "wof:lastmodified":1536879549,
+    "wof:name":"Siu Hang Hau",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.29198999999998,
+    22.30347,
+    114.29198999999998,
+    22.30347
+],
+  "geometry": {"coordinates":[114.29198999999998,22.30347],"type":"Point"}
+}

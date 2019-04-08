@@ -1,0 +1,78 @@
+{
+  "id": 1293113489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.14568,22.20756,114.14568,22.20756",
+    "geom:latitude":22.20756,
+    "geom:longitude":114.14568,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mo Tat Wan",
+    "gn:country_code":"HK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819342,
+    "gn:latitude":22.20756,
+    "gn:longitude":114.14568,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Mo Tat Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mau Tat Wan",
+        "Mo Tat Wan",
+        "Moda Wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a21\u9054\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u6a21\u8fbe\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819342
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"83401d36449417b8fc5ca680be9dd17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293113489,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1293113489,
+    "wof:lastmodified":1537625528,
+    "wof:name":"Mo Tat Wan",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.14568,
+    22.20756,
+    114.14568,
+    22.20756
+],
+  "geometry": {"coordinates":[114.14568,22.20756],"type":"Point"}
+}

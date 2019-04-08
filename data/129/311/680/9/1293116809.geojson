@@ -1,0 +1,73 @@
+{
+  "id": 1293116809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.97538,22.24406,113.97538,22.24406",
+    "geom:latitude":22.24406,
+    "geom:longitude":113.97538,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Lo Uk Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819468,
+    "gn:latitude":22.24406,
+    "gn:longitude":113.97538,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Lo Uk Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luowu Cun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5c4b\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819468
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"b71fbed6192a4cbabf553eb72456af3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293116809,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1293116809,
+    "wof:lastmodified":1537625533,
+    "wof:name":"Lo Uk Tsuen",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.97538,
+    22.24406,
+    113.97538,
+    22.24406
+],
+  "geometry": {"coordinates":[113.97538,22.24406],"type":"Point"}
+}

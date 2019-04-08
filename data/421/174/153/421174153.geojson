@@ -1,0 +1,84 @@
+{
+  "id": 421174153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.1,22.48333,114.1,22.48333",
+    "geom:latitude":22.48333,
+    "geom:longitude":114.1,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Cheung Lek"
+    ],
+    "name:zho_x_preferred":[
+        "\u9577\u701d"
+    ],
+    "name:zho_x_variant":[
+        "\u957f\u6ca5"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819962,
+    "qs:gn_pop":0,
+    "qs:name":"\u9577\u701d",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":251,
+    "qs:photos_1k":51,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":251,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317444,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164296,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819962,
+        "gp:id":2164296,
+        "qs:id":317444
+    },
+    "wof:country":"HK",
+    "wof:created":1459009021,
+    "wof:geomhash":"189ddf7e952a1359518821ffd3f5382f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421174153,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":421174153,
+    "wof:lastmodified":1532376966,
+    "wof:name":"\u9577\u701d",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1,
+    22.48333,
+    114.1,
+    22.48333
+],
+  "geometry": {"coordinates":[114.09999999999999,22.48333],"type":"Point"}
+}

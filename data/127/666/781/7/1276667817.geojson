@@ -1,0 +1,78 @@
+{
+  "id": 1276667817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20832,22.46916,114.20832,22.46916",
+    "geom:latitude":22.46916,
+    "geom:longitude":114.20832,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"San Tau Kok",
+    "gn:country_code":"HK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818998,
+    "gn:latitude":22.46916,
+    "gn:longitude":114.20832,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"San Tau Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan Tau Kok",
+        "San Tau Kok",
+        "Aotou Jiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u78dd\u982d\u89d2"
+    ],
+    "name:zho_x_variant":[
+        "\u78dd\u5934\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818998
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"fbf782bdc5f30d91b2ffe3023e352765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1276667817,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1276667817,
+    "wof:lastmodified":1537625517,
+    "wof:name":"San Tau Kok",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20832,
+    22.46916,
+    114.20832,
+    22.46916
+],
+  "geometry": {"coordinates":[114.20832,22.46916],"type":"Point"}
+}

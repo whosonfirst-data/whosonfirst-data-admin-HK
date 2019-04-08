@@ -1,0 +1,76 @@
+{
+  "id": 1259400947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.22234,22.52375,114.22234,22.52375",
+    "geom:latitude":22.52375,
+    "geom:longitude":114.22234,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Ho Lek Pui",
+    "gn:country_code":"HK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819733,
+    "gn:latitude":22.52375,
+    "gn:longitude":114.22234,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Ho Lek Pui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Helibei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u701d\u80cc"
+    ],
+    "name:zho_x_variant":[
+        "\u6cb3\u6ca5\u80cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819733
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d83159c335bb06a655b41cd14732a3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1259400947,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1259400947,
+    "wof:lastmodified":1537625543,
+    "wof:name":"Ho Lek Pui",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.22234,
+    22.52375,
+    114.22234,
+    22.52375
+],
+  "geometry": {"coordinates":[114.22234,22.52375],"type":"Point"}
+}

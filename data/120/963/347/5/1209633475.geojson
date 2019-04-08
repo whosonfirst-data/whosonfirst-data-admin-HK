@@ -1,0 +1,73 @@
+{
+  "id": 1209633475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.24165,22.43097,114.24165,22.43097",
+    "geom:latitude":22.43097,
+    "geom:longitude":114.24165,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Lok Wo Sha",
+    "gn:country_code":"HK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819484,
+    "gn:latitude":22.43097,
+    "gn:longitude":114.24165,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lok Wo Sha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wo Sha",
+        "Lok Wo Sha",
+        "Hesha",
+        "Luohesha"
+    ],
+    "name:zho_x_preferred":[
+        "\u843d\u79be\u6c99"
+    ],
+    "name:zho_x_variant":[
+        "\u79be\u6c99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819484
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"abe1a798a7b61a8033bbd42b75decfd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209633475
+        }
+    ],
+    "wof:id":1209633475,
+    "wof:lastmodified":1537625534,
+    "wof:name":"Lok Wo Sha",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.24165,
+    22.43097,
+    114.24165,
+    22.43097
+],
+  "geometry": {"coordinates":[114.24165000000001,22.43097],"type":"Point"}
+}

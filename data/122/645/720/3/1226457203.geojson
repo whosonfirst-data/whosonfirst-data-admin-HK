@@ -1,0 +1,76 @@
+{
+  "id": 1226457203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.14992,22.47573,114.14992,22.47573",
+    "geom:latitude":22.47573,
+    "geom:longitude":114.14992,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Nam Wa Po",
+    "gn:country_code":"HK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819286,
+    "gn:latitude":22.47573,
+    "gn:longitude":114.14992,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nam Wa Po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanhuapu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u83ef\u8386"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u534e\u8386"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819286
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"7c35d561beb0d45dc33693351dce9dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226457203,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1226457203,
+    "wof:lastmodified":1537625526,
+    "wof:name":"Nam Wa Po",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.14992,
+    22.47573,
+    114.14992,
+    22.47573
+],
+  "geometry": {"coordinates":[114.14991999999999,22.47573],"type":"Point"}
+}

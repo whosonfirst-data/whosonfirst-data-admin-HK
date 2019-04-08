@@ -1,0 +1,75 @@
+{
+  "id": 1310611091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99133,22.26777,113.99133,22.26777",
+    "geom:latitude":22.26777,
+    "geom:longitude":113.99133,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Tai Tei Tong",
+    "gn:country_code":"HK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818636,
+    "gn:latitude":22.26777,
+    "gn:longitude":113.99133,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tai Tei Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tai Ti Tong",
+        "Tai Tei Tong",
+        "Daditang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5730\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818636
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d36efe0e2f216cccf3e272618fcb8c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310611091,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1310611091,
+    "wof:lastmodified":1537625505,
+    "wof:name":"Tai Tei Tong",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99133,
+    22.26777,
+    113.99133,
+    22.26777
+],
+  "geometry": {"coordinates":[113.99133,22.26777],"type":"Point"}
+}

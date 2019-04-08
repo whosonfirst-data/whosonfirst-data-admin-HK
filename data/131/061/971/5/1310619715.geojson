@@ -1,0 +1,66 @@
+{
+  "id": 1310619715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.43584,22.54129,114.43584,22.54129",
+    "geom:latitude":22.54129,
+    "geom:longitude":114.43584,
+    "gn:asciiname":"Sha Tau",
+    "gn:country_code":"HK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352068,
+    "gn:latitude":22.54129,
+    "gn:longitude":114.43584,
+    "gn:modification_date":"2016-11-28",
+    "gn:name":"Sha Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352068
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"b1a6f66b856b9b6d8032886ec0408c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310619715,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":1310619715,
+    "wof:lastmodified":1536752127,
+    "wof:name":"Sha Tau",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.43583999999998,
+    22.54129,
+    114.43583999999998,
+    22.54129
+],
+  "geometry": {"coordinates":[114.43583999999998,22.54129],"type":"Point"}
+}

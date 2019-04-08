@@ -1,0 +1,71 @@
+{
+  "id": 1209224635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.0453,22.44491,114.0453,22.44491",
+    "geom:latitude":22.44491,
+    "geom:longitude":114.0453,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Au Tau",
+    "gn:country_code":"HK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820026,
+    "gn:latitude":22.44491,
+    "gn:longitude":114.0453,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Au Tau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aotou"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f9\u982d"
+    ],
+    "name:zho_x_variant":[
+        "\u51f9\u5934"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820026,
+        "wk:page":"Au_Tau"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"c234e051eb389c81abd24b009dcf7f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209224635
+        }
+    ],
+    "wof:id":1209224635,
+    "wof:lastmodified":1537625552,
+    "wof:name":"Au Tau",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.0453,
+    22.44491,
+    114.0453,
+    22.44491
+],
+  "geometry": {"coordinates":[114.0453,22.44491],"type":"Point"}
+}

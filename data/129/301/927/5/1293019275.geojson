@@ -1,0 +1,73 @@
+{
+  "id": 1293019275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.93711,22.28221,113.93711,22.28221",
+    "geom:latitude":22.28221,
+    "geom:longitude":113.93711,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Ma Wan",
+    "gn:country_code":"HK",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819374,
+    "gn:latitude":22.28221,
+    "gn:longitude":113.93711,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ma Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mawan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819374
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"78a68e099391952b843349b7c7d7259a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293019275,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1293019275,
+    "wof:lastmodified":1537625529,
+    "wof:name":"Ma Wan",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.93711,
+    22.28221,
+    113.93711,
+    22.28221
+],
+  "geometry": {"coordinates":[113.93711,22.28221],"type":"Point"}
+}

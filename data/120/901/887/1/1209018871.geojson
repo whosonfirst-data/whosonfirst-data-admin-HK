@@ -1,0 +1,70 @@
+{
+  "id": 1209018871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.26884,22.38593,114.26884,22.38593",
+    "geom:latitude":22.38593,
+    "geom:longitude":114.26884,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Kap Pin Long",
+    "gn:country_code":"HK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819679,
+    "gn:latitude":22.38593,
+    "gn:longitude":114.26884,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kap Pin Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiabianlang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7532\u908a\u6717"
+    ],
+    "name:zho_x_variant":[
+        "\u7532\u8fb9\u6717"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819679
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"347e459703eeb70b6c6d01e3e6278ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209018871
+        }
+    ],
+    "wof:id":1209018871,
+    "wof:lastmodified":1537625541,
+    "wof:name":"Kap Pin Long",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.26884,
+    22.38593,
+    114.26884,
+    22.38593
+],
+  "geometry": {"coordinates":[114.26884,22.38593],"type":"Point"}
+}

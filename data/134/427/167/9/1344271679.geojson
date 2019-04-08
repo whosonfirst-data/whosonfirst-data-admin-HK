@@ -1,0 +1,75 @@
+{
+  "id": 1344271679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20215,22.37713,114.20215,22.37713",
+    "geom:latitude":22.37713,
+    "geom:longitude":114.20215,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"To Shek",
+    "gn:country_code":"HK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818527,
+    "gn:latitude":22.37713,
+    "gn:longitude":114.20215,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"To Shek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toh shek",
+        "To Shek",
+        "Duoshi"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818527
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"6a88d60f21888cc46476fc4644514166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1344271679,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1344271679,
+    "wof:lastmodified":1537625501,
+    "wof:name":"To Shek",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20215,
+    22.37713,
+    114.20215,
+    22.37713
+],
+  "geometry": {"coordinates":[114.20215,22.37713],"type":"Point"}
+}

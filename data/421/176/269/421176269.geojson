@@ -1,0 +1,81 @@
+{
+  "id": 421176269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.1,22.46667,114.1,22.46667",
+    "geom:latitude":22.46667,
+    "geom:longitude":114.1,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ta Shek Wu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u77f3\u6e56"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818586,
+    "qs:gn_pop":0,
+    "qs:name":"\u5927\u77f3\u6e56",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":62,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":62,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1045657,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165032,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818586,
+        "gp:id":2165032,
+        "qs:id":1045657
+    },
+    "wof:country":"HK",
+    "wof:created":1459009103,
+    "wof:geomhash":"b3ea9af53adc3b33c651b9962789decf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421176269,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":421176269,
+    "wof:lastmodified":1532376969,
+    "wof:name":"\u5927\u77f3\u6e56",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1,
+    22.46667,
+    114.1,
+    22.46667
+],
+  "geometry": {"coordinates":[114.09999999999999,22.46667],"type":"Point"}
+}

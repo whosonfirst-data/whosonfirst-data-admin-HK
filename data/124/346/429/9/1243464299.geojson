@@ -1,0 +1,78 @@
+{
+  "id": 1243464299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.07564,22.43285,114.07564,22.43285",
+    "geom:latitude":22.43285,
+    "geom:longitude":114.07564,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Kam Tsin Wai",
+    "gn:country_code":"HK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819683,
+    "gn:latitude":22.43285,
+    "gn:longitude":114.07564,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Kam Tsin Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kam Tsta Wai",
+        "Kam Tsin Wai",
+        "Jinqianwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u9322\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u91d1\u94b1\u56f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819683
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"510335a5b78916e3336ccdebcfc29006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243464299,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1243464299,
+    "wof:lastmodified":1537625541,
+    "wof:name":"Kam Tsin Wai",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.07564,
+    22.43285,
+    114.07564,
+    22.43285
+],
+  "geometry": {"coordinates":[114.07564000000001,22.43285],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360203013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.02926,22.42525,114.02926,22.42525",
+    "geom:latitude":22.42525,
+    "geom:longitude":114.02926,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Shui Tsiu San Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818799,
+    "gn:latitude":22.42525,
+    "gn:longitude":114.02926,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shui Tsiu San Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuijiao Xincun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u8549\u65b0\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818799
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"0fa29df4680a91dbd7e24362360e0b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1360203013,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1360203013,
+    "wof:lastmodified":1537625509,
+    "wof:name":"Shui Tsiu San Tsuen",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.02926,
+    22.42525,
+    114.02926,
+    22.42525
+],
+  "geometry": {"coordinates":[114.02925999999999,22.42525],"type":"Point"}
+}

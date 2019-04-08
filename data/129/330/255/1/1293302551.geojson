@@ -1,0 +1,76 @@
+{
+  "id": 1293302551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15833,22.55206,114.15833,22.55206",
+    "geom:latitude":22.55206,
+    "geom:longitude":114.15833,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Tsung Yuen Ha",
+    "gn:country_code":"HK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818453,
+    "gn:latitude":22.55206,
+    "gn:longitude":114.15833,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Tsung Yuen Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songyuanxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u5712\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u56ed\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818453
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"4799334c140844cc38dd53efacbdacde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293302551,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1293302551,
+    "wof:lastmodified":1537625497,
+    "wof:name":"Tsung Yuen Ha",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15833,
+    22.55206,
+    114.15833,
+    22.55206
+],
+  "geometry": {"coordinates":[114.15833000000001,22.55206],"type":"Point"}
+}

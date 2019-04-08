@@ -1,0 +1,111 @@
+{
+  "id": 421170027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21206,22.21772,114.21206,22.21772",
+    "geom:latitude":22.21772,
+    "geom:longitude":114.21206,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8d64\u67f1"
+    ],
+    "name:dut_x_preferred":[
+        "Stanley"
+    ],
+    "name:eng_x_preferred":[
+        "Stanley"
+    ],
+    "name:fre_x_preferred":[
+        "Stanley"
+    ],
+    "name:ger_x_preferred":[
+        "Stanley"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8d64\u67f1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud0e0\ub9ac"
+    ],
+    "name:por_x_preferred":[
+        "Stanley"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u044d\u043d\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Port Stanley"
+    ],
+    "name:yue_x_preferred":[
+        "\u8d64\u67f1"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819980,
+    "qs:gn_pop":0,
+    "qs:name":"\u8d64\u67f1",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":4998,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4998,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":773092,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164289,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671789,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819980,
+        "gp:id":2164289,
+        "qs:id":773092,
+        "wd:id":"Q770689",
+        "wk:page":"Stanley, Hong Kong"
+    },
+    "wof:country":"HK",
+    "wof:created":1459008834,
+    "wof:geomhash":"9471d514d8198cb36488ff0cddb17c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421170027,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":421170027,
+    "wof:lastmodified":1553816358,
+    "wof:name":"\u8d64\u67f1",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21206,
+    22.21772,
+    114.21206,
+    22.21772
+],
+  "geometry": {"coordinates":[114.21205999999999,22.21772],"type":"Point"}
+}

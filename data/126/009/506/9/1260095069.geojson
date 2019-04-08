@@ -1,0 +1,73 @@
+{
+  "id": 1260095069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.27709,22.31262,114.27709,22.31262",
+    "geom:latitude":22.31262,
+    "geom:longitude":114.27709,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Mang Kung Uk",
+    "gn:country_code":"HK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819412,
+    "gn:latitude":22.31262,
+    "gn:longitude":114.27709,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Mang Kung Uk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menggongwu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b5f\u516c\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819412
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"a55fce430dd02fb2a7fb39390d553a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1260095069,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1260095069,
+    "wof:lastmodified":1537625531,
+    "wof:name":"Mang Kung Uk",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.27709,
+    22.31262000000001,
+    114.27709,
+    22.31262000000001
+],
+  "geometry": {"coordinates":[114.27709,22.31262000000001],"type":"Point"}
+}

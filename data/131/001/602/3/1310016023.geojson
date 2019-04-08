@@ -1,0 +1,73 @@
+{
+  "id": 1310016023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.92839,22.281,113.92839,22.281",
+    "geom:latitude":22.281,
+    "geom:longitude":113.92839,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Ngau Au",
+    "gn:country_code":"HK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819272,
+    "gn:latitude":22.281,
+    "gn:longitude":113.92839,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Ngau Au",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niu\u2019ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u51f9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819272
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"debb2b25f43e2664092cc32f8a331223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1310016023,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1310016023,
+    "wof:lastmodified":1537625525,
+    "wof:name":"Ngau Au",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.92839,
+    22.281,
+    113.92839,
+    22.281
+],
+  "geometry": {"coordinates":[113.92838999999999,22.281],"type":"Point"}
+}

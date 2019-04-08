@@ -1,0 +1,81 @@
+{
+  "id": 421176821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"113.96884,22.29602,113.96884,22.29602",
+    "geom:latitude":22.29602,
+    "geom:longitude":113.96884,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pak Mong"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u8292"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819167,
+    "qs:gn_pop":0,
+    "qs:name":"\u767d\u8292",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u96e2\u5cf6",
+    "qs:photos":688,
+    "qs:photos_1k":139,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":688,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083681,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164769,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819167,
+        "gp:id":2164769,
+        "qs:id":1083681
+    },
+    "wof:country":"HK",
+    "wof:created":1459009120,
+    "wof:geomhash":"9dd2a34814c2d0ba8f17b2739d729dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421176821,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":421176821,
+    "wof:lastmodified":1532376978,
+    "wof:name":"\u767d\u8292",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.96884,
+    22.29602,
+    113.96884,
+    22.29602
+],
+  "geometry": {"coordinates":[113.96884,22.29602],"type":"Point"}
+}

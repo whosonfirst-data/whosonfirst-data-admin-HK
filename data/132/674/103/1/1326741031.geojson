@@ -1,0 +1,70 @@
+{
+  "id": 1326741031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20853,22.39521,114.20853,22.39521",
+    "geom:latitude":22.39521,
+    "geom:longitude":114.20853,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Pictorial Garden II",
+    "gn:country_code":"HK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9972748,
+    "gn:latitude":22.39521,
+    "gn:longitude":114.20853,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Pictorial Garden II",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u78a7\u6fe4\u82b1\u5712\u7b2c\u4e8c\u671f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9972748
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"d2b43769f81d3964e5f2b7ecdb1bc0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1326741031,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1326741031,
+    "wof:lastmodified":1537551397,
+    "wof:name":"Pictorial Garden II",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20853,
+    22.39521,
+    114.20853,
+    22.39521
+],
+  "geometry": {"coordinates":[114.20853,22.39521],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 421177819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.26667,22.41667,114.26667,22.41667",
+    "geom:latitude":22.41667,
+    "geom:longitude":114.26667,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kei Ling Ha Lo Wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f01\u5dba\u4e0b\u8001\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u4f01\u5cad\u4e0b\u8001\u56f4"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819646,
+    "qs:gn_pop":0,
+    "qs:name":"\u4f01\u5dba\u4e0b\u8001\u570d",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":120,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":120,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1353864,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164489,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671843,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819646,
+        "gp:id":2164489,
+        "qs:id":1353864
+    },
+    "wof:country":"HK",
+    "wof:created":1459009161,
+    "wof:geomhash":"b7b574174e64c51c3d2c4d96a8f14c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421177819,
+            "macroregion_id":1159397229,
+            "region_id":85671843
+        }
+    ],
+    "wof:id":421177819,
+    "wof:lastmodified":1532376983,
+    "wof:name":"\u4f01\u5dba\u4e0b\u8001\u570d",
+    "wof:parent_id":85671843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.26667,
+    22.41667,
+    114.26667,
+    22.41667
+],
+  "geometry": {"coordinates":[114.26667,22.41667],"type":"Point"}
+}

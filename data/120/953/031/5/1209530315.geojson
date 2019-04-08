@@ -1,0 +1,71 @@
+{
+  "id": 1209530315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.18121,22.43372,114.18121,22.43372",
+    "geom:latitude":22.43372,
+    "geom:longitude":114.18121,
+    "gn:admin1_code":"NTP",
+    "gn:asciiname":"Tsung Tsai Yuen",
+    "gn:country_code":"HK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818455,
+    "gn:latitude":22.43372,
+    "gn:longitude":114.18121,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tsung Tsai Yuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Songziyuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u4ed4\u5712"
+    ],
+    "name:zho_x_variant":[
+        "\u677e\u4ed4\u56ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818455,
+        "wk:page":"Mang_Gui_Kiu"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1f2bf1fdf229c61cc67edcfcce2c6d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209530315
+        }
+    ],
+    "wof:id":1209530315,
+    "wof:lastmodified":1537625497,
+    "wof:name":"Tsung Tsai Yuen",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.18121,
+    22.43372,
+    114.18121,
+    22.43372
+],
+  "geometry": {"coordinates":[114.18120999999999,22.43372],"type":"Point"}
+}

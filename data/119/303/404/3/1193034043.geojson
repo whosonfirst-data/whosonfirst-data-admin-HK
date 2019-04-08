@@ -1,0 +1,76 @@
+{
+  "id": 1193034043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1,22.35,114.1,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":114.1,
+    "gn:admin1_code":"NKT",
+    "gn:asciiname":"Lo Uk",
+    "gn:country_code":"HK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819470,
+    "gn:latitude":22.35,
+    "gn:longitude":114.1,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Lo Uk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luowu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u5c4b"
+    ],
+    "name:zho_x_variant":[
+        "\u7f57\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671823,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819470
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"7a0eefe9ca445c7ffb2819e6fd091d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1193034043,
+            "macroregion_id":1159397229,
+            "region_id":85671823
+        }
+    ],
+    "wof:id":1193034043,
+    "wof:lastmodified":1537625534,
+    "wof:name":"Lo Uk",
+    "wof:parent_id":85671823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1,
+    22.35,
+    114.1,
+    22.35
+],
+  "geometry": {"coordinates":[114.09999999999999,22.35],"type":"Point"}
+}

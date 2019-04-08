@@ -1,0 +1,76 @@
+{
+  "id": 1243082195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.09638,22.43199,114.09638,22.43199",
+    "geom:latitude":22.43199,
+    "geom:longitude":114.09638,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Shek Tau Wai",
+    "gn:country_code":"HK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818872,
+    "gn:latitude":22.43199,
+    "gn:longitude":114.09638,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shek Tau Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shitouwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u982d\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u77f3\u5934\u56f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818872
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"03b24868a993a47d3ee62a62bfe41393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1243082195,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1243082195,
+    "wof:lastmodified":1537625512,
+    "wof:name":"Shek Tau Wai",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.09638,
+    22.43199,
+    114.09638,
+    22.43199
+],
+  "geometry": {"coordinates":[114.09638,22.43199],"type":"Point"}
+}

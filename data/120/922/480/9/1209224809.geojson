@@ -1,0 +1,70 @@
+{
+  "id": 1209224809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21698,22.50458,114.21698,22.50458",
+    "geom:latitude":22.50458,
+    "geom:longitude":114.21698,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Sheung Tsat Muk Kiu",
+    "gn:country_code":"HK",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818837,
+    "gn:latitude":22.50458,
+    "gn:longitude":114.21698,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Sheung Tsat Muk Kiu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangqimuqiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u4e03\u6728\u6a4b"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u4e03\u6728\u6865"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818837
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"1a0971508cf73d235f6c7adea27c860b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209224809
+        }
+    ],
+    "wof:id":1209224809,
+    "wof:lastmodified":1537625510,
+    "wof:name":"Sheung Tsat Muk Kiu",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21698,
+    22.50458,
+    114.21698,
+    22.50458
+],
+  "geometry": {"coordinates":[114.21698000000001,22.50458],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 421200893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.21667,22.53333,114.21667,22.53333",
+    "geom:latitude":22.53333,
+    "geom:longitude":114.21667,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Fung Hang"
+    ],
+    "name:eng_x_preferred":[
+        "Fung Hang"
+    ],
+    "name:unk_x_variant":[
+        "Fung Hang"
+    ],
+    "name:zho_x_preferred":[
+        "\u98a8\u5751"
+    ],
+    "name:zho_x_variant":[
+        "\u98ce\u5751"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1819840,
+    "qs:gn_pop":0,
+    "qs:name":"\u9cf3\u676d",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":444,
+    "qs:photos_1k":90,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":444,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898595,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2164372,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819840,
+        "gp:id":2164372,
+        "qs:id":898595,
+        "wd:id":"Q5509142",
+        "wk:page":"Fung Hang"
+    },
+    "wof:country":"HK",
+    "wof:created":1459010045,
+    "wof:geomhash":"5145fc8f2bc2397e761b85e883d9b491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421200893,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":421200893,
+    "wof:lastmodified":1532376998,
+    "wof:name":"\u9cf3\u676d",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.21667,
+    22.53333,
+    114.21667,
+    22.53333
+],
+  "geometry": {"coordinates":[114.21666999999999,22.53333],"type":"Point"}
+}

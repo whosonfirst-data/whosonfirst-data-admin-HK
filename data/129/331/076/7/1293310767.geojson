@@ -1,0 +1,76 @@
+{
+  "id": 1293310767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.32075,22.38792,114.32075,22.38792",
+    "geom:latitude":22.38792,
+    "geom:longitude":114.32075,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Hei Tsz Wan",
+    "gn:country_code":"HK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819760,
+    "gn:latitude":22.38792,
+    "gn:longitude":114.32075,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Hei Tsz Wan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qiziwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d77\u5b50\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u8d77\u5b50\u6e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671813,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819760
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"9af79ba6dc07f85b1a7a1f2f502e77a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293310767,
+            "macroregion_id":1159397229,
+            "region_id":85671813
+        }
+    ],
+    "wof:id":1293310767,
+    "wof:lastmodified":1537625544,
+    "wof:name":"Hei Tsz Wan",
+    "wof:parent_id":85671813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.32075,
+    22.38792,
+    114.32075,
+    22.38792
+],
+  "geometry": {"coordinates":[114.32075,22.38792],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226360993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.19417,22.28858,114.19417,22.28858",
+    "geom:latitude":22.28858,
+    "geom:longitude":114.19417,
+    "gn:admin1_code":"HEA",
+    "gn:asciiname":"Fortress Hill",
+    "gn:country_code":"HK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7778986,
+    "gn:latitude":22.28858,
+    "gn:longitude":114.19417,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Fortress Hill",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30fc\u30c8\u30ec\u30b9\u30d2\u30eb"
+    ],
+    "name:zho_x_preferred":[
+        "\u70ae\u81fa\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u7832\u53f0\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671785,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778986,
+        "wk:page":"Fortress_Hill"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"2a3e126673f763b3e02c000e3e72eb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226360993,
+            "macroregion_id":1159397233,
+            "region_id":85671785
+        }
+    ],
+    "wof:id":1226360993,
+    "wof:lastmodified":1537625553,
+    "wof:name":"Fortress Hill",
+    "wof:parent_id":85671785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.19417,
+    22.28858,
+    114.19417,
+    22.28858
+],
+  "geometry": {"coordinates":[114.19417,22.28858],"type":"Point"}
+}

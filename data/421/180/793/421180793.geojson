@@ -1,0 +1,102 @@
+{
+  "id": 421180793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99927,22.4651,113.99927,22.4651",
+    "geom:latitude":22.4651,
+    "geom:longitude":113.99927,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5929\u6c34\u570d"
+    ],
+    "name:dut_x_preferred":[
+        "Tin Shui Wai"
+    ],
+    "name:eng_x_preferred":[
+        "Tin Shui Wai"
+    ],
+    "name:fre_x_preferred":[
+        "Tin Shui Wai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5929\u6c34\u56f2"
+    ],
+    "name:unk_x_variant":[
+        "Tin Shui Wai"
+    ],
+    "name:yue_x_preferred":[
+        "\u5929\u6c34\u570d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u6c34\u570d"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818558,
+    "qs:gn_pop":0,
+    "qs:name":"\u5929\u6c34\u570d",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":3596,
+    "qs:photos_1k":729,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3596,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":461307,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165139,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818558,
+        "gp:id":2165139,
+        "qs:id":461307,
+        "wd:id":"Q3135371",
+        "wk:page":"Tin Shui Wai"
+    },
+    "wof:country":"HK",
+    "wof:created":1459009271,
+    "wof:geomhash":"d879e04499972be5e71bbb17f59a0d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421180793,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":421180793,
+    "wof:lastmodified":1532376987,
+    "wof:name":"\u5929\u6c34\u570d",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99927,
+    22.4651,
+    113.99927,
+    22.4651
+],
+  "geometry": {"coordinates":[113.99927,22.4651],"type":"Point"}
+}

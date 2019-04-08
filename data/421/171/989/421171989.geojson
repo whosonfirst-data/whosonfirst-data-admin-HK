@@ -1,0 +1,74 @@
+{
+  "id": 421171989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.25198,22.229997,114.25198,22.229997",
+    "geom:latitude":22.229997,
+    "geom:longitude":114.25198,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Shek o Headland",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":2709,
+    "qs:photos_1k":549,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2709,
+    "qs:photos_sr":18,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1289599,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":24702927,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671789,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24702927,
+        "qs:id":1289599
+    },
+    "wof:country":"HK",
+    "wof:created":1459008915,
+    "wof:geomhash":"a66fe3df4b5a6f389cfe1b6fe20b1477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421171989,
+            "macroregion_id":1159397233,
+            "region_id":85671789
+        }
+    ],
+    "wof:id":421171989,
+    "wof:lastmodified":1532376644,
+    "wof:name":"Shek o Headland",
+    "wof:parent_id":85671789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.25198,
+    22.229997,
+    114.25198,
+    22.229997
+],
+  "geometry": {"coordinates":[114.25198,22.229997],"type":"Point"}
+}

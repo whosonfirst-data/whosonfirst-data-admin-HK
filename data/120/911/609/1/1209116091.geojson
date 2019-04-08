@@ -1,0 +1,70 @@
+{
+  "id": 1209116091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.12674,22.44486,114.12674,22.44486",
+    "geom:latitude":22.44486,
+    "geom:longitude":114.12674,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Shui Wo",
+    "gn:country_code":"HK",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818798,
+    "gn:latitude":22.44486,
+    "gn:longitude":114.12674,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shui Wo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuiwo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u7aa9"
+    ],
+    "name:zho_x_variant":[
+        "\u6c34\u7a9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818798
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"862a099876b57f1b37094c10fb43a2ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209116091
+        }
+    ],
+    "wof:id":1209116091,
+    "wof:lastmodified":1537625509,
+    "wof:name":"Shui Wo",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.12673999999998,
+    22.44486,
+    114.12673999999998,
+    22.44486
+],
+  "geometry": {"coordinates":[114.12673999999998,22.44486],"type":"Point"}
+}

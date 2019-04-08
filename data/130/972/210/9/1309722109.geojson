@@ -1,0 +1,77 @@
+{
+  "id": 1309722109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.2513,22.53617,114.2513,22.53617",
+    "geom:latitude":22.53617,
+    "geom:longitude":114.2513,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"So Lo Pun",
+    "gn:country_code":"HK",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818769,
+    "gn:latitude":22.53617,
+    "gn:longitude":114.2513,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"So Lo Pun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiaoluopen"
+    ],
+    "name:zho_x_preferred":[
+        "\u92b7\u7f85\u76c6"
+    ],
+    "name:zho_x_variant":[
+        "\u9500\u7f57\u76c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818769,
+        "wk:page":"So_Lo_Pun"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"3cd46f45fafac2e5c32d9f54cc02837c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1309722109,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1309722109,
+    "wof:lastmodified":1537625508,
+    "wof:name":"So Lo Pun",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.2513,
+    22.53617,
+    114.2513,
+    22.53617
+],
+  "geometry": {"coordinates":[114.2513,22.53617],"type":"Point"}
+}

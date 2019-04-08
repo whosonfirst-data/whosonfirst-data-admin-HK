@@ -1,0 +1,81 @@
+{
+  "id": 421199173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"113.9296,22.42164,113.9296,22.42164",
+    "geom:latitude":22.42164,
+    "geom:longitude":113.9296,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ta-shui-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6c34\u5751"
+    ],
+    "qs:gn_country":"HK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1818653,
+    "qs:gn_pop":0,
+    "qs:name":"\u5927\u6c34\u5751",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u65b0\u754c",
+    "qs:photos":128,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":128,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":190395,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":2165085,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671831,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818653,
+        "gp:id":2165085,
+        "qs:id":190395
+    },
+    "wof:country":"HK",
+    "wof:created":1459009980,
+    "wof:geomhash":"c139e8c3e8e29fccb86ffb73a92ef125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421199173,
+            "macroregion_id":1159397229,
+            "region_id":85671831
+        }
+    ],
+    "wof:id":421199173,
+    "wof:lastmodified":1532376997,
+    "wof:name":"\u5927\u6c34\u5751",
+    "wof:parent_id":85671831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.9296,
+    22.42164,
+    113.9296,
+    22.42164
+],
+  "geometry": {"coordinates":[113.92959999999999,22.42164],"type":"Point"}
+}

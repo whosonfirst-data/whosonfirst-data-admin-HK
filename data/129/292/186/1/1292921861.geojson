@@ -1,0 +1,76 @@
+{
+  "id": 1292921861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1,22.45,114.1,22.45",
+    "geom:latitude":22.45,
+    "geom:longitude":114.1,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Wing Ning Lei",
+    "gn:country_code":"HK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818353,
+    "gn:latitude":22.45,
+    "gn:longitude":114.1,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wing Ning Lei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongningli"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u5be7\u91cc"
+    ],
+    "name:zho_x_variant":[
+        "\u6c38\u5b81\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818353
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"30ad2a03424bd09ecfb9daf60db60495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1292921861,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1292921861,
+    "wof:lastmodified":1537625494,
+    "wof:name":"Wing Ning Lei",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1,
+    22.45,
+    114.1,
+    22.45
+],
+  "geometry": {"coordinates":[114.09999999999999,22.45],"type":"Point"}
+}

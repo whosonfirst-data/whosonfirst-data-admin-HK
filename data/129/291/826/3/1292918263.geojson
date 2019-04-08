@@ -1,0 +1,73 @@
+{
+  "id": 1292918263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.99774,22.24602,113.99774,22.24602",
+    "geom:latitude":22.24602,
+    "geom:longitude":113.99774,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Wang Tong",
+    "gn:country_code":"HK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818363,
+    "gn:latitude":22.24602,
+    "gn:longitude":113.99774,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wang Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hengtang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a6b\u5858"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818363
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"85946b9f41f8adff1d93fc0558ec85ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1292918263,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1292918263,
+    "wof:lastmodified":1537625495,
+    "wof:name":"Wang Tong",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99774,
+    22.24602,
+    113.99774,
+    22.24602
+],
+  "geometry": {"coordinates":[113.99773999999999,22.24602],"type":"Point"}
+}

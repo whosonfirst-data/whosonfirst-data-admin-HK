@@ -1,0 +1,67 @@
+{
+  "id": 1209329417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.26532,22.38845,114.26532,22.38845",
+    "geom:latitude":22.38845,
+    "geom:longitude":114.26532,
+    "gn:admin1_code":"NSK",
+    "gn:asciiname":"Nam Shan",
+    "gn:country_code":"HK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819299,
+    "gn:latitude":22.38845,
+    "gn:longitude":114.26532,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Nam Shan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819299
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"7e4c4376492abe90b95c5e259316197a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632483,
+            "locality_id":1209329417
+        }
+    ],
+    "wof:id":1209329417,
+    "wof:lastmodified":1537625526,
+    "wof:name":"Nam Shan",
+    "wof:parent_id":85632483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.26532,
+    22.38845,
+    114.26532,
+    22.38845
+],
+  "geometry": {"coordinates":[114.26532,22.38845],"type":"Point"}
+}

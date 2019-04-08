@@ -1,0 +1,75 @@
+{
+  "id": 1293505665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.94347,22.27848,113.94347,22.27848",
+    "geom:latitude":22.27848,
+    "geom:longitude":113.94347,
+    "gn:admin1_code":"NIS",
+    "gn:asciiname":"Shan Ha",
+    "gn:country_code":"HK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818943,
+    "gn:latitude":22.27848,
+    "gn:longitude":113.94347,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Shan Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa Mei San Tsuen",
+        "Shan Ha",
+        "Shanxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671847,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818943
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"23a15ddf107a59d158af9400c3f0d152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1293505665,
+            "macroregion_id":1159397229,
+            "region_id":85671847
+        }
+    ],
+    "wof:id":1293505665,
+    "wof:lastmodified":1537625515,
+    "wof:name":"Shan Ha",
+    "wof:parent_id":85671847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.94347,
+    22.27848,
+    113.94347,
+    22.27848
+],
+  "geometry": {"coordinates":[113.94347,22.27848],"type":"Point"}
+}

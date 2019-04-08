@@ -1,0 +1,91 @@
+{
+  "id": 421168499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.189662,22.282425,114.189662,22.282425",
+    "geom:latitude":22.282425,
+    "geom:longitude":114.189662,
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0565\u0574\u0561\u0580 \u0540\u056b\u056c\u056c"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5bf6\u99ac\u5c71"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u043c\u0430\u0440-\u0425\u0438\u043b\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bf6\u99ac\u5c71"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u5bf6\u99ac\u5c71"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Braemar Hill",
+    "qs:name_adm0":"\u9999\u6e2f",
+    "qs:name_adm1":"\u6e2f\u5cf6",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":8905,
+    "qs:woe_adm0":24865698,
+    "qs:woe_id":56042309,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671779,
+        1159397233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042309,
+        "qs:id":8905,
+        "wd:id":"Q4955326"
+    },
+    "wof:country":"HK",
+    "wof:created":1459008767,
+    "wof:geomhash":"73d681903d0cd743826b7a90dfc78afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":421168499,
+            "macroregion_id":1159397233,
+            "region_id":85671779
+        }
+    ],
+    "wof:id":421168499,
+    "wof:lastmodified":1532376645,
+    "wof:name":"Braemar Hill",
+    "wof:parent_id":85671779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.189662,
+    22.282425,
+    114.189662,
+    22.282425
+],
+  "geometry": {"coordinates":[114.189662,22.282425],"type":"Point"}
+}

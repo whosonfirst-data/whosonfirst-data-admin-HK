@@ -1,0 +1,76 @@
+{
+  "id": 1193151719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.17559,22.50697,114.17559,22.50697",
+    "geom:latitude":22.50697,
+    "geom:longitude":114.17559,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Hok Tau Pai",
+    "gn:country_code":"HK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819739,
+    "gn:latitude":22.50697,
+    "gn:longitude":114.17559,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Hok Tau Pai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hesou Pai"
+    ],
+    "name:zho_x_preferred":[
+        "\u9db4\u85ea\u6392"
+    ],
+    "name:zho_x_variant":[
+        "\u9e64\u85ae\u6392"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819739
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e14c1e0eb27ccdc873d97f4c71c711d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1193151719,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1193151719,
+    "wof:lastmodified":1537625543,
+    "wof:name":"Hok Tau Pai",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.17559,
+    22.50697000000001,
+    114.17559,
+    22.50697000000001
+],
+  "geometry": {"coordinates":[114.17559,22.50697000000001],"type":"Point"}
+}

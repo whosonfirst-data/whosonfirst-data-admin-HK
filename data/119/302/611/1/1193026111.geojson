@@ -1,0 +1,78 @@
+{
+  "id": 1193026111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.1748,22.36357,114.1748,22.36357",
+    "geom:latitude":22.36357,
+    "geom:longitude":114.1748,
+    "gn:admin1_code":"NST",
+    "gn:asciiname":"Sheung Keng Hau",
+    "gn:country_code":"HK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818855,
+    "gn:latitude":22.36357,
+    "gn:longitude":114.1748,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Sheung Keng Hau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheung King Hau",
+        "Sheung Keng Hau",
+        "Shangjingkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5f91\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5f84\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671817,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818855
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"a1d7cd5688b51f878765ddb6c9fa0f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1193026111,
+            "macroregion_id":1159397229,
+            "region_id":85671817
+        }
+    ],
+    "wof:id":1193026111,
+    "wof:lastmodified":1537625511,
+    "wof:name":"Sheung Keng Hau",
+    "wof:parent_id":85671817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.1748,
+    22.36357000000001,
+    114.1748,
+    22.36357000000001
+],
+  "geometry": {"coordinates":[114.1748,22.36357000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226252933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.15043,22.50013,114.15043,22.50013",
+    "geom:latitude":22.50013,
+    "geom:longitude":114.15043,
+    "gn:admin1_code":"NNO",
+    "gn:asciiname":"Wing Ling Tsuen",
+    "gn:country_code":"HK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1818355,
+    "gn:latitude":22.50013,
+    "gn:longitude":114.15043,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Wing Ling Tsuen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongning Cun"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u5be7\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u6c38\u5b81\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671839,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1818355
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"ace600ff9d891826a69ce4238278a73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1226252933,
+            "macroregion_id":1159397229,
+            "region_id":85671839
+        }
+    ],
+    "wof:id":1226252933,
+    "wof:lastmodified":1537625494,
+    "wof:name":"Wing Ling Tsuen",
+    "wof:parent_id":85671839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.15043,
+    22.50013,
+    114.15043,
+    22.50013
+],
+  "geometry": {"coordinates":[114.15043,22.50013],"type":"Point"}
+}

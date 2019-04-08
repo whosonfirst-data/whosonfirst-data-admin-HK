@@ -1,0 +1,71 @@
+{
+  "id": 1225860017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.20777,22.32662,114.20777,22.32662",
+    "geom:latitude":22.32662,
+    "geom:longitude":114.20777,
+    "gn:admin1_code":"KKT",
+    "gn:asciiname":"Kowloon Bay",
+    "gn:country_code":"HK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504415,
+    "gn:latitude":22.32662,
+    "gn:longitude":114.20777,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kowloon Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kowloon Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671809,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504415,
+        "wk:page":"Kowloon_Bay"
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"e0d10096931d1b2784c7847a695eb2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1225860017,
+            "macroregion_id":1159397231,
+            "region_id":85671809
+        }
+    ],
+    "wof:id":1225860017,
+    "wof:lastmodified":1537563249,
+    "wof:name":"Kowloon Bay",
+    "wof:parent_id":85671809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.20777,
+    22.32662,
+    114.20777,
+    22.32662
+],
+  "geometry": {"coordinates":[114.20777,22.32662],"type":"Point"}
+}

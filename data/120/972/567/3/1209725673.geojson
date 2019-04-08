@@ -1,0 +1,76 @@
+{
+  "id": 1209725673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.02612,22.45391,114.02612,22.45391",
+    "geom:latitude":22.45391,
+    "geom:longitude":114.02612,
+    "gn:admin1_code":"NYL",
+    "gn:asciiname":"Chung Sam Wai",
+    "gn:country_code":"HK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819913,
+    "gn:latitude":22.45391,
+    "gn:longitude":114.02612,
+    "gn:modification_date":"2018-02-22",
+    "gn:name":"Chung Sam Wai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
+    "iso:country":"HK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhongxinwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5fc3\u570d"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u5fc3\u56f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671833,
+        1159397229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1819913
+    },
+    "wof:country":"HK",
+    "wof:geomhash":"2e4efd971486708a4cea8e98cc2f2657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1209725673,
+            "macroregion_id":1159397229,
+            "region_id":85671833
+        }
+    ],
+    "wof:id":1209725673,
+    "wof:lastmodified":1537625549,
+    "wof:name":"Chung Sam Wai",
+    "wof:parent_id":85671833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.02612,
+    22.45391,
+    114.02612,
+    22.45391
+],
+  "geometry": {"coordinates":[114.02612000000001,22.45391],"type":"Point"}
+}
