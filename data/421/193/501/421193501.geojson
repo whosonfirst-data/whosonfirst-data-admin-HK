@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u79ae\u9813\u5c71"
-    ],
     "name:eng_x_preferred":[
         "Leighton Hill"
     ],
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":421193501,
-    "wof:lastmodified":1533246656,
+    "wof:lastmodified":1561845133,
     "wof:name":"\u52f5\u5fb7\u5c71",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

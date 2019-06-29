@@ -74,9 +74,6 @@
     "name:cym_x_preferred":[
         "Hong Kong S.A.R., Tseina"
     ],
-    "name:cze_x_preferred":[
-        "Hongkong"
-    ],
     "name:dan_x_preferred":[
         "Hongkong"
     ],
@@ -241,9 +238,6 @@
         "Regiun d'administraziun speziala da Hongkong, China"
     ],
     "name:ron_x_preferred":[
-        "Hong Kong"
-    ],
-    "name:rum_x_preferred":[
         "Hong Kong"
     ],
     "name:rus_x_preferred":[
@@ -460,7 +454,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553203336,
+    "wof:lastmodified":1561845131,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

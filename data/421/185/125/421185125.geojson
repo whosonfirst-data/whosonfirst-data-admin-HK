@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u897f\u71df\u76e4"
-    ],
     "name:eng_x_preferred":[
         "Sai Ying Pun"
     ],
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":421185125,
-    "wof:lastmodified":1533246650,
+    "wof:lastmodified":1561845135,
     "wof:name":"\u897f\u71df\u76e4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

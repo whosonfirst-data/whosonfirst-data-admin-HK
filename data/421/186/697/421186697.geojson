@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u897f\u74b0"
-    ],
     "name:eng_x_preferred":[
         "Sai Wan"
     ],
@@ -32,7 +29,8 @@
         "\u897f\u7063"
     ],
     "name:zho_x_variant":[
-        "\u897f\u6e7e"
+        "\u897f\u6e7e",
+        "\u897f\u74b0"
     ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
@@ -78,7 +76,7 @@
         }
     ],
     "wof:id":421186697,
-    "wof:lastmodified":1533246651,
+    "wof:lastmodified":1561845134,
     "wof:name":"\u897f\u74b0",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
