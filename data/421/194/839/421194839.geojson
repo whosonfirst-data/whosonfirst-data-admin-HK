@@ -16,13 +16,7 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062a\u0634\u0643 \u0644\u0627\u0628 \u0643\u0648\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Chek Lap Kok"
-    ],
-    "name:chi_x_preferred":[
-        "\u8d64\u9c72\u89d2"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chek Lap Kok"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +25,7 @@
     "name:eus_x_preferred":[
         "Chek Lap Kok"
     ],
-    "name:fre_x_preferred":[
-        "Chek Lap Kok"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chek Lap Kok"
     ],
     "name:ind_x_preferred":[
@@ -136,7 +127,7 @@
         }
     ],
     "wof:id":421194839,
-    "wof:lastmodified":1532376992,
+    "wof:lastmodified":1561845133,
     "wof:name":"Chek Lap Kok",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

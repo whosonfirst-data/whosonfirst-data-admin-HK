@@ -13,17 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u706b\u70ad"
-    ],
-    "name:dut_x_preferred":[
-        "Fo Tan"
-    ],
     "name:eng_x_preferred":[
         "Fo Tan"
     ],
     "name:jpn_x_preferred":[
         "\u706b\u70ad"
+    ],
+    "name:nld_x_preferred":[
+        "Fo Tan"
     ],
     "name:unk_x_variant":[
         "Fo Tan"
@@ -80,7 +77,7 @@
         }
     ],
     "wof:id":421175055,
-    "wof:lastmodified":1532376965,
+    "wof:lastmodified":1561845134,
     "wof:name":"\u706b\u70ad",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

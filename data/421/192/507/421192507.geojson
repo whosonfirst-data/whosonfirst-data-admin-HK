@@ -13,10 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u9285\u947c\u7063"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Causeway Bay"
     ],
     "name:eng_x_preferred":[
@@ -25,10 +22,7 @@
     "name:fin_x_preferred":[
         "Causeway Bay"
     ],
-    "name:fre_x_preferred":[
-        "Causeway Bay"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Causeway Bay"
     ],
     "name:jpn_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\uc988\uc6e8\uc774 \ubca0\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Causeway Bay"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0437\u0443\u044d\u0439-\u0411\u0435\u0439"
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":421192507,
-    "wof:lastmodified":1533246654,
+    "wof:lastmodified":1561845133,
     "wof:name":"\u9285\u947c\u7063",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

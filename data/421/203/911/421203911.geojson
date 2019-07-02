@@ -13,17 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u58c1\u5c4b"
-    ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Pik Uk"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Pik Uk"
     ],
     "name:unk_x_variant":[
         "Pik Uk"
+    ],
+    "name:zho_x_preferred":[
+        "\u58c1\u5c4b"
     ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":421203911,
-    "wof:lastmodified":1532376994,
+    "wof:lastmodified":1561845133,
     "wof:name":"\u58c1\u5c4b",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

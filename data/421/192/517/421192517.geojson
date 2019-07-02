@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5927\u5751"
-    ],
     "name:eng_x_preferred":[
         "Tai Hang"
     ],
@@ -75,7 +72,7 @@
         }
     ],
     "wof:id":421192517,
-    "wof:lastmodified":1553816380,
+    "wof:lastmodified":1561845133,
     "wof:name":"\u5927\u5751",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
