@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.289569,22.294917,114.289569,22.294917",
     "geom:latitude":22.294917,
     "geom:longitude":114.289569,
@@ -12,8 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Clear Water Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Clear Water Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6e05\u6c34\u6e7e"
+    ],
     "name:swe_x_preferred":[
         "Clear Water Bay"
+    ],
+    "name:yue_x_preferred":[
+        "\u6e05\u6c34\u7063"
     ],
     "name:zho_x_preferred":[
         "\u6e05\u6c34\u7063"
@@ -66,7 +79,7 @@
         }
     ],
     "wof:id":421194841,
-    "wof:lastmodified":1532376992,
+    "wof:lastmodified":1563917483,
     "wof:name":"Clearwater Bay",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

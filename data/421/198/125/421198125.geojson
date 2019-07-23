@@ -25,6 +25,9 @@
     "name:unk_x_variant":[
         "Pak Tam Chung"
     ],
+    "name:wuu_x_preferred":[
+        "\u5317\u6f6d\u6d8c"
+    ],
     "name:yue_x_preferred":[
         "\u5317\u6f6d\u6d8c"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421198125,
-    "wof:lastmodified":1561845134,
+    "wof:lastmodified":1563917517,
     "wof:name":"\u5317\u6f6d\u6d8c",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

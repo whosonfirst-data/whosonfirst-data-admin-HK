@@ -22,6 +22,9 @@
     "name:unk_x_variant":[
         "Fan Leng Lau"
     ],
+    "name:yue_x_preferred":[
+        "\u7c89\u5dba\u6a13"
+    ],
     "name:zho_x_preferred":[
         "\u7c89\u5dba\u6a13"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421182073,
-    "wof:lastmodified":1561845135,
+    "wof:lastmodified":1563917535,
     "wof:name":"\u7c89\u5dba\u6a13",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

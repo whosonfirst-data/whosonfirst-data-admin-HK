@@ -24,23 +24,49 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Sai Kung"
+    ],
     "name:eng_x_preferred":[
         "Sai Kung"
     ],
     "name:eng_x_variant":[
-        "Saikung"
+        "Saikung",
+        "Sai Kung Town"
+    ],
+    "name:epo_x_preferred":[
+        "Sai Kung"
+    ],
+    "name:jpn_x_preferred":[
+        "\u897f\u8ca2\u5e02"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\uad81 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\uad81\uc2dc"
+    ],
+    "name:por_x_preferred":[
+        "Sai Kung"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0458 \u041a\u0443\u043d\u0433"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0baf\u0bcd \u0b95\u0bc1\u0b99\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Sai Kung Area"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u8ca2"
     ],
     "name:zho_x_preferred":[
         "\u897f\u8ca2\u5340"
     ],
     "name:zho_x_variant":[
-        "\u897f\u8ca2"
+        "\u897f\u8ca2",
+        "\u897f\u8ca2\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HKG",
@@ -166,7 +192,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1563917422,
     "wof:name":"Sai Kung",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

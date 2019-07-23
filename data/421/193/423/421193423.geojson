@@ -22,6 +22,9 @@
     "name:unk_x_variant":[
         "Wong Chuk Yeung"
     ],
+    "name:yue_x_preferred":[
+        "\u9ec3\u7af9\u6d0b"
+    ],
     "name:zho_x_preferred":[
         "\u9ec3\u7af9\u6d0b"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421193423,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1563917486,
     "wof:name":"\u9ec3\u7af9\u694a",
     "wof:parent_id":85671827,
     "wof:placetype":"locality",

@@ -37,7 +37,11 @@
         "\uc120\uc218\uc774\ubd80"
     ],
     "name:kor_x_variant":[
-        "\uc120\uc218\uc774\ubd80 \uad6c"
+        "\uc120\uc218\uc774\ubd80 \uad6c",
+        "\uc0bc\uc11c\uc774\ubcf4"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6df1\u6c34\u57d7"
     ],
     "name:msa_x_preferred":[
         "Sham Shui Po"
@@ -47,6 +51,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bae\u0bcd \u0b9a\u0bc1\u0baf\u0bbf \u0baa\u0bcb"
+    ],
+    "name:yue_x_preferred":[
+        "\u6df1\u6c34\u57d7"
     ],
     "name:zho_x_preferred":[
         "\u6df1\u6c34\u57d7"
@@ -181,7 +188,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1563917415,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

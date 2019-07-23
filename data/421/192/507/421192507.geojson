@@ -31,6 +31,9 @@
     "name:kor_x_preferred":[
         "\ucf54\uc988\uc6e8\uc774 \ubca0\uc774"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\uc988\uc6e8\uc774\ubca0\uc774"
+    ],
     "name:nld_x_preferred":[
         "Causeway Bay"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421192507,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1563917480,
     "wof:name":"\u9285\u947c\u7063",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

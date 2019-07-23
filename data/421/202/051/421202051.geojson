@@ -37,7 +37,8 @@
     "name:zho_x_variant":[
         "\u99ac\u978d\u5c71",
         "\u9a6c\u978d\u5c71",
-        "\u9a6c\u978d\u5c71\u6751"
+        "\u9a6c\u978d\u5c71\u6751",
+        "\u6602\u8239\u6d32"
     ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421202051,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1563917495,
     "wof:name":"\u99ac\u978d\u5c71\u6751",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u0627 \u062a\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Sha Tin"
+    ],
     "name:deu_x_preferred":[
         "Sha Tin"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eus_x_preferred":[
         "Sha Tin barrutia"
+    ],
+    "name:fra_x_preferred":[
+        "Sha Tin"
     ],
     "name:hak_x_preferred":[
         "S\u00e2-thi\u00e8n-kh\u00ee"
@@ -75,6 +81,12 @@
     "name:nld_x_preferred":[
         "Sha Tin District"
     ],
+    "name:nld_x_variant":[
+        "Sha Tin"
+    ],
+    "name:nob_x_preferred":[
+        "Shatin"
+    ],
     "name:nor_x_preferred":[
         "Shatin"
     ],
@@ -99,8 +111,14 @@
     "name:vie_x_preferred":[
         "Sa \u0110i\u1ec1n"
     ],
+    "name:wuu_x_preferred":[
+        "\u9999\u6e2f\u6c99\u7530"
+    ],
     "name:yue_x_preferred":[
         "\u6c99\u7530\u5340"
+    ],
+    "name:yue_x_variant":[
+        "\u6c99\u7530"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u7530"
@@ -236,7 +254,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1563917417,
     "wof:name":"Sha Tin",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",
