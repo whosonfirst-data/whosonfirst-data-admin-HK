@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Tin Shui Wai"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0646 \u0634\u0648\u06cc \u0648\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Tin Shui Wai"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421188231,
-    "wof:lastmodified":1561845134,
+    "wof:lastmodified":1563917508,
     "wof:name":"Tin Shui Wai",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

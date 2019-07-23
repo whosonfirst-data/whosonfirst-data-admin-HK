@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tai O"
+    ],
     "name:eng_x_preferred":[
         "Tai O"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Tai ho"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u6fb3"
     ],
     "name:yue_x_preferred":[
         "\u5927\u6fb3"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421187835,
-    "wof:lastmodified":1561845134,
+    "wof:lastmodified":1563917501,
     "wof:name":"\u5927\u6fb3",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

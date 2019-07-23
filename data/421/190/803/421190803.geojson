@@ -25,6 +25,9 @@
     "name:unk_x_variant":[
         "Sha-t\u2019ou-chiao"
     ],
+    "name:wuu_x_preferred":[
+        "\u6c99\u982d\u89d2"
+    ],
     "name:yue_x_preferred":[
         "\u6c99\u982d\u89d2"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421190803,
-    "wof:lastmodified":1561845134,
+    "wof:lastmodified":1563917519,
     "wof:name":"\u6c99\u982d\u89d2",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

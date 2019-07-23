@@ -19,6 +19,9 @@
     "name:unk_x_variant":[
         "Nim Shue Wan"
     ],
+    "name:yue_x_preferred":[
+        "\u7a14\u6a39\u7063"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1819215,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421187581,
-    "wof:lastmodified":1532376996,
+    "wof:lastmodified":1563917501,
     "wof:name":"\u7a14\u6a39\u7063\u6751",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

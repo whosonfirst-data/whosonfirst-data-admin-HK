@@ -24,6 +24,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Wong Tai Sin"
+    ],
     "name:eng_x_preferred":[
         "Wong Tai Sin"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:spa_x_preferred":[
         "Wong Tai Sin"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ec3\u521d\u5e73"
     ],
     "name:zho_x_preferred":[
         "\u9ec4\u521d\u5e73"
@@ -176,7 +182,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550349,
+    "wof:lastmodified":1563917416,
     "wof:name":"Wong Tai Sin",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

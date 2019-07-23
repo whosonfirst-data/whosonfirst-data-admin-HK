@@ -22,6 +22,9 @@
     "name:unk_x_variant":[
         "Tong Fuk"
     ],
+    "name:yue_x_preferred":[
+        "\u5858\u798f"
+    ],
     "name:zho_x_preferred":[
         "\u5858\u798f"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421189629,
-    "wof:lastmodified":1561845134,
+    "wof:lastmodified":1563917506,
     "wof:name":"\u5858\u798f",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

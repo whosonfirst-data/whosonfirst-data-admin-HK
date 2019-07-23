@@ -24,11 +24,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Guantang"
+    ],
     "name:eng_x_preferred":[
         "Kwun Tong"
     ],
+    "name:jpn_x_preferred":[
+        "\u89b3\u5858"
+    ],
     "name:kor_x_preferred":[
         "\uad00\ud0d5 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uad70\ud1b5"
+    ],
+    "name:swe_x_preferred":[
+        "Guantang"
+    ],
+    "name:yue_x_preferred":[
+        "\u89c0\u5858"
     ],
     "name:zho_x_preferred":[
         "\u89c0\u5858\u5340"
@@ -160,7 +175,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1563917419,
     "wof:name":"Kwun Tong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

@@ -34,6 +34,9 @@
     "name:unk_x_variant":[
         "Sha Tin New Town"
     ],
+    "name:yue_x_preferred":[
+        "\u6c99\u7530\u65b0\u5e02\u93ae"
+    ],
     "name:zho_x_preferred":[
         "\u6c99\u7530\u65b0\u5e02\u93ae"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421194833,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1563917483,
     "wof:name":"\u6c99\u7530",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

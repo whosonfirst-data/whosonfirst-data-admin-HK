@@ -19,6 +19,9 @@
     "name:unk_x_variant":[
         "Chung Mei"
     ],
+    "name:yue_x_preferred":[
+        "\u6d8c\u5c3e"
+    ],
     "name:zho_x_preferred":[
         "\u6d8c\u5c3e"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421192813,
-    "wof:lastmodified":1532376989,
+    "wof:lastmodified":1563917481,
     "wof:name":"\u6d8c\u7f8e",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

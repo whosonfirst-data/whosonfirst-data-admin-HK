@@ -19,11 +19,15 @@
     "name:unk_x_variant":[
         "Kei Ling Ha"
     ],
+    "name:yue_x_preferred":[
+        "\u4f01\u5dba\u4e0b"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u8d21"
     ],
     "name:zho_x_variant":[
-        "\u897f\u8ca2"
+        "\u897f\u8ca2",
+        "\u4f01\u5dba\u4e0b"
     ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421203143,
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1563917492,
     "wof:name":"\u897f\u8ca2",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",
