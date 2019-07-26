@@ -31,6 +31,9 @@
         "Tseng Lan Shu",
         "Tseng Lan Shue"
     ],
+    "name:zho_x_preferred":[
+        "\u4e95\u6b04\u6a39"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293901823,
-    "wof:lastmodified":1537625500,
+    "wof:lastmodified":1564146401,
     "wof:name":"Tseng Lan Shue",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

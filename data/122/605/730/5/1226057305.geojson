@@ -25,6 +25,9 @@
     "iso:country":"HK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u77f3\u570d\u89d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226057305,
-    "wof:lastmodified":1536708734,
+    "wof:lastmodified":1564146543,
     "wof:name":"Shek Wai Kok",
     "wof:parent_id":85671827,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"HK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chiu-lung Wan"
+    ],
     "name:eng_x_preferred":[
         "Kowloon Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e5d\u9f8d\u6e7e"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc6b0\ub8fd\uc644"
+    ],
+    "name:swe_x_preferred":[
+        "Chiu-lung Wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u9f8d\u7063"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1225860017,
-    "wof:lastmodified":1537563249,
+    "wof:lastmodified":1564146545,
     "wof:name":"Kowloon Bay",
     "wof:parent_id":85671809,
     "wof:placetype":"locality",

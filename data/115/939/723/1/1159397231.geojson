@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005256,
+    "geom:area_square_m":60119570.602782,
     "geom:bbox":"114.13033,22.28229,114.24558,22.35841",
     "geom:latitude":22.321118,
     "geom:longitude":114.190003,
@@ -17,8 +18,137 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Kowloon"
+    ],
+    "name:aze_x_preferred":[
+        "Koulun"
+    ],
+    "name:bcl_x_preferred":[
+        "Kowloon"
+    ],
+    "name:cat_x_preferred":[
+        "Kowloon"
+    ],
+    "name:cdo_x_preferred":[
+        "Gi\u016b-l\u1e73\u0300ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Kowloon"
+    ],
+    "name:ces_x_preferred":[
+        "Kau-lung"
+    ],
+    "name:dan_x_preferred":[
+        "Kowloon"
+    ],
+    "name:deu_x_preferred":[
+        "Kowloon"
+    ],
     "name:eng_x_preferred":[
         "Kowloon"
+    ],
+    "name:epo_x_preferred":[
+        "Ka\u016dluno"
+    ],
+    "name:est_x_preferred":[
+        "Kowloon"
+    ],
+    "name:eus_x_preferred":[
+        "Kowloon"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0648\u0644\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Kowloon"
+    ],
+    "name:fra_x_preferred":[
+        "Kowloon"
+    ],
+    "name:hak_x_preferred":[
+        "Ki\u00fa-li\u00f9ng"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d5\u05dc\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Kaulung"
+    ],
+    "name:ind_x_preferred":[
+        "Kowloon"
+    ],
+    "name:ita_x_preferred":[
+        "Kowloon"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e3\u10da\u10e3\u10dc\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0426\u0437\u044e\u043b\u0443\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc6b0\ub8fd"
+    ],
+    "name:lit_x_preferred":[
+        "Kaulunas"
+    ],
+    "name:msa_x_preferred":[
+        "Kowloon"
+    ],
+    "name:nld_x_preferred":[
+        "Kowloon"
+    ],
+    "name:nno_x_preferred":[
+        "Kowloon"
+    ],
+    "name:nor_x_preferred":[
+        "Kowloon"
+    ],
+    "name:pol_x_preferred":[
+        "Koulun"
+    ],
+    "name:por_x_preferred":[
+        "Kowloon"
+    ],
+    "name:ron_x_preferred":[
+        "Kowloon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u044e\u043b\u0443\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Kowloon"
+    ],
+    "name:spa_x_preferred":[
+        "Kowloon"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0443\u043b\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kowloon"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb5\u0bc1\u0bb2\u0bc2\u0ba9\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e25\u0e39\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Kowloon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0443\u043b\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1eedu Long"
     ],
     "name:zho_x_preferred":[
         "\u96e2\u5cf6"
@@ -69,7 +199,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1532379076,
+    "wof:lastmodified":1564146513,
     "wof:name":"Kowloon",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",
