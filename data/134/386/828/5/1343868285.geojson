@@ -34,7 +34,8 @@
         "\u6a21\u9054"
     ],
     "name:zho_x_variant":[
-        "\u6a21\u8fbe"
+        "\u6a21\u8fbe",
+        "\u6a21\u9054\u7063"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1343868285,
-    "wof:lastmodified":1537625528,
+    "wof:lastmodified":1564146391,
     "wof:name":"Mo Tat",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

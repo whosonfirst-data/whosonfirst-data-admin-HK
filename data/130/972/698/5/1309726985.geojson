@@ -25,8 +25,17 @@
     "iso:country":"HK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yuen Chau Kok"
+    ],
+    "name:swe_x_preferred":[
+        "Yuen Chau Kok"
+    ],
     "name:und_x_variant":[
         "Yuanzhoujiao"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5706\u6d32\u89d2"
     ],
     "name:zho_x_preferred":[
         "\u5713\u6d32\u89d2"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1309726985,
-    "wof:lastmodified":1537625489,
+    "wof:lastmodified":1564146461,
     "wof:name":"Yuen Chau Kok",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

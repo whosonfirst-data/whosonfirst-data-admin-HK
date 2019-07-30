@@ -36,7 +36,8 @@
         "\u5c71\u4e0b\u570d"
     ],
     "name:zho_x_variant":[
-        "\u5c71\u4e0b\u56f4"
+        "\u5c71\u4e0b\u56f4",
+        "\u66fe\u5927\u5c4b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1310615823,
-    "wof:lastmodified":1537625500,
+    "wof:lastmodified":1564146453,
     "wof:name":"Tsang Tai Uk",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

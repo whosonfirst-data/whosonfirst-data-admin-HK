@@ -24,11 +24,35 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Eastern"
+    ],
+    "name:deu_x_preferred":[
+        "Eastern"
+    ],
     "name:eng_x_preferred":[
         "Eastern"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30b9\u30bf\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\ub465 \uad6c"
+    ],
+    "name:nld_x_preferred":[
+        "Eastern"
+    ],
+    "name:pol_x_preferred":[
+        "Eastern"
+    ],
+    "name:por_x_preferred":[
+        "Eastern"
+    ],
+    "name:swe_x_preferred":[
+        "Eastern"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u01a1ng \u0110\u00f4ng"
     ],
     "name:zho_x_preferred":[
         "\u6771\u5340"
@@ -155,7 +179,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550349,
+    "wof:lastmodified":1564146393,
     "wof:name":"Eastern",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

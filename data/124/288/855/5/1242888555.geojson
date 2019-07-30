@@ -25,8 +25,14 @@
     "iso:country":"HK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cheung Sha Wan"
+    ],
     "name:und_x_variant":[
         "Changsha Wan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u957f\u6c99\u6e7e"
     ],
     "name:zho_x_preferred":[
         "\u9577\u6c99\u7063"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242888555,
-    "wof:lastmodified":1537625550,
+    "wof:lastmodified":1564146519,
     "wof:name":"Cheung Sha Wan",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

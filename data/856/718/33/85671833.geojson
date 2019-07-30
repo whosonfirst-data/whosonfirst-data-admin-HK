@@ -30,8 +30,20 @@
     "name:eng_x_variant":[
         "Yuenlong"
     ],
+    "name:fra_x_preferred":[
+        "Yuen Long"
+    ],
     "name:kor_x_preferred":[
         "\uc704\uc548\ub791 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc704\uc548\ub791"
+    ],
+    "name:nld_x_preferred":[
+        "Yuen Long"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0443\u0435\u043d \u041b\u0443\u043d\u0433"
     ],
     "name:unk_x_variant":[
         "Yuen Long Area"
@@ -164,7 +176,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550344,
+    "wof:lastmodified":1564146394,
     "wof:name":"Yuen Long",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

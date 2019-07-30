@@ -25,6 +25,9 @@
     "iso:country":"HK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kat Hing Wai"
+    ],
     "name:und_x_variant":[
         "Jiqingwei"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293399803,
-    "wof:lastmodified":1537625541,
+    "wof:lastmodified":1564146401,
     "wof:name":"Kat Hing Wai",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

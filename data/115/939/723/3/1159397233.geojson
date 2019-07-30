@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013334,
+    "geom:area_square_m":152602616.750493,
     "geom:bbox":"114.10987,22.19264,114.30907,22.30028",
     "geom:latitude":22.246225,
     "geom:longitude":114.202785,
@@ -17,11 +18,131 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043d\u043a\u043e\u043d\u0433"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u0982\u0995\u0982 \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Hong Kong"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u043d\u043a\u043e\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Hong Kong Island"
+    ],
+    "name:ces_x_preferred":[
+        "Hongkong"
+    ],
+    "name:dan_x_preferred":[
+        "Hong Kong Island"
+    ],
+    "name:deu_x_preferred":[
+        "Hong Kong Island"
+    ],
     "name:eng_x_preferred":[
         "Hong Kong Island"
     ],
+    "name:epo_x_preferred":[
+        "Honkonga Insulo"
+    ],
+    "name:est_x_preferred":[
+        "Hongkongi saar"
+    ],
+    "name:eus_x_preferred":[
+        "Hong Kong uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0646\u06af \u06a9\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Hongkongin saari"
+    ],
+    "name:hak_x_preferred":[
+        "Hi\u00f4ng-k\u00f3ng-t\u00f3"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e0\u05d2 \u05e7\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Hongkong-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Hong Kong"
+    ],
+    "name:ita_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9999\u6e2f\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10dc\u10d2-\u10d9\u10dd\u10dc\u10d2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud64d\ucf69\uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Insula Hongcongensis"
+    ],
+    "name:lav_x_preferred":[
+        "Honkonga"
+    ],
+    "name:lit_x_preferred":[
+        "Honkongas"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Hong Kong"
+    ],
+    "name:mya_x_preferred":[
+        "\u101f\u1031\u102c\u1004\u103a\u1000\u1031\u102c\u1004\u103a\u1000\u103b\u103d\u1014\u103a\u1038"
+    ],
+    "name:nld_x_preferred":[
+        "Hongkong"
+    ],
+    "name:nor_x_preferred":[
+        "Hongkong\u00f8ya"
+    ],
+    "name:pol_x_preferred":[
+        "Hongkong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Hongkong\u00f6n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b92\u0b99\u0bcd\u0b95\u0bca\u0b99\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e2e\u0e48\u0e2d\u0e07\u0e01\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Hong Kong Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o H\u1ed3ng K\u00f4ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9999\u6e2f\u5c9b"
+    ],
     "name:zho_x_preferred":[
         "\u6e2f\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u9999\u6e2f\u5cf6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -69,7 +190,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1532379082,
+    "wof:lastmodified":1564146514,
     "wof:name":"Hong Kong Island",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",

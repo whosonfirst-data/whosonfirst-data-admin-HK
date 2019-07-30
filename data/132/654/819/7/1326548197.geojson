@@ -31,6 +31,9 @@
     "name:zho_x_preferred":[
         "\u4e0b\u79be\u5751"
     ],
+    "name:zho_x_variant":[
+        "\u4e0b\u79be\u5751\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326548197,
-    "wof:lastmodified":1537625544,
+    "wof:lastmodified":1564146376,
     "wof:name":"Ha Wo Hang",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

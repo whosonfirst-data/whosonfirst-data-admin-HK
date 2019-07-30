@@ -25,6 +25,9 @@
     "iso:country":"HK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Tai Wai"
+    ],
     "name:und_x_variant":[
         "Dawei"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242587689,
-    "wof:lastmodified":1537625504,
+    "wof:lastmodified":1564146521,
     "wof:name":"Tai Wai",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

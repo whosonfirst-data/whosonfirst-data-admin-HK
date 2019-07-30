@@ -28,11 +28,15 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a9\u30fc\u30c8\u30ec\u30b9\u30d2\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u70ae\u53f0\u5c71"
+    ],
     "name:zho_x_preferred":[
         "\u70ae\u81fa\u5c71"
     ],
     "name:zho_x_variant":[
-        "\u7832\u53f0\u5c71"
+        "\u7832\u53f0\u5c71",
+        "\u70ae\u53f0\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226360993,
-    "wof:lastmodified":1537625553,
+    "wof:lastmodified":1564146553,
     "wof:name":"Fortress Hill",
     "wof:parent_id":85671785,
     "wof:placetype":"locality",
