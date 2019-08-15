@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "urban district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KC"
+    ],
     "lbl:latitude":22.317422,
     "lbl:longitude":114.190002,
     "mps:latitude":22.317422,
@@ -228,9 +231,6 @@
         }
     ],
     "wof:id":85671797,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -239,7 +239,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917415,
+    "wof:lastmodified":1565713738,
     "wof:name":"Kowloon City",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

@@ -24,6 +24,9 @@
     "label:eng_x_preferred_placetype":[
         "special administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HK"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7279\u522b\u884c\u653f\u533a"
     ],
@@ -892,7 +895,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917413,
+    "wof:lastmodified":1565713736,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

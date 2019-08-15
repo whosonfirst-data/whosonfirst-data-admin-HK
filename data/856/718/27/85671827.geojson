@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TW"
+    ],
     "lbl:latitude":22.337633,
     "lbl:longitude":114.048883,
     "mps:latitude":22.337633,
@@ -183,9 +186,6 @@
         }
     ],
     "wof:id":85671827,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -194,7 +194,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917417,
+    "wof:lastmodified":1565713739,
     "wof:name":"Tsuen Wan",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

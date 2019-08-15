@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TM"
+    ],
     "lbl:latitude":22.3726,
     "lbl:longitude":113.939854,
     "mps:latitude":22.3726,
@@ -219,9 +222,6 @@
         }
     ],
     "wof:id":85671831,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -230,7 +230,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917420,
+    "wof:lastmodified":1565713743,
     "wof:name":"Tuen Mun",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

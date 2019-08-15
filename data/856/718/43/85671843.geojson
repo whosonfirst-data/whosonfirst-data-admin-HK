@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TP"
+    ],
     "lbl:latitude":22.498235,
     "lbl:longitude":114.382279,
     "mps:latitude":22.498235,
@@ -173,9 +176,6 @@
         }
     ],
     "wof:id":85671843,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -184,7 +184,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917418,
+    "wof:lastmodified":1565713741,
     "wof:name":"Tai Po",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

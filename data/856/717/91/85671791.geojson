@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "urban district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YT"
+    ],
     "lbl:latitude":22.307029,
     "lbl:longitude":114.163984,
     "mps:latitude":22.307029,
@@ -148,9 +151,6 @@
         }
     ],
     "wof:id":85671791,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -159,7 +159,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1565713738,
     "wof:name":"Yau Tsim Mong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

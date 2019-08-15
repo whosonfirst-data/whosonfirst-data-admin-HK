@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":22.524369,
     "lbl:longitude":114.201743,
     "mps:latitude":22.524369,
@@ -538,9 +541,6 @@
         }
     ],
     "wof:id":85671839,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -549,7 +549,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1564146397,
+    "wof:lastmodified":1565713743,
     "wof:name":"North",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":22.388751,
     "lbl:longitude":114.202644,
     "mps:latitude":22.388751,
@@ -243,9 +246,6 @@
         }
     ],
     "wof:id":85671817,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -254,7 +254,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917417,
+    "wof:lastmodified":1565713741,
     "wof:name":"Sha Tin",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

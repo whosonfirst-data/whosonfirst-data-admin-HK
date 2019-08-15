@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KI"
+    ],
     "lbl:latitude":22.336048,
     "lbl:longitude":114.10816,
     "mps:latitude":22.336048,
@@ -147,9 +150,6 @@
         }
     ],
     "wof:id":85671823,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -158,7 +158,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1565713743,
     "wof:name":"Kwai Tsing",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

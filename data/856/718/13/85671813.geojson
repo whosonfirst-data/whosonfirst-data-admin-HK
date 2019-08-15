@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":22.289454,
     "lbl:longitude":114.385619,
     "mps:latitude":22.289454,
@@ -181,9 +184,6 @@
         }
     ],
     "wof:id":85671813,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -192,7 +192,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917422,
+    "wof:lastmodified":1565713743,
     "wof:name":"Sai Kung",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

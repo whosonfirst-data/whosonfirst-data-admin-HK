@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IS"
+    ],
     "lbl:latitude":22.23157,
     "lbl:longitude":114.018829,
     "mps:latitude":22.23157,
@@ -150,9 +153,6 @@
         }
     ],
     "wof:id":85671847,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -161,7 +161,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1553550352,
+    "wof:lastmodified":1565713743,
     "wof:name":"Islands",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

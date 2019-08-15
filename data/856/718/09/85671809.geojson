@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "urban district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KU"
+    ],
     "lbl:latitude":22.313116,
     "lbl:longitude":114.226301,
     "mps:latitude":22.313116,
@@ -164,9 +167,6 @@
         }
     ],
     "wof:id":85671809,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -175,7 +175,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917419,
+    "wof:lastmodified":1565713743,
     "wof:name":"Kwun Tong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "urban district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EA"
+    ],
     "lbl:latitude":22.275137,
     "lbl:longitude":114.223333,
     "mps:latitude":22.275137,
@@ -168,9 +171,6 @@
         }
     ],
     "wof:id":85671785,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -179,7 +179,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1564146393,
+    "wof:lastmodified":1565713739,
     "wof:name":"Eastern",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

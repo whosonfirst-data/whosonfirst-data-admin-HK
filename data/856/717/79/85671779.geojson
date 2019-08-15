@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "urban district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WC"
+    ],
     "lbl:latitude":22.271264,
     "lbl:longitude":114.181979,
     "mps:latitude":22.271264,
@@ -194,9 +197,6 @@
         }
     ],
     "wof:id":85671779,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -205,7 +205,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917416,
+    "wof:lastmodified":1565713738,
     "wof:name":"Wan Chai",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

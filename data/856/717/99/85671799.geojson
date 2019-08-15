@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "urban district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":22.3344,
     "lbl:longitude":114.155764,
     "mps:latitude":22.3344,
@@ -177,9 +180,6 @@
         }
     ],
     "wof:id":85671799,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -188,7 +188,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1563917415,
+    "wof:lastmodified":1565713738,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

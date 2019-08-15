@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "rural district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YL"
+    ],
     "lbl:latitude":22.454968,
     "lbl:longitude":114.039094,
     "mps:latitude":22.454968,
@@ -165,9 +168,6 @@
         }
     ],
     "wof:id":85671833,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho",
         "eng"
@@ -176,7 +176,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1564146394,
+    "wof:lastmodified":1565713739,
     "wof:name":"Yuen Long",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",
