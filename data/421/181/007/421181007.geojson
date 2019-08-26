@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.01667,22.46667,114.01667,22.46667",
     "geom:latitude":22.46667,
     "geom:longitude":114.01667,
     "iso:country":"HK",
+    "lbl:bbox":"113.99667,22.44667,114.03667,22.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shing Uk Tsuen"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1818819,
         "gp:id":56042387,
-        "qs:id":540134
+        "qs_pg:id":540134
     },
     "wof:country":"HK",
     "wof:created":1459009279,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":421181007,
-    "wof:lastmodified":1532376970,
+    "wof:lastmodified":1566644514,
     "wof:name":"Tsing Uk Tsuen",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

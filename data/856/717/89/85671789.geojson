@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.224127,
     "lbl:longitude":114.212009,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.224127,
     "mps:longitude":114.212009,
     "mz:hierarchy_label":1,
@@ -139,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"40",
     "statoids:area_mi":"15",
     "statoids:as_of_date":"2011-06-30",
@@ -166,7 +167,7 @@
         "gn:id":7533609,
         "gp:id":24703130,
         "hasc:id":"HK.SO",
-        "qs:id":1259511
+        "qs_pg:id":1259511
     },
     "wof:country":"HK",
     "wof:geomhash":"7cb3bd7d1625b4d6967580bb642769a7",
@@ -187,7 +188,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713737,
+    "wof:lastmodified":1566644436,
     "wof:name":"Southern",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

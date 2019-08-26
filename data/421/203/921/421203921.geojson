@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.0,22.25,114.0,22.25",
     "geom:latitude":22.25,
     "geom:longitude":114.0,
     "iso:country":"HK",
+    "lbl:bbox":"113.98,22.23,114.02,22.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shui Tseng Wan"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1818801,
         "gp:id":2165003,
-        "qs:id":235500
+        "qs_pg:id":235500
     },
     "wof:country":"HK",
     "wof:created":1459010168,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":421203921,
-    "wof:lastmodified":1532376995,
+    "wof:lastmodified":1566644501,
     "wof:name":"\u6c34\u4e95\u7063",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

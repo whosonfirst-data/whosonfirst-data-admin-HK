@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"113.90186,22.26964,113.94186,22.30964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qingzhuanwei"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326448671,
-    "wof:lastmodified":1537625499,
+    "wof:lastmodified":1566644413,
     "wof:name":"Tsing Chuen Wai",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

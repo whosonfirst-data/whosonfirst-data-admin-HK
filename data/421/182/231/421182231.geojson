@@ -10,8 +10,12 @@
     "geom:latitude":22.38333,
     "geom:longitude":114.25,
     "iso:country":"HK",
+    "lbl:bbox":"114.23,22.36333,114.27,22.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ngong Ping"
@@ -29,9 +33,6 @@
         "Ngong Ping"
     ],
     "name:pol_x_preferred":[
-        "Ngong Ping"
-    ],
-    "name:unk_x_variant":[
         "Ngong Ping"
     ],
     "name:wuu_x_preferred":[
@@ -75,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1819229,
         "gp:id":2164738,
-        "qs:id":894782,
+        "qs_pg:id":894782,
         "wd:id":"Q2918624"
     },
     "wof:country":"HK",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":421182231,
-    "wof:lastmodified":1563917536,
+    "wof:lastmodified":1566644530,
     "wof:name":"\u6602\u576a",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

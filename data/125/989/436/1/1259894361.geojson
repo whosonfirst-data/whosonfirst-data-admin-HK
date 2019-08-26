@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.05326,22.42389,114.09326,22.46389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Changjiang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259894361,
-    "wof:lastmodified":1537625551,
+    "wof:lastmodified":1566644556,
     "wof:name":"Cheung Kong",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

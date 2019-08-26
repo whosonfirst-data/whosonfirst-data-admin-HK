@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.3424,22.43824,114.3824,22.47824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gaoliuwan"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326539927,
-    "wof:lastmodified":1537625541,
+    "wof:lastmodified":1566644423,
     "wof:name":"Kau Lau Wan",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

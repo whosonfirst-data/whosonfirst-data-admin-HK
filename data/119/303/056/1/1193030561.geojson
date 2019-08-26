@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.21198,22.45344,114.25198,22.49344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Huangzhucun"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193030561,
-    "wof:lastmodified":1537625493,
+    "wof:lastmodified":1566644473,
     "wof:name":"Wong Chuk Tsuen",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

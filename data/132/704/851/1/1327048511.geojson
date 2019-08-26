@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.11315,22.51414,114.15315,22.55414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xinwuling"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327048511,
-    "wof:lastmodified":1537625516,
+    "wof:lastmodified":1566644419,
     "wof:name":"San Uk Ling",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

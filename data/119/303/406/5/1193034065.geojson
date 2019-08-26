@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.36434,22.40994,114.40434,22.44994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mifen Ding"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193034065,
-    "wof:lastmodified":1537625531,
+    "wof:lastmodified":1566644472,
     "wof:name":"Mai Fan Teng",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

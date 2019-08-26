@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.21634,22.28933,114.25634,22.32933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0645 \u062a\u064a\u0646"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1310533025,
-    "wof:lastmodified":1564146447,
+    "wof:lastmodified":1566644479,
     "wof:name":"Lam Tin",
     "wof:parent_id":85671809,
     "wof:placetype":"locality",

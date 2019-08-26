@@ -10,8 +10,12 @@
     "geom:latitude":22.35,
     "geom:longitude":114.1,
     "iso:country":"HK",
+    "lbl:bbox":"114.08,22.33,114.12,22.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tsing Yi"
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "Tsing Yi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsing Yi Town"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1818483,
         "gp:id":2165185,
-        "qs:id":1083697,
+        "qs_pg:id":1083697,
         "wd:id":"Q1469595",
         "wk:page":"Tsing Yi"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421187615,
-    "wof:lastmodified":1563917504,
+    "wof:lastmodified":1566644509,
     "wof:name":"\u9752\u8863",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.14667,22.41333,114.18667,22.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laoliuwu"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259793547,
-    "wof:lastmodified":1537625534,
+    "wof:lastmodified":1566644550,
     "wof:name":"Lo Lau Uk",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

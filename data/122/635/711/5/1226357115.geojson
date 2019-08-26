@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.01623,22.4189,114.05623,22.4589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shangyoutian"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226357115,
-    "wof:lastmodified":1537625510,
+    "wof:lastmodified":1566644562,
     "wof:name":"Sheung Yau Tin",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

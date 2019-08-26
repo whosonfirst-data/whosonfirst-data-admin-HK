@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.16667,22.45,114.16667,22.45",
     "geom:latitude":22.45,
     "geom:longitude":114.16667,
     "iso:country":"HK",
+    "lbl:bbox":"114.14667,22.43,114.18667,22.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pan Chung San Tsuen"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1819126,
         "gp:id":2164793,
-        "qs:id":235495
+        "qs_pg:id":235495
     },
     "wof:country":"HK",
     "wof:created":1459010167,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":421203909,
-    "wof:lastmodified":1532376994,
+    "wof:lastmodified":1566644499,
     "wof:name":"\u6cee\u6d8c\u65b0\u6751",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

@@ -10,16 +10,17 @@
     "geom:latitude":22.55,
     "geom:longitude":114.25,
     "iso:country":"HK",
+    "lbl:bbox":"114.23,22.53,114.27,22.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Yung Shue Au"
     ],
     "name:nld_x_preferred":[
-        "Yung Shue Au"
-    ],
-    "name:unk_x_variant":[
         "Yung Shue Au"
     ],
     "name:zho_x_preferred":[
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1818215,
         "gp:id":2165348,
-        "qs:id":1306608,
+        "qs_pg:id":1306608,
         "wd:id":"Q8061262"
     },
     "wof:country":"HK",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":421204403,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1566644499,
     "wof:name":"\u6995\u6a39\u51f9",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

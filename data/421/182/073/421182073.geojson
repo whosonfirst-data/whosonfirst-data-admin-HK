@@ -10,16 +10,17 @@
     "geom:latitude":22.5,
     "geom:longitude":114.13333,
     "iso:country":"HK",
+    "lbl:bbox":"114.11333,22.48,114.15333,22.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Fan Leng Lau"
     ],
     "name:nld_x_preferred":[
-        "Fan Leng Lau"
-    ],
-    "name:unk_x_variant":[
         "Fan Leng Lau"
     ],
     "name:yue_x_preferred":[
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1819878,
         "gp:id":2164343,
-        "qs:id":885685,
+        "qs_pg:id":885685,
         "wd:id":"Q5433552"
     },
     "wof:country":"HK",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":421182073,
-    "wof:lastmodified":1563917535,
+    "wof:lastmodified":1566644530,
     "wof:name":"\u7c89\u5dba\u6a13",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

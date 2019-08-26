@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"113.94418,22.37448,113.98418,22.41448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yangxiaokeng"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225962465,
-    "wof:lastmodified":1537625490,
+    "wof:lastmodified":1566644562,
     "wof:name":"Yeung Siu Hang",
     "wof:parent_id":85671831,
     "wof:placetype":"locality",

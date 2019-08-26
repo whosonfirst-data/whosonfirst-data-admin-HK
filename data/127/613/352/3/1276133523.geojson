@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.18117,22.38204,114.22117,22.42204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Luoluxia"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276133523,
-    "wof:lastmodified":1537625534,
+    "wof:lastmodified":1566644457,
     "wof:name":"Lok Lo Ha",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

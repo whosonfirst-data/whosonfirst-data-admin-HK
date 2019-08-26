@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"113.97133,22.24777,114.01133,22.28777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tai Ti Tong",
         "Tai Tei Tong",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310611091,
-    "wof:lastmodified":1537625505,
+    "wof:lastmodified":1566644482,
     "wof:name":"Tai Tei Tong",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

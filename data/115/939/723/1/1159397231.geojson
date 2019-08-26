@@ -12,6 +12,8 @@
     "iso:country":"HK",
     "lbl:latitude":22.3219,
     "lbl:longitude":114.185349,
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":22.3219,
     "mps:longitude":114.185349,
     "mz:hierarchy_label":1,
@@ -179,7 +181,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24703005,
-        "qs:id":1263469
+        "qs_pg:id":1263469
     },
     "wof:country":"HK",
     "wof:geomhash":"457224cf9207a81352bb89d38a45b52e",
@@ -199,7 +201,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1564146513,
+    "wof:lastmodified":1566644536,
     "wof:name":"Kowloon",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",

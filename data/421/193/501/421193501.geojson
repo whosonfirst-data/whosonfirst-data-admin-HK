@@ -10,13 +10,13 @@
     "geom:latitude":22.28333,
     "geom:longitude":114.18333,
     "iso:country":"HK",
+    "lbl:bbox":"114.17833,22.27833,114.18833,22.28833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "Leighton Hill"
-    ],
-    "name:unk_x_variant":[
         "Leighton Hill"
     ],
     "name:yue_x_preferred":[
@@ -56,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1819529,
         "gp:id":24702921,
-        "qs:id":910056,
+        "qs_pg:id":910056,
         "wd:id":"Q6519759",
         "wk:page":"Leighton Hill"
     },
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421193501,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1566644496,
     "wof:name":"\u52f5\u5fb7\u5c71",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

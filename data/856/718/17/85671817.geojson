@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.388751,
     "lbl:longitude":114.202644,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.388751,
     "mps:longitude":114.202644,
     "mz:hierarchy_label":1,
@@ -204,9 +205,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"69",
     "statoids:area_mi":"26",
     "statoids:as_of_date":"2011-06-30",
@@ -220,7 +221,6 @@
     "statoids:timezone":"+8",
     "statoids:type":"rural district",
     "wd:wordcount":2087,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632483,
@@ -232,7 +232,7 @@
         "gn:id":7533618,
         "gp:id":24703138,
         "hasc:id":"HK.ST",
-        "qs:id":1263483,
+        "qs_pg:id":1263483,
         "wd:id":"Q855463"
     },
     "wof:country":"HK",
@@ -254,7 +254,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713741,
+    "wof:lastmodified":1566644439,
     "wof:name":"Sha Tin",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

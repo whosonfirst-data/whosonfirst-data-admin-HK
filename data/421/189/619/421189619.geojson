@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.23333,22.46667,114.23333,22.46667",
     "geom:latitude":22.46667,
     "geom:longitude":114.23333,
     "iso:country":"HK",
+    "lbl:bbox":"114.21333,22.44667,114.25333,22.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lung Mei"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1819437,
         "gp:id":2164603,
-        "qs:id":1114914
+        "qs_pg:id":1114914
     },
     "wof:country":"HK",
     "wof:created":1459009630,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":421189619,
-    "wof:lastmodified":1532376999,
+    "wof:lastmodified":1566644510,
     "wof:name":"\u9f8d\u5c3e",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

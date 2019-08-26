@@ -10,8 +10,12 @@
     "geom:latitude":22.53333,
     "geom:longitude":114.25,
     "iso:country":"HK",
+    "lbl:bbox":"114.23,22.51333,114.27,22.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Lai Chi Wo"
@@ -20,9 +24,6 @@
         "Li-k\u00f3-teu"
     ],
     "name:nld_x_preferred":[
-        "Lai Chi Wo"
-    ],
-    "name:unk_x_variant":[
         "Lai Chi Wo"
     ],
     "name:yue_x_preferred":[
@@ -63,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1819565,
         "gp:id":2164532,
-        "qs:id":1083672,
+        "qs_pg:id":1083672,
         "wd:id":"Q3972238",
         "wk:page":"Lai Chi Wo"
     },
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":421187567,
-    "wof:lastmodified":1561845134,
+    "wof:lastmodified":1566644506,
     "wof:name":"\u8354\u679d\u5c71",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

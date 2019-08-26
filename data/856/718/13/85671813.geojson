@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.289454,
     "lbl:longitude":114.385619,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.289454,
     "mps:longitude":114.385619,
     "mz:hierarchy_label":1,
@@ -58,7 +59,7 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0baf\u0bcd \u0b95\u0bc1\u0b99\u0bcd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sai Kung Area"
     ],
     "name:yue_x_preferred":[
@@ -143,9 +144,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"135",
     "statoids:area_mi":"52",
     "statoids:as_of_date":"2011-06-30",
@@ -170,7 +171,7 @@
         "gn:id":1819049,
         "gp:id":24703139,
         "hasc:id":"HK.SK",
-        "qs:id":1119647,
+        "qs_pg:id":1119647,
         "wd:id":"Q1753151"
     },
     "wof:country":"HK",
@@ -192,7 +193,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713743,
+    "wof:lastmodified":1566644440,
     "wof:name":"Sai Kung",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.15001,22.28539,114.19001,22.32539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4f50\u6566"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310424353,
-    "wof:lastmodified":1537625553,
+    "wof:lastmodified":1566644481,
     "wof:name":"Jordon",
     "wof:parent_id":85671791,
     "wof:placetype":"locality",

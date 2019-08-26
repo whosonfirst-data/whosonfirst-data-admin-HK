@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.01667,22.36667,114.01667,22.36667",
     "geom:latitude":22.36667,
     "geom:longitude":114.01667,
     "iso:country":"HK",
+    "lbl:bbox":"113.99667,22.34667,114.03667,22.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tai Lam Chung"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1818715,
         "gp:id":2165052,
-        "qs:id":905904
+        "qs_pg:id":905904
     },
     "wof:country":"HK",
     "wof:created":1459010048,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":421201007,
-    "wof:lastmodified":1532376977,
+    "wof:lastmodified":1566644522,
     "wof:name":"\u5927\u6b16\u773e\u6751",
     "wof:parent_id":85671831,
     "wof:placetype":"locality",

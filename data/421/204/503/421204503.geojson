@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.28414,22.31264,114.28414,22.31264",
     "geom:latitude":22.31264,
     "geom:longitude":114.28414,
     "iso:country":"HK",
+    "lbl:bbox":"114.26414,22.29264,114.30414,22.33264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ping Long Wan"
     ],
     "qs:gn_country":"HK",
@@ -44,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1819124,
         "gp:id":2164794,
-        "qs:id":241158
+        "qs_pg:id":241158
     },
     "wof:country":"HK",
     "wof:created":1459010188,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":421204503,
-    "wof:lastmodified":1532376993,
+    "wof:lastmodified":1566644498,
     "wof:name":"\u5c4f\u6717\u7063",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

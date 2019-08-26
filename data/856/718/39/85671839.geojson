@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":22.524369,
     "lbl:longitude":114.201743,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.524369,
     "mps:longitude":114.201743,
     "mz:hierarchy_label":1,
@@ -502,9 +503,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"134",
     "statoids:area_mi":"52",
     "statoids:as_of_date":"2011-06-30",
@@ -528,7 +529,7 @@
         "gn:id":7533617,
         "gp:id":24703142,
         "hasc:id":"HK.NO",
-        "qs:id":579452
+        "qs_pg:id":579452
     },
     "wof:country":"HK",
     "wof:geomhash":"72cb0eff5fb8fdcb3b36e63db2711d31",
@@ -549,7 +550,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713743,
+    "wof:lastmodified":1566644440,
     "wof:name":"North",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

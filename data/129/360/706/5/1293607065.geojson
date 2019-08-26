@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.17362,22.53404,114.21362,22.57404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xinguitian"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293607065,
-    "wof:lastmodified":1537625518,
+    "wof:lastmodified":1566644448,
     "wof:name":"San Kwai Tin",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",
