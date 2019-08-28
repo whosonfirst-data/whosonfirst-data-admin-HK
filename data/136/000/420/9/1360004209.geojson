@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.0426,22.42748,114.0826,22.46748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shuiwei"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360004209,
-    "wof:lastmodified":1537625509,
+    "wof:lastmodified":1566644485,
     "wof:name":"Shui Mei",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

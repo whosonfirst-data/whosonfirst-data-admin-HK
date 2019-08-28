@@ -11,8 +11,10 @@
     "geom:longitude":114.135572,
     "gn:country":"HK",
     "gn:fcode":"PPLC",
-    "gn:pop":7012738,
+    "gn:population":7012738,
     "iso:country":"HK",
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -429,7 +431,7 @@
     "wof:capital_of":85632483,
     "wof:concordances":{
         "gn:id":1819729,
-        "qs:id":1062512,
+        "qs_pg:id":1062512,
         "wd:id":"Q963152",
         "wk:page":"Hong Kong"
     },
@@ -449,7 +451,7 @@
         }
     ],
     "wof:id":890437279,
-    "wof:lastmodified":1563917546,
+    "wof:lastmodified":1566644535,
     "wof:name":"Hong Kong",
     "wof:parent_id":85671775,
     "wof:placetype":"locality",

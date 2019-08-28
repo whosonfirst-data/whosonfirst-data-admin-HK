@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.18853,22.37521,114.22853,22.41521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u78a7\u6fe4\u82b1\u5712\u7b2c\u4e8c\u671f"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326741031,
-    "wof:lastmodified":1537551397,
+    "wof:lastmodified":1566644413,
     "wof:name":"Pictorial Garden II",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",

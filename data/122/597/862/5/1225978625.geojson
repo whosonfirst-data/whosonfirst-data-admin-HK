@@ -23,8 +23,12 @@
     "gn:population":141900,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.01333,22.43,114.05333,22.47",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ceb_x_preferred":[
         "Yuen Long Kau Hui"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1225978625,
-    "wof:lastmodified":1564146546,
+    "wof:lastmodified":1566644562,
     "wof:name":"Yuen Long Kau Hui",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

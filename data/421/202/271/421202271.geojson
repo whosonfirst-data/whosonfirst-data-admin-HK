@@ -5,12 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.174792,22.3375805,114.174792,22.3375805",
     "geom:latitude":22.337581,
     "geom:longitude":114.174792,
     "iso:country":"HK",
+    "lbl:bbox":"114.154792,22.3175805,114.194792,22.3575805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24702941,
-        "qs:id":220284
+        "qs_pg:id":220284
     },
     "wof:country":"HK",
     "wof:created":1459010111,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421202271,
-    "wof:lastmodified":1532376785,
+    "wof:lastmodified":1566644503,
     "wof:name":"\u7b46\u67b6\u5c71",
     "wof:parent_id":85671799,
     "wof:placetype":"locality",

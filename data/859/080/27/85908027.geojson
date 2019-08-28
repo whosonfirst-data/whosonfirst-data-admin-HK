@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":38531754.518255,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.145012,22.272523,114.145012,22.272523",
     "geom:latitude":22.272523,
     "geom:longitude":114.145012,
     "gn:id":"",
     "iso:country":"HK",
+    "lbl:bbox":"114.140012,22.267523,114.150012,22.277523",
     "lbl:latitude":22.272523,
     "lbl:longitude":114.145012,
+    "lbl:max_zoom":18.0,
     "mps:latitude":22.258731,
     "mps:longitude":114.139618,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     ],
     "name:eng_x_variant":[
         "The Peak to Pok Fu Lam"
-    ],
-    "name:unk_x_variant":[
-        "\u535a\u6276\u6797"
     ],
     "name:zho_x_preferred":[
         "\u535a\u6276\u6797"
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632483,
@@ -70,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26779871,
-        "qs:id":977459
+        "qs_pg:id":977459
     },
     "wof:country":"HK",
     "wof:geomhash":"b49a197081c5ba9c614d168112bcad8e",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1533246659,
+    "wof:lastmodified":1566644435,
     "wof:name":"\u535a\u6276\u6797",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

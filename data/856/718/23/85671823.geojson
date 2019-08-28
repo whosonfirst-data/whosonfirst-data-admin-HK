@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.336048,
     "lbl:longitude":114.10816,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.336048,
     "mps:longitude":114.10816,
     "mz:hierarchy_label":1,
@@ -111,9 +112,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"23",
     "statoids:area_mi":"9",
     "statoids:as_of_date":"2011-06-30",
@@ -137,7 +138,7 @@
         "gn:id":7533615,
         "gp:id":24703132,
         "hasc:id":"HK.KI",
-        "qs:id":221556
+        "qs_pg:id":221556
     },
     "wof:country":"HK",
     "wof:geomhash":"d0b0ee9948df09b6e521b21542b96cc1",
@@ -158,7 +159,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713743,
+    "wof:lastmodified":1566644440,
     "wof:name":"Kwai Tsing",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

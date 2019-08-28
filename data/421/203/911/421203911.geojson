@@ -10,16 +10,17 @@
     "geom:latitude":22.35,
     "geom:longitude":114.25,
     "iso:country":"HK",
+    "lbl:bbox":"114.23,22.33,114.27,22.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pik Uk"
     ],
     "name:nld_x_preferred":[
-        "Pik Uk"
-    ],
-    "name:unk_x_variant":[
         "Pik Uk"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1819110,
         "gp:id":2164798,
-        "qs:id":235496,
+        "qs_pg:id":235496,
         "wd:id":"Q7193531",
         "wk:page":"Pik Uk"
     },
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":421203911,
-    "wof:lastmodified":1561845133,
+    "wof:lastmodified":1566644501,
     "wof:name":"\u58c1\u5c4b",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

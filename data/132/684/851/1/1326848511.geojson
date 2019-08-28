@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.23,22.31333,114.27,22.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chung Ji",
         "Yau Ue Wan",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326848511,
-    "wof:lastmodified":1537625490,
+    "wof:lastmodified":1566644420,
     "wof:name":"Yau Yue Wan",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

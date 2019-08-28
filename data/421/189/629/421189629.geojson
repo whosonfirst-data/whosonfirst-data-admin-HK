@@ -10,16 +10,17 @@
     "geom:latitude":22.2274,
     "geom:longitude":113.92688,
     "iso:country":"HK",
+    "lbl:bbox":"113.90688,22.2074,113.94688,22.2474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tong Fuk"
     ],
     "name:nld_x_preferred":[
-        "Tong Fuk"
-    ],
-    "name:unk_x_variant":[
         "Tong Fuk"
     ],
     "name:yue_x_preferred":[
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1818540,
         "gp:id":2165156,
-        "qs:id":1114918,
+        "qs_pg:id":1114918,
         "wd:id":"Q7820922",
         "wk:page":"Tong Fuk"
     },
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":421189629,
-    "wof:lastmodified":1563917506,
+    "wof:lastmodified":1566644510,
     "wof:name":"\u5858\u798f",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

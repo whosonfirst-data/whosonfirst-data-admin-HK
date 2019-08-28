@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"113.91098,22.24747,113.95098,22.28747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xinjing"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243564621,
-    "wof:lastmodified":1537625518,
+    "wof:lastmodified":1566644544,
     "wof:name":"San Keng",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

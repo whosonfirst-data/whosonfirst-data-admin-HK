@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.11904,22.46095,114.15904,22.50095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhoumeishan"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310423737,
-    "wof:lastmodified":1537625495,
+    "wof:lastmodified":1566644481,
     "wof:name":"Wa Mei Shan",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

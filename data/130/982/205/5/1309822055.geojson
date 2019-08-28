@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.02898,22.47564,114.06898,22.51564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dangan Zhou"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309822055,
-    "wof:lastmodified":1537625503,
+    "wof:lastmodified":1566644488,
     "wof:name":"Tam Kon Chau",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

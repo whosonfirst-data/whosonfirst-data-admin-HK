@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.22094,22.36331,114.26094,22.40331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maoping Xinwu"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209533995,
-    "wof:lastmodified":1537625530,
+    "wof:lastmodified":1566644462,
     "wof:name":"Mau Ping San Uk",
     "wof:parent_id":85632483,
     "wof:placetype":"locality",

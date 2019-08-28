@@ -10,8 +10,12 @@
     "geom:latitude":22.469258,
     "geom:longitude":114.008094,
     "iso:country":"HK",
+    "lbl:bbox":"113.9880935,22.449258,114.0280935,22.489258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tin Shui Wai"
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042384,
-        "qs:id":1090992,
+        "qs_pg:id":1090992,
         "wd:id":"Q3135371"
     },
     "wof:country":"HK",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421188231,
-    "wof:lastmodified":1563917508,
+    "wof:lastmodified":1566644512,
     "wof:name":"Tin Shui Wai",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

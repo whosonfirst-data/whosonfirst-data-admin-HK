@@ -10,8 +10,12 @@
     "geom:latitude":22.299112,
     "geom:longitude":114.172197,
     "iso:country":"HK",
+    "lbl:bbox":"114.152197,22.279112,114.192197,22.319112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u064a\u0627\u0648 \u062a\u0633\u064a\u0645 \u0645\u0648\u0646\u063a"
@@ -120,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042399,
-        "qs:id":506617,
+        "qs_pg:id":506617,
         "wd:id":"Q157669"
     },
     "wof:country":"HK",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":421181839,
-    "wof:lastmodified":1563917512,
+    "wof:lastmodified":1566644514,
     "wof:name":"Yau Tsim Mong",
     "wof:parent_id":85671791,
     "wof:placetype":"locality",

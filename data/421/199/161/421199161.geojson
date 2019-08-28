@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.16667,22.55,114.16667,22.55",
     "geom:latitude":22.55,
     "geom:longitude":114.16667,
     "iso:country":"HK",
+    "lbl:bbox":"114.14667,22.53,114.18667,22.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Heung Yuen Wai"
     ],
     "name:zho_x_preferred":[
@@ -50,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1819753,
         "gp:id":2164426,
-        "qs:id":190383
+        "qs_pg:id":190383
     },
     "wof:country":"HK",
     "wof:created":1459009980,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":421199161,
-    "wof:lastmodified":1532376977,
+    "wof:lastmodified":1566644519,
     "wof:name":"\u9999\u5712\u570d",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

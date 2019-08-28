@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.313116,
     "lbl:longitude":114.226301,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.313116,
     "mps:longitude":114.226301,
     "mz:hierarchy_label":1,
@@ -126,9 +127,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"11",
     "statoids:area_mi":"4",
     "statoids:as_of_date":"2011-06-30",
@@ -153,7 +154,7 @@
         "gn:id":7533614,
         "gp:id":24703136,
         "hasc:id":"HK.KU",
-        "qs:id":1137246,
+        "qs_pg:id":1137246,
         "wd:id":"Q1045119"
     },
     "wof:country":"HK",
@@ -175,7 +176,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713743,
+    "wof:lastmodified":1566644439,
     "wof:name":"Kwun Tong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

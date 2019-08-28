@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"113.90182,22.36625,113.94182,22.40625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Longzai",
         "Lung Tsai"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259894381,
-    "wof:lastmodified":1537625532,
+    "wof:lastmodified":1566644556,
     "wof:name":"Lung Tsai",
     "wof:parent_id":85671831,
     "wof:placetype":"locality",

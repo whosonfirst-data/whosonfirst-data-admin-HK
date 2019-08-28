@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.337633,
     "lbl:longitude":114.048883,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.337633,
     "mps:longitude":114.048883,
     "mz:hierarchy_label":1,
@@ -58,7 +59,7 @@
     "name:srp_x_preferred":[
         "\u0426\u0443\u0435\u043d \u0412\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tseun Wan"
     ],
     "name:wuu_x_preferred":[
@@ -145,9 +146,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"62",
     "statoids:area_mi":"24",
     "statoids:as_of_date":"2011-06-30",
@@ -172,7 +173,7 @@
         "gn:id":1818458,
         "gp:id":24703140,
         "hasc:id":"HK.TW",
-        "qs:id":579451,
+        "qs_pg:id":579451,
         "wd:id":"Q1758914"
     },
     "wof:country":"HK",
@@ -194,7 +195,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713739,
+    "wof:lastmodified":1566644438,
     "wof:name":"Tsuen Wan",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.3344,
     "lbl:longitude":114.155764,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.3344,
     "mps:longitude":114.155764,
     "mz:hierarchy_label":1,
@@ -139,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"9",
     "statoids:area_mi":"3",
     "statoids:as_of_date":"2011-06-30",
@@ -166,7 +167,7 @@
         "gn:id":7533611,
         "gp:id":24703133,
         "hasc:id":"HK.SS",
-        "qs:id":221557,
+        "qs_pg:id":221557,
         "wd:id":"Q1185317"
     },
     "wof:country":"HK",
@@ -188,7 +189,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713738,
+    "wof:lastmodified":1566644437,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
+    "lbl:bbox":"114.28107,22.43121,114.32107,22.47121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lai Chee Chong",
         "Lai Chi Chong",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276557979,
-    "wof:lastmodified":1537625537,
+    "wof:lastmodified":1566644459,
     "wof:name":"Lai Chi Chong",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

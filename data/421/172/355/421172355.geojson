@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"113.93307,22.37198,113.93307,22.37198",
     "geom:latitude":22.37198,
     "geom:longitude":113.93307,
     "iso:country":"HK",
+    "lbl:bbox":"113.91307,22.35198,113.95307,22.39198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siu Lang Shui"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1818782,
         "gp:id":2165018,
-        "qs:id":1306548
+        "qs_pg:id":1306548
     },
     "wof:country":"HK",
     "wof:created":1459008932,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":421172355,
-    "wof:lastmodified":1532376969,
+    "wof:lastmodified":1566644512,
     "wof:name":"\u5c0f\u51b7\u6c34",
     "wof:parent_id":85671831,
     "wof:placetype":"locality",

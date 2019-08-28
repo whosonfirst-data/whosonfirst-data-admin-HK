@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":22.3726,
     "lbl:longitude":113.939854,
+    "lbl:min_zoom":8.0,
     "mps:latitude":22.3726,
     "mps:longitude":113.939854,
     "mz:hierarchy_label":1,
@@ -181,9 +182,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-30",
+    "src:population_date":"2011-06-30",
     "statoids:area_km":"85",
     "statoids:area_mi":"33",
     "statoids:as_of_date":"2011-06-30",
@@ -208,7 +209,7 @@
         "gn:id":7533616,
         "gp:id":24703141,
         "hasc:id":"HK.TM",
-        "qs:id":1119648,
+        "qs_pg:id":1119648,
         "wd:id":"Q1758751"
     },
     "wof:country":"HK",
@@ -230,7 +231,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1565713743,
+    "wof:lastmodified":1566644439,
     "wof:name":"Tuen Mun",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

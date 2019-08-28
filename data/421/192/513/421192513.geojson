@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.1,22.45,114.1,22.45",
     "geom:latitude":22.45,
     "geom:longitude":114.1,
     "iso:country":"HK",
+    "lbl:bbox":"114.08,22.43,114.12,22.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wang Toi Shan"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1818364,
         "gp:id":2165250,
-        "qs:id":1168330
+        "qs_pg:id":1168330
     },
     "wof:country":"HK",
     "wof:created":1459009739,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":421192513,
-    "wof:lastmodified":1532376981,
+    "wof:lastmodified":1566644493,
     "wof:name":"\u6a6b\u53f0\u5c71",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

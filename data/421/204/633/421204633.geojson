@@ -5,14 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.28333,22.3,114.28333,22.3",
     "geom:latitude":22.3,
     "geom:longitude":114.28333,
     "iso:country":"HK",
+    "lbl:bbox":"114.26333,22.28,114.30333,22.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tai Chik Sha"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1818738,
         "gp:id":2165369,
-        "qs:id":242926
+        "qs_pg:id":242926
     },
     "wof:country":"HK",
     "wof:created":1459010192,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":421204633,
-    "wof:lastmodified":1532376993,
+    "wof:lastmodified":1566644498,
     "wof:name":"\u5927\u8d64\u6c99",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",
