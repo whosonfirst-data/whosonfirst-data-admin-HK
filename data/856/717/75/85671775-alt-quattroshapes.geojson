@@ -1,10 +1,12 @@
 {
   "id": 85671775,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-hk",
+  "properties": {
+    "src:alt_label":"quattroshapes",
     "src:geom":"quattroshapes",
     "wof:geomhash":"d342e512128367ef5ceb3444630deb0f",
-    "wof:id":85671775
+    "wof:id":85671775,
+    "wof:repo":"whosonfirst-data-admin-hk"
 },
   "bbox": [
     114.11255944116533,

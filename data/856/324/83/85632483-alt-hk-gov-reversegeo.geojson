@@ -1,10 +1,12 @@
 {
   "id": 85632483,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-hk",
+  "properties": {
+    "src:alt_label":"hk-gov-reversegeo",
     "src:geom":"hk-gov",
     "wof:geomhash":"eecdcf8387e4fe680609465361ad1d1a",
-    "wof:id":85632483
+    "wof:id":85632483,
+    "wof:repo":"whosonfirst-data-admin-hk"
 },
   "bbox": [
     113.81723,
