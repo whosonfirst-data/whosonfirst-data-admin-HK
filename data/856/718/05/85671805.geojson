@@ -165,6 +165,9 @@
         "wd:id":"Q2548183"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c32088ec76aa4d376bca90709e82bc9",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644438,
+    "wof:lastmodified":1582326409,
     "wof:name":"Wong Tai Sin",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

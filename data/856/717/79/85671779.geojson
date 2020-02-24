@@ -188,6 +188,9 @@
         "wd:id":"Q281527"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e956a946c914d25088fa48fa20d94a09",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644437,
+    "wof:lastmodified":1582326408,
     "wof:name":"Wan Chai",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

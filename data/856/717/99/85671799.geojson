@@ -171,6 +171,9 @@
         "wd:id":"Q1185317"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"943afc69a892d1eb33ad9630e51350cd",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644437,
+    "wof:lastmodified":1582326408,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

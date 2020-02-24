@@ -167,6 +167,9 @@
         "wd:id":"Q1758870"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"12df037f525f79ad2a5fe891da8a9af6",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644439,
+    "wof:lastmodified":1582326409,
     "wof:name":"Tai Po",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

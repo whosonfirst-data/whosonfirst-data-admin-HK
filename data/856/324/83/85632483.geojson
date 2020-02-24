@@ -827,7 +827,9 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "hk-gov"
+        "naturalearth",
+        "hk",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -880,6 +882,12 @@
     ],
     "wof:country":"HK",
     "wof:country_alpha3":"HKG",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "hk-gov-reversegeo",
+        "quattroshapes"
+    ],
     "wof:geomhash":"83b9871db5cc9691a8c48dfaf91dd291",
     "wof:hierarchy":[
         {
@@ -897,7 +905,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644435,
+    "wof:lastmodified":1582326408,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
