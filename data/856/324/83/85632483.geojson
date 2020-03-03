@@ -827,7 +827,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "hk",
         "quattroshapes"
     ],
@@ -905,7 +904,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326408,
+    "wof:lastmodified":1583210156,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
