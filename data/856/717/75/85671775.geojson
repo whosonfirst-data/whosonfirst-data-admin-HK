@@ -236,6 +236,9 @@
         "wd:id":"Q312485"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"806babb83ff1f58214a342f9f167b875",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644436,
+    "wof:lastmodified":1582326408,
     "wof:name":"Central and Western",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

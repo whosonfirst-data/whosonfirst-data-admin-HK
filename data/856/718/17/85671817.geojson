@@ -236,6 +236,9 @@
         "wd:id":"Q855463"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9bb5b720c573fa018833aaec0a7a47d",
     "wof:hierarchy":[
         {
@@ -254,7 +257,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644439,
+    "wof:lastmodified":1582326409,
     "wof:name":"Sha Tin",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -144,6 +144,9 @@
         "qs_pg:id":223958
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a49ce876f2cacacf877c848892a2ab41",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644440,
+    "wof:lastmodified":1582326410,
     "wof:name":"Islands",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

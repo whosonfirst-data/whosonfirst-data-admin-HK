@@ -177,6 +177,9 @@
         "wd:id":"Q1758914"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa01c3876fea029c59e9487289ee386a",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644438,
+    "wof:lastmodified":1582326409,
     "wof:name":"Tsuen Wan",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -532,6 +532,9 @@
         "qs_pg:id":579452
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72cb0eff5fb8fdcb3b36e63db2711d31",
     "wof:hierarchy":[
         {
@@ -550,7 +553,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644440,
+    "wof:lastmodified":1582326409,
     "wof:name":"North",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

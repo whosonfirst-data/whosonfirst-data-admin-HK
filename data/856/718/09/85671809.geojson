@@ -158,6 +158,9 @@
         "wd:id":"Q1045119"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8097f9a89a61b06edef99cc769a880ca",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644439,
+    "wof:lastmodified":1582326409,
     "wof:name":"Kwun Tong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

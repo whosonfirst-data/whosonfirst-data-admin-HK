@@ -175,6 +175,9 @@
         "wd:id":"Q1753151"
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9a9571b282c9f04950183d569da25915",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644440,
+    "wof:lastmodified":1582326410,
     "wof:name":"Sai Kung",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

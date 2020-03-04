@@ -72,6 +72,9 @@
         "qs_pg:id":977459
     },
     "wof:country":"HK",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b49a197081c5ba9c614d168112bcad8e",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566644435,
+    "wof:lastmodified":1582326408,
     "wof:name":"\u535a\u6276\u6797",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
