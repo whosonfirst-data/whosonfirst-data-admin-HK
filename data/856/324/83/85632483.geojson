@@ -855,9 +855,7 @@
         890437279
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            344
-        ],
+        "digitalenvoy:country_code":344,
         "fifa:id":"HKG",
         "fips:code":"HK",
         "gaul:id":"33364",
@@ -907,7 +905,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1583529142,
+    "wof:lastmodified":1583797347,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
