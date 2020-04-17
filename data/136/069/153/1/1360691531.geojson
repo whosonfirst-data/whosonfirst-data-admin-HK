@@ -21,7 +21,7 @@
         "Hong Kong International Airport"
     ],
     "name:eng_x_variant":[
-        "Kai Tak International Airport "
+        "Kai Tak International Airport"
     ],
     "src:geom":"sfomuseum",
     "wof:belongsto":[
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1360691531,
-    "wof:lastmodified":1539999175,
+    "wof:lastmodified":1587163122,
     "wof:name":"Hong Kong International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
