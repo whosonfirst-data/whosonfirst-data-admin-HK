@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Shek Kip Mei"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u77f3\u5cfd\u5c3e"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421201915,
-    "wof:lastmodified":1566644523,
-    "wof:name":"\u77f3\u5cfd\u5c3e",
+    "wof:lastmodified":1601068516,
+    "wof:name":"Shek Kip Mei",
     "wof:parent_id":85671799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

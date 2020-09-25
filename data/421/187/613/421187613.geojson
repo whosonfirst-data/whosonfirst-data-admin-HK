@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tai She Wan"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5927\u86c7\u7063"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1818655,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421187613,
-    "wof:lastmodified":1566644509,
-    "wof:name":"\u5927\u86c7\u7063",
+    "wof:lastmodified":1601068514,
+    "wof:name":"Tai She Wan",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

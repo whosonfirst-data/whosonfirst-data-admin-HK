@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sai Wan Ho"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u897f\u7063\u6cb3"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421177435,
-    "wof:lastmodified":1566644526,
-    "wof:name":"\u897f\u7063\u6cb3",
+    "wof:lastmodified":1601068517,
+    "wof:name":"Sai Wan Ho",
     "wof:parent_id":85671785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

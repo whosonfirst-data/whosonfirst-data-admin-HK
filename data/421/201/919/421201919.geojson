@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tai Kok Tsui"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5927\u89d2\u5480"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421201919,
-    "wof:lastmodified":1566644523,
-    "wof:name":"\u5927\u89d2\u5480",
+    "wof:lastmodified":1601068514,
+    "wof:name":"Tai Kok Tsui",
     "wof:parent_id":85671791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

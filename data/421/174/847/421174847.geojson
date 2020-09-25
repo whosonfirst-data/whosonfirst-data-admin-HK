@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Central Kwai Chung"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4e2d\u8475\u6d8c"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421174847,
-    "wof:lastmodified":1566644505,
-    "wof:name":"\u4e2d\u8475\u6d8c",
+    "wof:lastmodified":1601068513,
+    "wof:name":"Central Kwai Chung",
     "wof:parent_id":85671827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

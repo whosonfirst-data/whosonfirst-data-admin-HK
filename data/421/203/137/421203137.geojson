@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Nam Wan"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5357\u7063"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1819287,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421203137,
-    "wof:lastmodified":1566644501,
-    "wof:name":"\u5357\u7063",
+    "wof:lastmodified":1601068514,
+    "wof:name":"Nam Wan",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

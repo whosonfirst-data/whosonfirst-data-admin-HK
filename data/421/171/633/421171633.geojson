@@ -16,6 +16,12 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Islands District"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u96e2\u5cf6"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -64,8 +70,8 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644532,
-    "wof:name":"\u96e2\u5cf6",
+    "wof:lastmodified":1601068517,
+    "wof:name":"Islands District",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-hk",

@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tai Wo Estate"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u592a\u548c"
+    ],
     "name:zho_x_preferred":[
         "\u592a\u548c"
     ],
@@ -68,8 +74,8 @@
         }
     ],
     "wof:id":421171845,
-    "wof:lastmodified":1566644532,
-    "wof:name":"\u592a\u548c",
+    "wof:lastmodified":1601068514,
+    "wof:name":"Tai Wo Estate",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

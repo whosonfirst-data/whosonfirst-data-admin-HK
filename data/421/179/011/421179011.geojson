@@ -17,8 +17,14 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Siu Lam"
+    ],
     "name:und_x_variant":[
         "\u5c0f\u6b16"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8403\u7433"
     ],
     "name:zho_x_preferred":[
         "\u5c0f\u6984"
@@ -67,8 +73,8 @@
         }
     ],
     "wof:id":421179011,
-    "wof:lastmodified":1566644528,
-    "wof:name":"\u8403\u7433",
+    "wof:lastmodified":1601068517,
+    "wof:name":"Siu Lam",
     "wof:parent_id":85671831,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

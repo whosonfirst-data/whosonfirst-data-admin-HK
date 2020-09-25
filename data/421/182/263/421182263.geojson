@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sha Tin Heights"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6c99\u7530\u82b1\u5712"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421182263,
-    "wof:lastmodified":1566644530,
-    "wof:name":"\u6c99\u7530\u82b1\u5712",
+    "wof:lastmodified":1601068515,
+    "wof:name":"Sha Tin Heights",
     "wof:parent_id":85671817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

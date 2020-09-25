@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sham Shek Tsuen"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6df1\u77f3\u90a8"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421175345,
-    "wof:lastmodified":1566644516,
-    "wof:name":"\u6df1\u77f3\u90a8",
+    "wof:lastmodified":1601068516,
+    "wof:name":"Sham Shek Tsuen",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

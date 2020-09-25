@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ta Kwu Ling"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6253\u9f13\u5dba"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421194083,
-    "wof:lastmodified":1566644494,
-    "wof:name":"\u6253\u9f13\u5dba",
+    "wof:lastmodified":1601068515,
+    "wof:name":"Ta Kwu Ling",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

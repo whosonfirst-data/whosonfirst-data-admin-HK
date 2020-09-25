@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Lung Yeuk Tau"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u9f8d\u8e8d\u982d"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421183333,
-    "wof:lastmodified":1566644527,
-    "wof:name":"\u9f8d\u8e8d\u982d",
+    "wof:lastmodified":1601068518,
+    "wof:name":"Lung Yeuk Tau",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

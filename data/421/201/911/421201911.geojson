@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Shap Pat Heung"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5341\u516b\u9109"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421201911,
-    "wof:lastmodified":1566644523,
-    "wof:name":"\u5341\u516b\u9109",
+    "wof:lastmodified":1601068514,
+    "wof:name":"Shap Pat Heung",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

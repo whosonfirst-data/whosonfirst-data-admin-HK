@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Cheung Chau"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u9577\u6d32"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1819968,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421198633,
-    "wof:lastmodified":1566644517,
-    "wof:name":"\u9577\u6d32",
+    "wof:lastmodified":1601068517,
+    "wof:name":"Cheung Chau",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
