@@ -10,6 +10,12 @@
     "geom:latitude":22.463071,
     "geom:longitude":114.1543,
     "iso:country":"HK",
+    "label:eng_x_preferred_longname":[
+        "Kangle Village"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "village"
+    ],
     "lbl:bbox":"114.1343,22.443071,114.1743,22.483071",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -18,6 +24,9 @@
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
+        "Kangle"
+    ],
+    "name:eng_x_variant":[
         "Kangle Village"
     ],
     "name:zho_tw_x_preferred":[
@@ -66,8 +75,8 @@
         }
     ],
     "wof:id":421191029,
-    "wof:lastmodified":1601068545,
-    "wof:name":"Kangle Village",
+    "wof:lastmodified":1601337636,
+    "wof:name":"Kangle",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
