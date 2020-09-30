@@ -17,6 +17,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kangle"
+    ],
+    "name:eng_x_variant":[
+        "Kangle Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eb7\u6a02\u6751"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671843,
-        1159397229
+        1159397229,
+        85671843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":421191029,
-    "wof:lastmodified":1566644518,
-    "wof:name":"\u5eb7\u6a02\u6751",
+    "wof:lastmodified":1601423015,
+    "wof:name":"Kangle",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

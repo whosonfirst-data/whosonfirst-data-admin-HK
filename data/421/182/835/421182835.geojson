@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "The Peak"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5c71\u9802"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671775,
-        1159397233
+        1159397233,
+        85671775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421182835,
-    "wof:lastmodified":1566644529,
-    "wof:name":"\u5c71\u9802",
+    "wof:lastmodified":1601423057,
+    "wof:name":"The Peak",
     "wof:parent_id":85671775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

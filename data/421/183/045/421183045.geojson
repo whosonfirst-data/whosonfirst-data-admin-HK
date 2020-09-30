@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tung Shing Lei"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6771\u6210\u91cc"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1818417,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671833,
-        1159397229
+        1159397229,
+        85671833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421183045,
-    "wof:lastmodified":1566644527,
-    "wof:name":"\u6771\u6210\u91cc",
+    "wof:lastmodified":1601423060,
+    "wof:name":"Tung Shing Lei",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

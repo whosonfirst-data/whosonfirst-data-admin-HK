@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mount Davis"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6469\u661f\u5dba"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":1819339,
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":421204237,
-    "wof:lastmodified":1566644499,
-    "wof:name":"\u6469\u661f\u5dba",
+    "wof:lastmodified":1601423031,
+    "wof:name":"Mount Davis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-hk",

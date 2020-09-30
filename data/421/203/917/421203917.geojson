@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Shek Hang"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u77f3\u5751"
+    ],
     "qs:gn_country":"HK",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1818906,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671843,
-        1159397229
+        1159397229,
+        85671843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":421203917,
-    "wof:lastmodified":1566644501,
-    "wof:name":"\u77f3\u5751",
+    "wof:lastmodified":1601423048,
+    "wof:name":"Shek Hang",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

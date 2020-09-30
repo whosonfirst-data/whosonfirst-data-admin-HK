@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.8923715,22.2795415,113.8923715,22.2795415",
+    "geom:bbox":"113.892371,22.279542,113.892371,22.279542",
     "geom:latitude":22.279542,
     "geom:longitude":113.892371,
     "iso:country":"HK",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sham Shek Tsuen"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6df1\u77f3\u90a8"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671847,
-        1159397229
+        1159397229,
+        85671847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009064,
-    "wof:geomhash":"014bac1755308188c56be33332e3a7e8",
+    "wof:geomhash":"13cce2bd6b229daf4995c8a7e00cfe7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421175345,
-    "wof:lastmodified":1566644516,
-    "wof:name":"\u6df1\u77f3\u90a8",
+    "wof:lastmodified":1601423047,
+    "wof:name":"Sham Shek Tsuen",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.89237149999998,
-    22.2795415,
-    113.89237149999998,
-    22.2795415
+    113.892371,
+    22.279542,
+    113.892371,
+    22.279542
 ],
-  "geometry": {"coordinates":[113.89237149999998,22.2795415],"type":"Point"}
+  "geometry": {"coordinates":[113.892371,22.279542],"type":"Point"}
 }

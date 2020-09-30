@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.1113,22.2266665,114.1113,22.2266665",
+    "geom:bbox":"114.1113,22.226667,114.1113,22.226667",
     "geom:latitude":22.226667,
     "geom:longitude":114.1113,
     "iso:country":"HK",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kam Lo Wan"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8804\u87e7\u7063"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671847,
-        1159397229
+        1159397229,
+        85671847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009524,
-    "wof:geomhash":"404ebb7bf29b1e305d8bf3e5fd8f45ee",
+    "wof:geomhash":"5be2f6b5d89bfaab78f3adfd99ff0bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421187785,
-    "wof:lastmodified":1566644508,
-    "wof:name":"\u8804\u87e7\u7063",
+    "wof:lastmodified":1601423014,
+    "wof:name":"Kam Lo Wan",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     114.1113,
-    22.2266665,
+    22.226667,
     114.1113,
-    22.2266665
+    22.226667
 ],
-  "geometry": {"coordinates":[114.1113,22.2266665],"type":"Point"}
+  "geometry": {"coordinates":[114.1113,22.226667],"type":"Point"}
 }

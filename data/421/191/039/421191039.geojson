@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Big Wave Bay"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5927\u6d6a\u7063"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671789,
-        1159397233
+        1159397233,
+        85671789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421191039,
-    "wof:lastmodified":1566644518,
-    "wof:name":"\u5927\u6d6a\u7063",
+    "wof:lastmodified":1601422980,
+    "wof:name":"Big Wave Bay",
     "wof:parent_id":85671789,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",

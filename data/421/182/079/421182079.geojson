@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.2202955,22.32068,114.2202955,22.32068",
+    "geom:bbox":"114.220296,22.32068,114.220296,22.32068",
     "geom:latitude":22.32068,
     "geom:longitude":114.220296,
     "iso:country":"HK",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Jordan Valley"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4f50\u6566\u8c37"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671809,
-        1159397231
+        1159397231,
+        85671809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009318,
-    "wof:geomhash":"10261f67931ce729ced271af146e83b9",
+    "wof:geomhash":"e4c4ffc5ea4a5336ef2ef604d7e46b73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421182079,
-    "wof:lastmodified":1566644528,
-    "wof:name":"\u4f50\u6566\u8c37",
+    "wof:lastmodified":1601423013,
+    "wof:name":"Jordan Valley",
     "wof:parent_id":85671809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.2202955,
+    114.220296,
     22.32068,
-    114.2202955,
+    114.220296,
     22.32068
 ],
-  "geometry": {"coordinates":[114.22029550000001,22.32068],"type":"Point"}
+  "geometry": {"coordinates":[114.220296,22.32068],"type":"Point"}
 }

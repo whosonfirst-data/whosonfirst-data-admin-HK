@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Miu Tsai"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5edf\u4ed4"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671813,
-        1159397229
+        1159397229,
+        85671813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421171631,
-    "wof:lastmodified":1566644533,
-    "wof:name":"\u5edf\u4ed4",
+    "wof:lastmodified":1601423030,
+    "wof:name":"Miu Tsai",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
