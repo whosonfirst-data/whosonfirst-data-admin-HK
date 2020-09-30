@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671797,
-        1159397231
+        1159397231,
+        85671797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191055,
-    "wof:lastmodified":1601068516,
+    "wof:lastmodified":1601423007,
     "wof:name":"Hung Hom",
     "wof:parent_id":85671797,
     "wof:placetype":"locality",

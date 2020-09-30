@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.10692,22.4961065,114.10692,22.4961065",
+    "geom:bbox":"114.10692,22.496106,114.10692,22.496106",
     "geom:latitude":22.496106,
     "geom:longitude":114.10692,
     "iso:country":"HK",
@@ -48,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671839,
-        1159397229
+        1159397229,
+        85671839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +58,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009063,
-    "wof:geomhash":"4511c110e475939a9a52418750621ba7",
+    "wof:geomhash":"c77eaefdb0607d75a87fc70d601fd54c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":421175341,
-    "wof:lastmodified":1601068516,
+    "wof:lastmodified":1601423035,
     "wof:name":"Ngau Tei",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",
@@ -80,9 +80,9 @@
 },
   "bbox": [
     114.10692,
-    22.4961065,
+    22.496106,
     114.10692,
-    22.4961065
+    22.496106
 ],
-  "geometry": {"coordinates":[114.10692,22.4961065],"type":"Point"}
+  "geometry": {"coordinates":[114.10692,22.496106],"type":"Point"}
 }

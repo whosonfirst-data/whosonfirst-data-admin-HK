@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671833,
-        1159397229
+        1159397229,
+        85671833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":421183045,
-    "wof:lastmodified":1601068515,
+    "wof:lastmodified":1601423060,
     "wof:name":"Tung Shing Lei",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",

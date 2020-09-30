@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"113.9500115,22.440562,113.9500115,22.440562",
+    "geom:bbox":"113.950012,22.440562,113.950012,22.440562",
     "geom:latitude":22.440562,
     "geom:longitude":113.950012,
     "iso:country":"HK",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671833,
-        1159397229
+        1159397229,
+        85671833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009677,
-    "wof:geomhash":"c2a23829aece5cd522cb6e2fab4da45a",
+    "wof:geomhash":"8541592a6c9ae545ccac517650331910",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191033,
-    "wof:lastmodified":1601068516,
+    "wof:lastmodified":1601423040,
     "wof:name":"Pak Nai",
     "wof:parent_id":85671833,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    113.9500115,
+    113.950012,
     22.440562,
-    113.9500115,
+    113.950012,
     22.440562
 ],
-  "geometry": {"coordinates":[113.9500115,22.440562],"type":"Point"}
+  "geometry": {"coordinates":[113.950012,22.440562],"type":"Point"}
 }

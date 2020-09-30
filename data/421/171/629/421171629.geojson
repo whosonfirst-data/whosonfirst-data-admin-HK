@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.20031,22.3523045,114.20031,22.3523045",
+    "geom:bbox":"114.20031,22.352304,114.20031,22.352304",
     "geom:latitude":22.352304,
     "geom:longitude":114.20031,
     "iso:country":"HK",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671805,
-        1159397231
+        1159397231,
+        85671805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459008901,
-    "wof:geomhash":"b7ae9da930aee7f4f055f596885c0053",
+    "wof:geomhash":"951c0daa07ac97a5a33059fa8c1dc457",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421171629,
-    "wof:lastmodified":1601068515,
+    "wof:lastmodified":1601423060,
     "wof:name":"Tsz Wan Shan",
     "wof:parent_id":85671805,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     114.20031,
-    22.3523045,
+    22.352304,
     114.20031,
-    22.3523045
+    22.352304
 ],
-  "geometry": {"coordinates":[114.20031,22.3523045],"type":"Point"}
+  "geometry": {"coordinates":[114.20031,22.352304],"type":"Point"}
 }

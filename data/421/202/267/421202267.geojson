@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.1755215,22.31858,114.1755215,22.31858",
+    "geom:bbox":"114.175522,22.31858,114.175522,22.31858",
     "geom:latitude":22.31858,
     "geom:longitude":114.175522,
     "iso:country":"HK",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671797,
-        1159397231
+        1159397231,
+        85671797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459010111,
-    "wof:geomhash":"922d4e56960c936f359fd5c15257dd97",
+    "wof:geomhash":"5e52fdadc09c4dbbb6c0042a38e71147",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421202267,
-    "wof:lastmodified":1601068514,
+    "wof:lastmodified":1601423004,
     "wof:name":"Ho Man Tin",
     "wof:parent_id":85671797,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.1755215,
+    114.175522,
     22.31858,
-    114.1755215,
+    114.175522,
     22.31858
 ],
-  "geometry": {"coordinates":[114.1755215,22.31858],"type":"Point"}
+  "geometry": {"coordinates":[114.175522,22.31858],"type":"Point"}
 }

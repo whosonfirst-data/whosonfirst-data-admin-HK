@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671823,
-        1159397229
+        1159397229,
+        85671823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421175343,
-    "wof:lastmodified":1601068517,
+    "wof:lastmodified":1601423014,
     "wof:name":"Kam Chuk Kok",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",

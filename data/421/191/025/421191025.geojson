@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671847,
-        1159397229
+        1159397229,
+        85671847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421191025,
-    "wof:lastmodified":1601068517,
+    "wof:lastmodified":1601422995,
     "wof:name":"Fung Peng Syu",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

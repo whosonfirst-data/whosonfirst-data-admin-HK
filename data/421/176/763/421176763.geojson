@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.22039,22.3344775,114.22039,22.3344775",
+    "geom:bbox":"114.22039,22.334477,114.22039,22.334477",
     "geom:latitude":22.334477,
     "geom:longitude":114.22039,
     "iso:country":"HK",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671805,
-        1159397231
+        1159397231,
+        85671805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459009118,
-    "wof:geomhash":"7276aac41075925205d0ea22a10a6422",
+    "wof:geomhash":"afdafc7564e48a27c3cc0f7395d164dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421176763,
-    "wof:lastmodified":1601068516,
+    "wof:lastmodified":1601423035,
     "wof:name":"Ngau Chi Wan",
     "wof:parent_id":85671805,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     114.22039,
-    22.3344775,
+    22.334477,
     114.22039,
-    22.3344775
+    22.334477
 ],
-  "geometry": {"coordinates":[114.22038999999999,22.3344775],"type":"Point"}
+  "geometry": {"coordinates":[114.22038999999999,22.334477],"type":"Point"}
 }

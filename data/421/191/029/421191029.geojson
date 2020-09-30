@@ -10,12 +10,6 @@
     "geom:latitude":22.463071,
     "geom:longitude":114.1543,
     "iso:country":"HK",
-    "label:eng_x_preferred_longname":[
-        "Kangle Village"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "village"
-    ],
     "lbl:bbox":"114.1343,22.443071,114.1743,22.483071",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -54,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671843,
-        1159397229
+        1159397229,
+        85671843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +69,7 @@
         }
     ],
     "wof:id":421191029,
-    "wof:lastmodified":1601337636,
+    "wof:lastmodified":1601423015,
     "wof:name":"Kangle",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

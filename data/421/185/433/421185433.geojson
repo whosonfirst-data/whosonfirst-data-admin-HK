@@ -42,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671843,
-        1159397229
+        1159397229,
+        85671843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":421185433,
-    "wof:lastmodified":1601068514,
+    "wof:lastmodified":1601423054,
     "wof:name":"Tai Wo",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

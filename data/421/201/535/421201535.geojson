@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"114.2581815,22.16554,114.2581815,22.16554",
+    "geom:bbox":"114.258182,22.16554,114.258182,22.16554",
     "geom:latitude":22.16554,
     "geom:longitude":114.258182,
     "iso:country":"HK",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671847,
-        1159397229
+        1159397229,
+        85671847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"HK",
     "wof:created":1459010075,
-    "wof:geomhash":"0ad72dd372572b6ed9cb850b55d4bbaa",
+    "wof:geomhash":"f4a41c03cb1dd1faa877229042ecfcd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421201535,
-    "wof:lastmodified":1601068514,
+    "wof:lastmodified":1601423040,
     "wof:name":"Pak Lau Tsai",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    114.2581815,
+    114.258182,
     22.16554,
-    114.2581815,
+    114.258182,
     22.16554
 ],
-  "geometry": {"coordinates":[114.25818150000001,22.16554],"type":"Point"}
+  "geometry": {"coordinates":[114.25818200000001,22.16554],"type":"Point"}
 }

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671799,
-        1159397231
+        1159397231,
+        85671799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421200661,
-    "wof:lastmodified":1601068517,
+    "wof:lastmodified":1601423020,
     "wof:name":"Lai Chi Kok",
     "wof:parent_id":85671799,
     "wof:placetype":"locality",

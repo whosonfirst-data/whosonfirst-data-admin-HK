@@ -51,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        85671831,
-        1159397229
+        1159397229,
+        85671831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":421179011,
-    "wof:lastmodified":1601068517,
+    "wof:lastmodified":1601423053,
     "wof:name":"Siu Lam",
     "wof:parent_id":85671831,
     "wof:placetype":"locality",
