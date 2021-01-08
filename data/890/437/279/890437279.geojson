@@ -17,7 +17,7 @@
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":7.0,
+    "mz:min_zoom":3.0,
     "name:abk_x_preferred":[
         "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
     ],
@@ -137,6 +137,9 @@
     ],
     "name:ido_x_preferred":[
         "Victoria"
+    ],
+    "name:ind_x_preferred":[
+        "Hong Kong"
     ],
     "name:ita_x_preferred":[
         "Hong Kong"
@@ -433,6 +436,7 @@
     ],
     "wof:concordances":{
         "gn:id":1819729,
+        "ne:id":1159151629,
         "qs_pg:id":1062512,
         "wd:id":"Q963152",
         "wk:page":"Hong Kong"
@@ -453,7 +457,8 @@
         }
     ],
     "wof:id":890437279,
-    "wof:lastmodified":1607390886,
+    "wof:lastmodified":1608688194,
+    "wof:megacity":1,
     "wof:name":"Hong Kong",
     "wof:parent_id":85671775,
     "wof:placetype":"locality",
