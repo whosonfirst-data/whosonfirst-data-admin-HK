@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Kwun Tong"
     ],
+    "name:fra_x_preferred":[
+        "Kwun Tong"
+    ],
     "name:jpn_x_preferred":[
         "\u89b3\u5858"
     ],
@@ -179,7 +182,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326409,
+    "wof:lastmodified":1627522170,
     "wof:name":"Kwun Tong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

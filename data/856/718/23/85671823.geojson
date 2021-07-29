@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Kwai Tsing"
     ],
+    "name:fra_x_preferred":[
+        "Kwai Tsing"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\uc774\uce6d \uad6c"
     ],
@@ -162,7 +165,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326410,
+    "wof:lastmodified":1627522170,
     "wof:name":"Kwai Tsing",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

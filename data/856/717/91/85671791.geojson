@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Yau Tsim Mong"
     ],
+    "name:fra_x_preferred":[
+        "Yau Tsim Mong"
+    ],
     "name:kor_x_preferred":[
         "\uc720\uc820\uc655 \uad6c"
     ],
@@ -163,7 +166,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326408,
+    "wof:lastmodified":1627522170,
     "wof:name":"Yau Tsim Mong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

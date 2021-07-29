@@ -41,6 +41,9 @@
     "name:epo_x_preferred":[
         "Sai Kung"
     ],
+    "name:fra_x_preferred":[
+        "Sai Kung"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u8ca2\u5e02"
     ],
@@ -196,7 +199,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1617131071,
+    "wof:lastmodified":1627522170,
     "wof:name":"Sai Kung",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Eastern"
     ],
+    "name:fra_x_preferred":[
+        "District oriental"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30b9\u30bf\u30f3"
     ],
@@ -183,7 +186,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326409,
+    "wof:lastmodified":1627522170,
     "wof:name":"Eastern",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

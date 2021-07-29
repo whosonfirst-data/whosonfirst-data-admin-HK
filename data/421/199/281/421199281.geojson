@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Hong Kong Island"
     ],
+    "name:fra_x_preferred":[
+        "\u00cele de Hong Kong"
+    ],
     "name:zho_hk_x_preferred":[
         "\u6e2f\u5cf6"
     ],
@@ -70,7 +73,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1601423005,
+    "wof:lastmodified":1627522170,
     "wof:name":"Hong Kong Island",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

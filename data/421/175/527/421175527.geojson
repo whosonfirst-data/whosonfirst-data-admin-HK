@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "New Territories"
     ],
+    "name:fra_x_preferred":[
+        "Nouveaux Territoires"
+    ],
     "name:zho_hk_x_preferred":[
         "\u65b0\u754c"
     ],
@@ -70,7 +73,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1601423035,
+    "wof:lastmodified":1627522170,
     "wof:name":"New Territories",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Wong Tai Sin"
     ],
+    "name:fra_x_preferred":[
+        "Chuk Un"
+    ],
     "name:jpn_x_preferred":[
         "\u9ec4\u521d\u5e73"
     ],
@@ -186,7 +189,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326409,
+    "wof:lastmodified":1627522170,
     "wof:name":"Wong Tai Sin",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

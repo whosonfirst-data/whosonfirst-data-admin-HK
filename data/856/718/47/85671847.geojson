@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Islands"
     ],
+    "name:fra_x_preferred":[
+        "Islands"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\ub2e4\uc624 \uad6c"
     ],
@@ -165,7 +168,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326410,
+    "wof:lastmodified":1627522170,
     "wof:name":"Islands",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",
