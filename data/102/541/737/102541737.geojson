@@ -22,6 +22,10 @@
     "name:eng_x_preferred":[
         "Hong Kong International Airport"
     ],
+    "name:eng_x_variant":[
+        "HKG",
+        "VHHH"
+    ],
     "name:zho_x_preferred":[
         "\u9999\u6e2f\u570b\u969b\u6a5f\u5834"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":102541737,
-    "wof:lastmodified":1566644425,
+    "wof:lastmodified":1631746499,
     "wof:name":"Hong Kong International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
