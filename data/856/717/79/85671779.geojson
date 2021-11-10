@@ -53,10 +53,11 @@
         "\u6e7e\u4ed4"
     ],
     "name:kor_x_preferred":[
-        "\uc644\ucbd4"
+        "\uc644 \ucc28\uc774"
     ],
     "name:kor_x_variant":[
-        "\uc644\ucbd4 \uad6c"
+        "\uc644\ucbd4 \uad6c",
+        "\uc644\ucbd4"
     ],
     "name:lat_x_preferred":[
         "Wan Chai"
@@ -64,16 +65,46 @@
     "name:lzh_x_preferred":[
         "\u7063\u4ed4"
     ],
+    "name:nld_x_preferred":[
+        "Wan Chai"
+    ],
+    "name:pol_x_preferred":[
+        "Wan Chai"
+    ],
+    "name:por_x_preferred":[
+        "Wan Chai"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043d\u044c\u0447\u0430\u0439"
     ],
+    "name:swe_x_preferred":[
+        "Wan Chai"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9e\u0bcd\u0b9a\u0bbe\u0baf\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Wan Chai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u0447\u0430\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0646 \u0686\u0627\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Loan T\u1ec3"
     ],
     "name:wuu_x_preferred":[
         "\u6e7e\u4ed4"
     ],
     "name:yue_x_preferred":[
+        "\u7063\u4ed4"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6e7e\u4ed4"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u7063\u4ed4"
     ],
     "name:zho_x_preferred":[
@@ -209,7 +240,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326408,
+    "wof:lastmodified":1636496701,
     "wof:name":"Wan Chai",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

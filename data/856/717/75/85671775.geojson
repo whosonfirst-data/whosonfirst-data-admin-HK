@@ -116,6 +116,9 @@
         "Orta ve Bat\u0131"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0631\u0644 \u0627\u0648\u0631 \u0648\u06cc\u0633\u0679\u0631\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u0633\u0637\u06cc \u0627\u0648\u0631 \u0645\u063a\u0631\u0628\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
@@ -124,8 +127,14 @@
     "name:yue_x_preferred":[
         "\u4e2d\u897f\u5340"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e2d\u897f\u533a"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tiong-se-khu"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u897f\u90e8"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u897f\u5340"
@@ -257,7 +266,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326408,
+    "wof:lastmodified":1636496700,
     "wof:name":"Central and Western",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

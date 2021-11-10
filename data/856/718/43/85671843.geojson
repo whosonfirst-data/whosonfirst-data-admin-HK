@@ -38,24 +38,55 @@
         "Tai Po"
     ],
     "name:kor_x_preferred":[
-        "\ub2e4\ud478 \uad6c"
+        "\ud0c0\uc774 \ud3ec"
     ],
     "name:kor_x_variant":[
-        "\ub2e4\ud478"
+        "\ub2e4\ud478",
+        "\ub2e4\ud478 \uad6c"
     ],
     "name:nld_x_preferred":[
         "Tai Po"
     ],
+    "name:pol_x_preferred":[
+        "Tai Po"
+    ],
+    "name:por_x_preferred":[
+        "Tai Po"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u043f\u043e\u0443"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0430\u0458 \u041f\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Tai Po"
+    ],
+    "name:tur_x_preferred":[
+        "Tai Po"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439\u043f\u043e"
+    ],
     "name:und_x_variant":[
         "Ta-p\u2019u"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0626\u06cc \u067e\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i B\u1ed9"
     ],
     "name:wuu_x_preferred":[
         "\u5927\u57d4"
     ],
     "name:yue_x_preferred":[
+        "\u5927\u57d4"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5927\u57d4"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u5927\u57d4"
     ],
     "name:zho_x_preferred":[
@@ -188,7 +219,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1617130314,
+    "wof:lastmodified":1636496703,
     "wof:name":"Tai Po",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

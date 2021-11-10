@@ -59,7 +59,16 @@
         "Eastern"
     ],
     "name:vie_x_preferred":[
+        "Qu\u1eadn \u0110\u00f4ng"
+    ],
+    "name:vie_x_variant":[
         "Ph\u01b0\u01a1ng \u0110\u00f4ng"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e1c\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u65b9"
     ],
     "name:zho_x_preferred":[
         "\u6771\u5340"
@@ -186,7 +195,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1627522170,
+    "wof:lastmodified":1636496701,
     "wof:name":"Eastern",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

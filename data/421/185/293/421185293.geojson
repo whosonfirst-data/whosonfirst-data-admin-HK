@@ -17,11 +17,86 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0645 \u0634\u0648\u064a \u0628\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09ae \u09b6\u09c1\u0987 \u09aa\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc \u03a3\u03bf\u03cd\u03b9 \u03a0\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Sham Shui Po"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645 \u0634\u0648\u06cc\u06cc \u067e\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05dd \u05e9\u05d5\u05d9 \u05e4\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u093e\u092e \u0936\u0941\u0908 \u092a\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:ind_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:ita_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6df1\u6c34\u57d7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0f4 \uc218\uc774 \ud3ec"
+    ],
+    "name:nld_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:pol_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:por_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c \u0428\u0443\u0439 \u041f\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:swe_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:tur_x_preferred":[
+        "Sham Shui Po"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0448\u0443\u043f\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0645 \u0634\u0648\u0626\u06cc \u067e\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e2m Th\u1ee7y B\u1ed9"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6df1\u6c34\u57d7"
+    ],
     "name:zho_hk_x_preferred":[
         "\u6df1\u6c34\u6b65"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6df1\u6c34\u57d7"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -45,8 +120,8 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        1159397231,
-        85671799
+        85671799,
+        1159397231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +141,7 @@
         }
     ],
     "wof:id":421185293,
-    "wof:lastmodified":1601423047,
+    "wof:lastmodified":1636496705,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":85671799,
     "wof:placetype":"locality",

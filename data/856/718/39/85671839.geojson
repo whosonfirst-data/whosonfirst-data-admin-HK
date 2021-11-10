@@ -411,6 +411,9 @@
         "Pohjoine"
     ],
     "name:vie_x_preferred":[
+        "Qu\u1eadn B\u1eafc"
+    ],
+    "name:vie_x_variant":[
         "H\u01b0\u1edbng B\u1eafc"
     ],
     "name:war_x_preferred":[
@@ -427,6 +430,12 @@
     ],
     "name:yor_x_preferred":[
         "\u00c0r\u00edw\u00e1"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5317"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u65b9"
     ],
     "name:zho_x_preferred":[
         "\u5317\u5340"
@@ -553,7 +562,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326409,
+    "wof:lastmodified":1636496703,
     "wof:name":"North",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

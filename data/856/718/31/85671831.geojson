@@ -93,6 +93,9 @@
         "\u0b9a\u0bc1\u0ba9\u0bcd \u0bae\u0bc2\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:vie_x_preferred":[
+        "Tru\u00e2n M\u00f4n"
+    ],
+    "name:vie_x_variant":[
         "\u0110\u1ed3n M\u00f4n"
     ],
     "name:wuu_x_preferred":[
@@ -102,6 +105,12 @@
         "\u5c6f\u9580\u5340"
     ],
     "name:yue_x_variant":[
+        "\u5c6f\u9580"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5c6f\u95e8"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u5c6f\u9580"
     ],
     "name:zho_x_preferred":[
@@ -234,7 +243,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1582326409,
+    "wof:lastmodified":1636496703,
     "wof:name":"Tuen Mun",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

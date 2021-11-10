@@ -47,13 +47,46 @@
         "\ud669\ub2e4\uc174 \uad6c"
     ],
     "name:nld_x_preferred":[
+        "Wong Tai Sin"
+    ],
+    "name:nld_x_variant":[
         "Huang Daxian"
+    ],
+    "name:pol_x_preferred":[
+        "Wong Tai Sin"
+    ],
+    "name:por_x_preferred":[
+        "Wong Tai Sin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043d\u0442\u0430\u0439\u0441\u0438\u043d\u044c"
     ],
     "name:spa_x_preferred":[
         "Wong Tai Sin"
     ],
+    "name:swe_x_preferred":[
+        "Wong Tai Sin"
+    ],
+    "name:tur_x_preferred":[
+        "Wong Tai Sin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043d\u0433\u0442\u0430\u0439\u0448\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u0646\u06af \u062a\u0627\u0626\u06cc \u0633\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Ho\u00e0ng \u0110\u1ea1i Ti\u00ean"
+    ],
     "name:yue_x_preferred":[
         "\u9ec3\u521d\u5e73"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9ec4\u5927\u4ed9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9ec3\u5927\u4ed9"
     ],
     "name:zho_x_preferred":[
         "\u9ec4\u521d\u5e73"
@@ -189,7 +222,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1627522170,
+    "wof:lastmodified":1636496702,
     "wof:name":"Wong Tai Sin",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

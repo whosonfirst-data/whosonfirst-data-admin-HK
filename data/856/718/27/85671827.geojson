@@ -44,14 +44,24 @@
         "\u8343\u6e7e"
     ],
     "name:kor_x_preferred":[
-        "\ucde8\uc548\uc644 \uad6c"
+        "\ucde8\uc5d4 \uc644"
     ],
     "name:kor_x_variant":[
         "\ucdec\uc644 \uad6c",
-        "\ucde8\uc548\uc644"
+        "\ucde8\uc548\uc644",
+        "\ucde8\uc548\uc644 \uad6c"
     ],
     "name:nld_x_preferred":[
         "Tsuen Wan"
+    ],
+    "name:pol_x_preferred":[
+        "Tsuen Wan"
+    ],
+    "name:por_x_preferred":[
+        "Tsuen Wan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0445\u044e\u043d\u044c\u0432\u0430\u043d\u044c"
     ],
     "name:spa_x_preferred":[
         "Tsuen Wan"
@@ -59,13 +69,34 @@
     "name:srp_x_preferred":[
         "\u0426\u0443\u0435\u043d \u0412\u0430\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Tsuen Wan"
+    ],
+    "name:tur_x_preferred":[
+        "Tsuen Wan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0441\u0443\u0435\u043d \u0412\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Tseun Wan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0626\u0646 \u0648\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Thuy\u00ean Loan"
     ],
     "name:wuu_x_preferred":[
         "\u8343\u7063"
     ],
     "name:yue_x_preferred":[
+        "\u8343\u7063"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8343\u6e7e"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u8343\u7063"
     ],
     "name:zho_x_preferred":[
@@ -198,7 +229,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1617131062,
+    "wof:lastmodified":1636496702,
     "wof:name":"Tsuen Wan",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",
