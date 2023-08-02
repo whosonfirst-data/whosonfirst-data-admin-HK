@@ -19,8 +19,14 @@
     "name:eng_x_preferred":[
         "Sai Ying Pun"
     ],
+    "name:gan_x_preferred":[
+        "\u897f\u71df\u76e4"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u55b6\u76e4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uc774\uc789\ud47c"
     ],
     "name:und_x_variant":[
         "Sai Ying Poon"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421185125,
-    "wof:lastmodified":1566644535,
+    "wof:lastmodified":1690930183,
     "wof:name":"\u897f\u71df\u76e4",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

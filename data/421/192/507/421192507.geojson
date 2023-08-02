@@ -16,6 +16,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Causeway Bay"
+    ],
     "name:deu_x_preferred":[
         "Causeway Bay"
     ],
@@ -26,6 +29,9 @@
         "Causeway Bay"
     ],
     "name:fra_x_preferred":[
+        "Causeway Bay"
+    ],
+    "name:ind_x_preferred":[
         "Causeway Bay"
     ],
     "name:jpn_x_preferred":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421192507,
-    "wof:lastmodified":1566644492,
+    "wof:lastmodified":1690930173,
     "wof:name":"\u9285\u947c\u7063",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

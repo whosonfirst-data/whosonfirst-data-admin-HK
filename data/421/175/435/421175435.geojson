@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Tsimshatsui"
     ],
+    "name:epo_x_preferred":[
+        "Cim\u015dacuj"
+    ],
     "name:fin_x_preferred":[
         "Tsim Sha Tsui"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421175435,
-    "wof:lastmodified":1566644516,
+    "wof:lastmodified":1690930179,
     "wof:name":"\u5c16\u6c99\u5480",
     "wof:parent_id":85671791,
     "wof:placetype":"locality",

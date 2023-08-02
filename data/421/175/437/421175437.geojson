@@ -84,8 +84,14 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc8\u0baf\u0bae\u0bcd"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e17\u0e23\u0e31\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Merkez"
+    ],
+    "name:vie_x_preferred":[
+        "Trung Ho\u00e0n"
     ],
     "name:yue_x_preferred":[
         "\u4e2d\u74b0"
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421175437,
-    "wof:lastmodified":1566644515,
+    "wof:lastmodified":1690930179,
     "wof:name":"\u4e2d\u74b0",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

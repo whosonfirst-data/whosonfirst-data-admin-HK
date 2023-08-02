@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Kwai Chung"
     ],
+    "name:ind_x_preferred":[
+        "Kwai Chung"
+    ],
     "name:jpn_x_preferred":[
         "\u8475\u6d8c"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0b9a\u0bc1\u0b99\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06be\u0648\u0626\u06cc \u0686\u06be\u0646\u06af"
     ],
     "name:wuu_x_preferred":[
         "\u8475\u6d8c"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421188267,
-    "wof:lastmodified":1566644511,
+    "wof:lastmodified":1690930178,
     "wof:name":"\u4e0b\u8475\u6d8c",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",

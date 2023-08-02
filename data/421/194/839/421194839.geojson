@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062a\u0634\u0643 \u0644\u0627\u0628 \u0643\u0648\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062a\u0634\u0643 \u0644\u0627\u0628 \u0643\u0648\u0643"
+    ],
     "name:ast_x_preferred":[
         "Chek Lap Kok"
     ],
@@ -35,11 +38,17 @@
     "name:eng_x_preferred":[
         "Chek Lap Kok"
     ],
+    "name:est_x_preferred":[
+        "Chek Lap Kok"
+    ],
     "name:eus_x_preferred":[
         "Chek Lap Kok"
     ],
     "name:fas_x_preferred":[
         "\u0686\u06a9 \u0644\u067e \u06a9\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Chek Lap Kok"
     ],
     "name:fra_x_preferred":[
         "Chek Lap Kok"
@@ -58,6 +67,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce20\ub840\uc790\uc624 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\uccb5\ub78d\ucf55\uc12c"
     ],
     "name:nan_x_preferred":[
         "Chhiah-la\u030dh-kak"
@@ -86,11 +98,20 @@
     "name:swe_x_preferred":[
         "Chek Lap Kok"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0b95\u0bcd \u0bb2\u0bca\u0baa\u0bcd \u0b95\u0bca\u0b95\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e0a\u0e47\u0e04\u0e41\u0e25\u0e1b\u0e01\u0e4a\u0e01"
     ],
     "name:tur_x_preferred":[
         "Chek Lap Kok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043a \u041b\u0430\u043f \u041a\u043e\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u06a9 \u0644\u0627\u067e \u06a9\u0648\u06a9"
     ],
     "name:vie_x_preferred":[
         "X\u00edch Li\u1ec7p Gi\u00e1c"
@@ -155,7 +176,7 @@
         }
     ],
     "wof:id":421194839,
-    "wof:lastmodified":1566644495,
+    "wof:lastmodified":1690930174,
     "wof:name":"Chek Lap Kok",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

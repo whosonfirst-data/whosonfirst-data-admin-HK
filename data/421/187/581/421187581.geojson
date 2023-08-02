@@ -20,7 +20,13 @@
     "name:eng_x_preferred":[
         "Nim Shue Wan"
     ],
+    "name:jpn_x_preferred":[
+        "\u7a14\u6a39\u6e7e"
+    ],
     "name:yue_x_preferred":[
+        "\u7a14\u6a39\u7063"
+    ],
+    "name:zho_x_preferred":[
         "\u7a14\u6a39\u7063"
     ],
     "qs:gn_country":"HK",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":421187581,
-    "wof:lastmodified":1566644507,
+    "wof:lastmodified":1690930177,
     "wof:name":"\u7a14\u6a39\u7063\u6751",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",

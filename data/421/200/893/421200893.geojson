@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Fung Hang"
+    ],
     "name:eng_x_preferred":[
         "Fung Hang"
     ],
+    "name:fra_x_preferred":[
+        "Fung Hang"
+    ],
     "name:nld_x_preferred":[
+        "Fung Hang"
+    ],
+    "name:spa_x_preferred":[
         "Fung Hang"
     ],
     "name:yue_x_preferred":[
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":421200893,
-    "wof:lastmodified":1566644521,
+    "wof:lastmodified":1690930180,
     "wof:name":"\u9cf3\u676d",
     "wof:parent_id":85671839,
     "wof:placetype":"locality",

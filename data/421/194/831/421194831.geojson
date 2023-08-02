@@ -74,6 +74,9 @@
     "name:und_x_variant":[
         "Shekpaiwan"
     ],
+    "name:vie_x_preferred":[
+        "Aberdeen"
+    ],
     "name:yue_x_preferred":[
         "\u9999\u6e2f\u4ed4"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421194831,
-    "wof:lastmodified":1566644495,
+    "wof:lastmodified":1690930174,
     "wof:name":"\u9999\u6e2f\u4ed4",
     "wof:parent_id":85671789,
     "wof:placetype":"locality",

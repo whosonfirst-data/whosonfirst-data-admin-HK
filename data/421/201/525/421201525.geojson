@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Yung Shue Wan"
     ],
+    "name:jpn_x_preferred":[
+        "\u6995\u6a39\u6e7e"
+    ],
     "name:nld_x_preferred":[
         "Yung Shue Wan"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421201525,
-    "wof:lastmodified":1566644523,
+    "wof:lastmodified":1690930181,
     "wof:name":"\u6995\u6a39\u7063",
     "wof:parent_id":85671847,
     "wof:placetype":"locality",
