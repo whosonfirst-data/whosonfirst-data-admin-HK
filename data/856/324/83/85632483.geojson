@@ -52,17 +52,29 @@
     "name:aka_x_preferred":[
         "Hong Kong"
     ],
+    "name:alt_x_preferred":[
+        "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+    ],
     "name:amh_x_preferred":[
         "\u1206\u1295\u130d \u12ae\u1295\u130d"
     ],
+    "name:ami_x_preferred":[
+        "Hong kong"
+    ],
     "name:ang_x_preferred":[
         "Hong Kong"
+    ],
+    "name:anp_x_preferred":[
+        "\u0939\u093e\u0901\u0917\u0915\u093e\u0901\u0917"
     ],
     "name:ara_x_preferred":[
         "\u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a"
     ],
     "name:arg_x_preferred":[
         "Hong Kong"
+    ],
+    "name:ary_x_preferred":[
+        "\u0647\u0648\u0646\u0643\u0648\u0646\u06ad"
     ],
     "name:arz_x_preferred":[
         "\u0647\u0648\u0646\u062c \u0643\u0648\u0646\u062c"
@@ -72,6 +84,9 @@
     ],
     "name:ast_x_preferred":[
         "\u1e24ong Kong"
+    ],
+    "name:awa_x_preferred":[
+        "\u0939\u0919\u0915\u0919"
     ],
     "name:azb_x_preferred":[
         "\u0647\u0648\u0646\u06af \u06a9\u0648\u0646\u06af"
@@ -86,6 +101,9 @@
         "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
     ],
     "name:bam_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:ban_x_preferred":[
         "Hong Kong"
     ],
     "name:bar_x_preferred":[
@@ -127,6 +145,9 @@
     "name:brh_x_preferred":[
         "H\u00e1ng K\u00e1ng"
     ],
+    "name:bug_x_preferred":[
+        "Hong Kong"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043d\u043a\u043e\u043d\u0433"
     ],
@@ -148,6 +169,9 @@
     "name:che_x_preferred":[
         "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
     ],
+    "name:chr_x_preferred":[
+        "\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9"
+    ],
     "name:chv_x_preferred":[
         "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
     ],
@@ -160,11 +184,20 @@
     "name:cor_x_preferred":[
         "Hong Kong"
     ],
+    "name:cos_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:crh_x_preferred":[
+        "Ho\u00f1 Ko\u00f1"
+    ],
     "name:cym_x_preferred":[
         "Hong Kong S.A.R., Tseina"
     ],
     "name:cym_x_variant":[
         "Hong Cong"
+    ],
+    "name:dag_x_preferred":[
+        "Hong Kong"
     ],
     "name:dan_x_preferred":[
         "Hongkong"
@@ -259,6 +292,9 @@
     "name:fry_x_preferred":[
         "Hongkong"
     ],
+    "name:fur_x_preferred":[
+        "Hong Kong"
+    ],
     "name:gag_x_preferred":[
         "Hong Kong"
     ],
@@ -277,8 +313,17 @@
     "name:glg_x_preferred":[
         "Hong Kong"
     ],
+    "name:glv_x_preferred":[
+        "Hong Kong"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf37\ud800\udf30\ud800\udf3f\ud800\udf32\ud800\udf3a\ud800\udf30\ud800\udf3f\ud800\udf32\ud800\udf32"
+    ],
+    "name:gpe_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:grn_x_preferred":[
+        "Hong Kong"
     ],
     "name:gsw_x_preferred":[
         "Hongkong"
@@ -296,6 +341,9 @@
         "Hong Kong"
     ],
     "name:hau_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:haw_x_preferred":[
         "Hong Kong"
     ],
     "name:heb_x_preferred":[
@@ -319,14 +367,23 @@
     "name:hye_x_preferred":[
         "\u0540\u0578\u0576\u056f\u0578\u0576\u0563"
     ],
+    "name:hyw_x_preferred":[
+        "\u0540\u0578\u0576\u056f \u0554\u0578\u0576\u056f"
+    ],
     "name:ibo_x_preferred":[
         "Hong Kong"
     ],
     "name:ido_x_preferred":[
         "Hong Kong"
     ],
+    "name:iku_x_preferred":[
+        "\u1473\u1595 \u146d\u1595"
+    ],
     "name:ile_x_preferred":[
         "Hongkong"
+    ],
+    "name:ile_x_variant":[
+        "Hong Kong"
     ],
     "name:ilo_x_preferred":[
         "Hong Kong"
@@ -368,6 +425,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0cbe\u0c82\u0c97\u0ccd \u0c95\u0cbe\u0c82\u0c97\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u06c1\u0627\u0646\u06a9 \u06a9\u0627\u0646\u06af"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10dd\u10dc\u10d2 \u10d9\u10dd\u10dc\u10d2\u10d8"
     ],
@@ -382,6 +442,9 @@
     ],
     "name:kbp_x_preferred":[
         "H\u0254\u014bk\u0254\u014b"
+    ],
+    "name:kcg_x_preferred":[
+        "Hong Kong"
     ],
     "name:khm_x_preferred":[
         "\u17a0\u17bb\u1784\u1780\u17bb\u1784"
@@ -431,6 +494,9 @@
     "name:lit_x_preferred":[
         "Honkongas"
     ],
+    "name:lld_x_preferred":[
+        "Hong Kong"
+    ],
     "name:lmo_x_preferred":[
         "Hong Kong"
     ],
@@ -442,6 +508,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u9999\u6e2f"
+    ],
+    "name:mad_x_preferred":[
+        "Hong Kong"
     ],
     "name:mai_x_preferred":[
         "\u0939\u0919\u0915\u0919"
@@ -476,6 +545,12 @@
     "name:mlt_x_preferred":[
         "\u0126ong Kong"
     ],
+    "name:mlt_x_variant":[
+        "Hong Kong"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcd\uabe3\uabe1 \uabc0\uabe3\uabe1"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u043e\u043d\u0433 \u041a\u043e\u043d\u0433"
     ],
@@ -503,6 +578,9 @@
     "name:nap_x_preferred":[
         "Hong Kong"
     ],
+    "name:nav_x_preferred":[
+        "Sh\u00e1di\u02bc\u00e1\u00e1hj\u00ed Tsii\u02bcyishbizh\u00ed Bikin Haal\u02bc\u00e1"
+    ],
     "name:nds_x_preferred":[
         "Hongkong"
     ],
@@ -511,6 +589,9 @@
     ],
     "name:new_x_preferred":[
         "\u0939\u0919\u0915\u0919"
+    ],
+    "name:nia_x_preferred":[
+        "Hong Kong"
     ],
     "name:nld_x_preferred":[
         "Hongkong"
@@ -533,6 +614,9 @@
     "name:oci_x_preferred":[
         "Hong Kong"
     ],
+    "name:olo_x_preferred":[
+        "Hong Kong"
+    ],
     "name:ori_x_preferred":[
         "\u0b39\u0b02\u0b15\u0b02 \u0b2c\u0b3f\u0b36\u0b47\u0b37 \u0b2a\u0b4d\u0b30\u0b36\u0b3e\u0b38\u0b28\u0b3f\u0b15 \u0b15\u0b4d\u0b37\u0b47\u0b24\u0b4d\u0b30 \u0b1a\u0b40\u0b28\u0b4d"
     ],
@@ -552,6 +636,9 @@
         "Hong Kong"
     ],
     "name:pcd_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:pih_x_preferred":[
         "Hong Kong"
     ],
     "name:pms_x_preferred":[
@@ -584,6 +671,9 @@
     "name:rue_x_preferred":[
         "\u0413\u043e\u043d\u0491 \u041a\u043e\u043d\u0491"
     ],
+    "name:rup_x_preferred":[
+        "Hongkong"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
     ],
@@ -604,6 +694,9 @@
     ],
     "name:sgs_x_preferred":[
         "Huonkuongs"
+    ],
+    "name:shn_x_preferred":[
+        "\u1081\u103d\u1004\u103a\u1038\u1075\u103d\u1004\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0ddc\u0d82\u0d9a\u0ddc\u0d82"
@@ -671,6 +764,9 @@
     "name:tat_x_preferred":[
         "\u04ba\u043e\u04a3 \u041a\u043e\u04a3"
     ],
+    "name:tay_x_preferred":[
+        "Hong kong"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e\u0c02\u0c17\u0c4d \u0c15\u0c3e\u0c02\u0c17\u0c4d"
     ],
@@ -692,8 +788,17 @@
     "name:tir_x_preferred":[
         "\u1206\u1295\u130d \u12ae\u1295\u130d"
     ],
+    "name:tok_x_preferred":[
+        "ma Enkon"
+    ],
     "name:ton_x_preferred":[
         "Hongi Kongi"
+    ],
+    "name:tpi_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:trv_x_preferred":[
+        "Hong Kong"
     ],
     "name:tsn_x_preferred":[
         "Hong Kong"
@@ -702,6 +807,9 @@
         "Gonkong"
     ],
     "name:tur_x_preferred":[
+        "Hong Kong"
+    ],
+    "name:twi_x_preferred":[
         "Hong Kong"
     ],
     "name:uig_x_preferred":[
@@ -1003,7 +1111,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1617827442,
+    "wof:lastmodified":1690930169,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

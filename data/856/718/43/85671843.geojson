@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Tai Po"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d9 \u05e4\u05d5"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\uc774 \ud3ec"
     ],
@@ -219,7 +222,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1636496703,
+    "wof:lastmodified":1690930171,
     "wof:name":"Tai Po",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

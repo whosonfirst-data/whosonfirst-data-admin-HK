@@ -37,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u6df1\u6c34\u30db"
     ],
+    "name:jpn_x_variant":[
+        "\u6df1\u6c34\u57d7"
+    ],
     "name:kor_x_preferred":[
         "\uc0f4 \uc218\uc774 \ud3ec"
     ],
@@ -223,7 +226,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1636496701,
+    "wof:lastmodified":1690930170,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

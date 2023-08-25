@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u063a\u0648\u0646\u063a \u0628\u064a\u0646\u063a"
+    ],
     "name:eng_x_preferred":[
         "Ngong Ping"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:pol_x_preferred":[
         "Ngong Ping"
+    ],
+    "name:vie_x_preferred":[
+        "Ngang B\u00ecnh"
     ],
     "name:wuu_x_preferred":[
         "\u6602\u576a"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421182231,
-    "wof:lastmodified":1566644530,
+    "wof:lastmodified":1690930182,
     "wof:name":"\u6602\u576a",
     "wof:parent_id":85671813,
     "wof:placetype":"locality",

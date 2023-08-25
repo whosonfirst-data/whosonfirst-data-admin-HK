@@ -16,7 +16,13 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Morrison Hill"
+    ],
     "name:eng_x_preferred":[
+        "Morrison Hill"
+    ],
+    "name:nld_x_preferred":[
         "Morrison Hill"
     ],
     "name:und_x_variant":[
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421184551,
-    "wof:lastmodified":1566644524,
+    "wof:lastmodified":1690930181,
     "wof:name":"\u6469\u5229\u81e3\u5c71",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

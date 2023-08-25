@@ -32,6 +32,9 @@
     "name:eus_x_preferred":[
         "Kwai Tsing barrutia"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u06a9\u0648\u0627\u06cc \u062a\u0633\u06cc\u0646\u06af"
+    ],
     "name:fra_x_preferred":[
         "Kwai Tsing"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:hun_x_preferred":[
         "Kvajcheng"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kwai Tsing"
     ],
     "name:jpn_x_preferred":[
         "\u8475\u9752\u533a"
@@ -84,7 +90,8 @@
         "\u06a9\u0648\u0627\u0626\u06cc \u0679\u0633\u0646\u06af"
     ],
     "name:urd_x_variant":[
-        "\u06a9\u0648\u0627\u0626\u06cc \u062a\u0633\u0646\u06af \u0636\u0644\u0639"
+        "\u06a9\u0648\u0627\u0626\u06cc \u062a\u0633\u0646\u06af \u0636\u0644\u0639",
+        "\u0636\u0644\u0639 \u06a9\u06be\u0648\u0626\u06cc \u0686\u06be\u0646\u06af"
     ],
     "name:vie_x_preferred":[
         "Qu\u1ef3 Thanh"
@@ -146,7 +153,7 @@
         }
     ],
     "wof:id":421176659,
-    "wof:lastmodified":1636496705,
+    "wof:lastmodified":1690930182,
     "wof:name":"Kwai Tsing",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",

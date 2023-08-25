@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Tai Po"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d9 \u05e4\u05d5"
+    ],
     "name:kor_x_preferred":[
         "\ub2e4\ud478"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421194835,
-    "wof:lastmodified":1566644494,
+    "wof:lastmodified":1690930173,
     "wof:name":"\u5927\u57d4",
     "wof:parent_id":85671843,
     "wof:placetype":"locality",

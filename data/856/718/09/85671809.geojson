@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Guantang"
     ],
+    "name:deu_x_preferred":[
+        "Kwun Tong"
+    ],
     "name:eng_x_preferred":[
         "Kwun Tong"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:kor_x_variant":[
         "\uad70\ud1b5"
+    ],
+    "name:nob_x_preferred":[
+        "Kwun Tong"
     ],
     "name:swe_x_preferred":[
         "Kwun Tong"
@@ -203,7 +209,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1636496703,
+    "wof:lastmodified":1690930171,
     "wof:name":"Kwun Tong",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

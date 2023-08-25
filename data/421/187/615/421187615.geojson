@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u064a\u0646\u062c \u0649"
+    ],
     "name:ceb_x_preferred":[
         "Tsing Yi"
     ],
@@ -50,6 +53,9 @@
     "name:pol_x_preferred":[
         "Tsing Yi"
     ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043d\u044a\u0438"
+    ],
     "name:spa_x_preferred":[
         "Tsing Yi"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Thanh Y"
+    ],
+    "name:vie_x_variant":[
+        "Thanh"
     ],
     "name:yue_x_preferred":[
         "\u9752\u8863\u5cf6"
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":421187615,
-    "wof:lastmodified":1566644509,
+    "wof:lastmodified":1690930177,
     "wof:name":"\u9752\u8863",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",
