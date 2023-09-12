@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005256,
-    "geom:area_square_m":60119570.602782,
+    "geom:area_square_m":60119570.602825,
     "geom:bbox":"114.13033,22.28229,114.24558,22.35841",
     "geom:latitude":22.321118,
     "geom:longitude":114.190003,
     "iso:country":"HK",
+    "label:eng_x_preferred_longname":[
+        "Kowloon"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":22.3219,
     "lbl:longitude":114.185349,
     "lbl:max_zoom":7.0,
@@ -174,6 +180,8 @@
     "qs:woe_adm0":24865698,
     "qs:woe_id":24703005,
     "src:geom":"hk-gov",
+    "src:population":"wd",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632483
@@ -184,7 +192,7 @@
         "qs_pg:id":1263469
     },
     "wof:country":"HK",
-    "wof:geomhash":"457224cf9207a81352bb89d38a45b52e",
+    "wof:geomhash":"bb4d5b469f35ab1ff9b38f4f71928f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -201,10 +209,12 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644536,
+    "wof:lastmodified":1694493050,
     "wof:name":"Kowloon",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",
+    "wof:population":2108419,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-hk",
     "wof:superseded_by":[],
     "wof:supersedes":[

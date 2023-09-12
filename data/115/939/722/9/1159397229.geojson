@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222855,
-    "geom:area_square_m":2548787472.79311,
+    "geom:area_square_m":2548787472.792551,
     "geom:bbox":"113.81723,22.13672,114.50247,22.56833",
     "geom:latitude":22.341344,
     "geom:longitude":114.186184,
     "iso:country":"HK",
+    "label:eng_x_preferred_longname":[
+        "New Territories Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":22.435987,
     "lbl:longitude":114.324757,
     "lbl:max_zoom":7.0,
@@ -132,6 +138,8 @@
     "qs:woe_adm0":24865698,
     "qs:woe_id":24703004,
     "src:geom":"hk-gov",
+    "src:population":"wd",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632483
@@ -142,7 +150,7 @@
         "qs_pg:id":977112
     },
     "wof:country":"HK",
-    "wof:geomhash":"91612cdacc3da722e7012fb5bde94934",
+    "wof:geomhash":"b188372a208e4955f82ce6c3b23dc46a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,10 +167,12 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1566644536,
+    "wof:lastmodified":1694493050,
     "wof:name":"New Territories",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",
+    "wof:population":3691093,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-hk",
     "wof:superseded_by":[],
     "wof:supersedes":[
