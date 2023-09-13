@@ -172,7 +172,7 @@
     "qs:woe_id":24703007,
     "src:geom":"hk-gov",
     "src:population":"wd",
-    "src:population_year":"2011",
+    "src:population_date":"2011",
     "wof:belongsto":[
         102191569,
         85632483
@@ -200,7 +200,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1694493060,
+    "wof:lastmodified":1694639828,
     "wof:name":"Hong Kong Island",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",

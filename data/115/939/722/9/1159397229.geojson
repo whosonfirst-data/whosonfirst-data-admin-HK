@@ -139,7 +139,7 @@
     "qs:woe_id":24703004,
     "src:geom":"hk-gov",
     "src:population":"wd",
-    "src:population_year":"2011",
+    "src:population_date":"2011",
     "wof:belongsto":[
         102191569,
         85632483
@@ -167,7 +167,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1694493050,
+    "wof:lastmodified":1694639825,
     "wof:name":"New Territories",
     "wof:parent_id":85632483,
     "wof:placetype":"macroregion",
