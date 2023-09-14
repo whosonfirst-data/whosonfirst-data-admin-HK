@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095433,
-    "geom:area_square_m":1091157446.344381,
+    "geom:area_square_m":1091157446.344461,
     "geom:bbox":"113.832779,22.151972,114.441254,22.561907",
     "geom:latitude":22.381131,
     "geom:longitude":114.135572,
@@ -1036,7 +1036,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"wd",
+    "src:population_date":"2021",
     "statoids:dial":"852",
     "statoids:ds":"HK",
     "statoids:fifa":"HKG",
@@ -1094,7 +1095,7 @@
         "hk-gov-reversegeo",
         "quattroshapes"
     ],
-    "wof:geomhash":"aa3f31d7b4e5e48a1d3d788186eb4d79",
+    "wof:geomhash":"86d532a0bd3ee7de4f24774cdd4dac3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1111,12 +1112,12 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930169,
+    "wof:lastmodified":1694639519,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":6898686,
-    "wof:population_rank":13,
+    "wof:population":7413070,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-hk",
     "wof:shortcode":"HK",
     "wof:superseded_by":[],
