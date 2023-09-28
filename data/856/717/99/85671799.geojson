@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000947,
-    "geom:area_square_m":10826649.538023,
+    "geom:area_square_m":10826649.53802,
     "geom:bbox":"114.13033,22.31375,114.17685,22.34862",
     "geom:latitude":22.331892,
     "geom:longitude":114.153466,
@@ -204,11 +204,12 @@
         "qs_pg:id":221557,
         "wd:id":"Q1185317"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"943afc69a892d1eb33ad9630e51350cd",
+    "wof:geomhash":"0ecf1dab683cad7416d6bef03d89a18e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -226,7 +227,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930170,
+    "wof:lastmodified":1695884846,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

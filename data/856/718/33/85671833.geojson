@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016442,
-    "geom:area_square_m":187891295.878013,
+    "geom:area_square_m":187891295.877757,
     "geom:bbox":"113.87423,22.39122,114.1279,22.52317",
     "geom:latitude":22.454064,
     "geom:longitude":114.026625,
@@ -189,11 +189,12 @@
         "hasc:id":"HK.YL",
         "qs_pg:id":1119649
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec35a4a1afac92cce97deb193942a85c",
+    "wof:geomhash":"d7b43433c9f9e8894d033b93c40055a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -211,7 +212,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1636496702,
+    "wof:lastmodified":1695884847,
     "wof:name":"Yuen Long",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

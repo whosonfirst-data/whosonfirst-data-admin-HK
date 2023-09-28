@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008235,
-    "geom:area_square_m":94257703.622989,
+    "geom:area_square_m":94257703.622992,
     "geom:bbox":"114.11011,22.19264,114.30907,22.2756",
     "geom:latitude":22.227959,
     "geom:longitude":114.212005,
@@ -193,11 +193,12 @@
         "hasc:id":"HK.SO",
         "qs_pg:id":1259511
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cb3bd7d1625b4d6967580bb642769a7",
+    "wof:geomhash":"c21415c7910ab3ef827a659e92ffda2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +216,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1636496700,
+    "wof:lastmodified":1695884846,
     "wof:name":"Southern",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000815,
-    "geom:area_square_m":9326099.269296,
+    "geom:area_square_m":9326099.269319,
     "geom:bbox":"114.17946,22.33043,114.22403,22.35841",
     "geom:latitude":22.344022,
     "geom:longitude":114.204178,
@@ -203,11 +203,12 @@
         "qs_pg:id":1137247,
         "wd:id":"Q2548183"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c32088ec76aa4d376bca90709e82bc9",
+    "wof:geomhash":"4a0f9d64ff4e5bd843d2ece4388b2927",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -225,7 +226,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930171,
+    "wof:lastmodified":1695884846,
     "wof:name":"Wong Tai Sin",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

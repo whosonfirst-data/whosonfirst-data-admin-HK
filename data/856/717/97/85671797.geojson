@@ -233,11 +233,12 @@
         "qs_pg:id":1263473,
         "wd:id":"Q1189342"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a23ef08fc1b3b97f269e34cf4d0cd9aa",
+    "wof:geomhash":"10dfe618f96ce2d93acf0f6f7ba3923d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -255,7 +256,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930170,
+    "wof:lastmodified":1695884846,
     "wof:name":"Kowloon City",
     "wof:parent_id":1159397231,
     "wof:placetype":"region",

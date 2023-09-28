@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001082,
-    "geom:area_square_m":12376707.681285,
+    "geom:area_square_m":12376707.681292,
     "geom:bbox":"114.16316,22.25404,114.20717,22.29387",
     "geom:latitude":22.272112,
     "geom:longitude":114.182394,
@@ -230,11 +230,12 @@
         "qs_pg:id":1137245,
         "wd:id":"Q281527"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e956a946c914d25088fa48fa20d94a09",
+    "wof:geomhash":"517d48d494dda79791567c60f5f54883",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -252,7 +253,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930170,
+    "wof:lastmodified":1695884846,
     "wof:name":"Wan Chai",
     "wof:parent_id":1159397233,
     "wof:placetype":"region",
