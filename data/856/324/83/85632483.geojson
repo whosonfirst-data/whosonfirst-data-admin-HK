@@ -1070,6 +1070,7 @@
         "hasc:id":"HK",
         "icao:code":"B-H",
         "ioc:id":"HKG",
+        "iso:code":"HK",
         "iso:id":"CN-HK",
         "itu:id":"HKG",
         "m49:code":"344",
@@ -1080,6 +1081,7 @@
         "wd:id":"Q8646",
         "wmo:id":"HK"
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:parent_id",
         "wof:hierarchy"
@@ -1112,7 +1114,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1694639519,
+    "wof:lastmodified":1695881174,
     "wof:name":"Hong Kong S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

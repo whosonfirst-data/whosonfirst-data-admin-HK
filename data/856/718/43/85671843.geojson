@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029965,
-    "geom:area_square_m":342380894.354626,
+    "geom:area_square_m":342380894.354678,
     "geom:bbox":"114.11194,22.3936,114.45606,22.56813",
     "geom:latitude":22.47679,
     "geom:longitude":114.307999,
@@ -200,11 +200,12 @@
         "qs_pg:id":1310095,
         "wd:id":"Q1758870"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fcfafa473387f8debfc6ffa5fd701d7",
+    "wof:geomhash":"d3cf9a9e038ebbf41f7d6b20d174e514",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -222,7 +223,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930171,
+    "wof:lastmodified":1695884847,
     "wof:name":"Tai Po",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

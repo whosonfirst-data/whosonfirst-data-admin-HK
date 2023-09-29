@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067171,
-    "geom:area_square_m":768480957.677303,
+    "geom:area_square_m":768480957.677142,
     "geom:bbox":"114.22112,22.14846,114.50247,22.46623",
     "geom:latitude":22.297143,
     "geom:longitude":114.38294,
@@ -214,11 +214,12 @@
         "qs_pg:id":1119647,
         "wd:id":"Q1753151"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88f65660335607883826d3dd683e8dd6",
+    "wof:geomhash":"8c270b3511d99feaf52ab0b9f4ac917d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,7 +237,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930172,
+    "wof:lastmodified":1695884847,
     "wof:name":"Sai Kung",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

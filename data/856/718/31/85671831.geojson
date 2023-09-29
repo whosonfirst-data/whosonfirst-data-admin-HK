@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016532,
-    "geom:area_square_m":189033211.881576,
+    "geom:area_square_m":189033211.881553,
     "geom:bbox":"113.86587,22.32435,114.0662,22.4334",
     "geom:latitude":22.377324,
     "geom:longitude":113.949857,
@@ -230,11 +230,12 @@
         "qs_pg:id":1119648,
         "wd:id":"Q1758751"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e416ba36b866db2208c422ac3a45558",
+    "wof:geomhash":"f6037df45b126ffe64b6455660048d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -252,7 +253,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1690930172,
+    "wof:lastmodified":1695884847,
     "wof:name":"Tuen Mun",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004323,
-    "geom:area_square_m":49441696.988747,
+    "geom:area_square_m":49441696.98883,
     "geom:bbox":"114.07243,22.29748,114.14996,22.38452",
     "geom:latitude":22.33631,
     "geom:longitude":114.111301,
@@ -179,11 +179,12 @@
         "hasc:id":"HK.KI",
         "qs_pg:id":221556
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HK",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0b0ee9948df09b6e521b21542b96cc1",
+    "wof:geomhash":"50fdc25ca6169963ef4a52fb2d6dbb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -201,7 +202,7 @@
         "zho",
         "eng"
     ],
-    "wof:lastmodified":1636496703,
+    "wof:lastmodified":1695884847,
     "wof:name":"Kwai Tsing",
     "wof:parent_id":1159397229,
     "wof:placetype":"region",
