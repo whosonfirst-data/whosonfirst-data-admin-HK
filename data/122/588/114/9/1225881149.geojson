@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"114.15945,22.33023,114.15945,22.33023",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sham Shui Po"
@@ -115,12 +117,14 @@
         }
     ],
     "wof:id":1225881149,
-    "wof:lastmodified":1636496705,
+    "wof:lastmodified":1706239760,
     "wof:name":"Sham Shui Po",
     "wof:parent_id":85671799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421185293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
