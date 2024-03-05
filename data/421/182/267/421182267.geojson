@@ -9,6 +9,19 @@
     "geom:bbox":"114.10572,22.358635,114.10572,22.358635",
     "geom:latitude":22.358635,
     "geom:longitude":114.10572,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nga Ying Chau",
+    "gn:country_code":"HK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1819274,
+    "gn:latitude":22.36024,
+    "gn:longitude":114.10729,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Nga Ying Chau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hong_Kong",
     "iso:country":"HK",
     "lbl:bbox":"114.08572,22.338635,114.12572,22.378635",
     "lbl:max_zoom":18.0,
@@ -20,8 +33,18 @@
     "name:eng_x_preferred":[
         "Nga Ying Chau"
     ],
+    "name:und_x_variant":[
+        "Ngan Ying Chau",
+        "Yayingzhou"
+    ],
     "name:zho_hk_x_preferred":[
         "\u7259\u9df9\u6d32"
+    ],
+    "name:zho_x_preferred":[
+        "\u7259\u9df9\u6d32"
+    ],
+    "name:zho_x_variant":[
+        "\u7259\u9e70\u6d32"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -45,13 +68,15 @@
     "wof:belongsto":[
         102191569,
         85632483,
-        1159397229,
-        85671823
+        85671823,
+        1159397229
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1819274,
         "gp:id":24702988,
-        "qs_pg:id":897071
+        "qs_pg:id":897071,
+        "wk:page":"Nga_Ying_Chau"
     },
     "wof:country":"HK",
     "wof:created":1459009324,
@@ -66,13 +91,15 @@
         }
     ],
     "wof:id":421182267,
-    "wof:lastmodified":1601423035,
+    "wof:lastmodified":1706239760,
     "wof:name":"Nga Ying Chau",
     "wof:parent_id":85671823,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310319829
+    ],
     "wof:tags":[]
 },
   "bbox": [
